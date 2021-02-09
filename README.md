@@ -15,6 +15,9 @@ This repo contains the materials for the UVADS residential technical orientation
 6. install VS code
 7. read about UVA resources (library)- [link](https://guides.lib.virginia.edu/datascience)
 
+## Reading
+1. R for Data Science - [link](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar)
+
 ## How to use these materials
 1. Read the README.md
 2. Complete the items on the checklist ignoring flags for "second time"
