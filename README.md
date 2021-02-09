@@ -11,10 +11,11 @@ This repo contains the materials for the UVADS residential technical orientation
 3. computer hardware survey - [link](https://forms.gle/5YAgx272e2nzYMZ36)
 4. install R and Rstudio Desktop - [link](https://rstudio.com/products/rstudio/download/#download)
     * sneads resources
-5. install python something - discuss w/adam/nada/jon
+5. install python something - anaconda
 6. install VS code
 7. log in to rivanna
-8. read about UVA resources (library)- [link](https://guides.lib.virginia.edu/datascience)
+8. write and run hello world in bash,python,r, vscode,jupyter,rstudio,python in terminal
+9. read about UVA resources (library)- [link](https://guides.lib.virginia.edu/datascience)
 
 ## Reading
 1. R for Data Science - [link](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar)
