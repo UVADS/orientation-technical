@@ -2,9 +2,9 @@
 This repo contains the materials for the UVADS residential technical orientation. There is a checklist of items to complete before classes begin. Below the checklist is a guide on how to use the materials. Please note you are advised to make two passes and pay attention to the "first time" / "second time" flags.
 
 ## The Checklist
-1. [ x ] item
-2. [ ] item
-3. [ ] item
+- [ x ] item
+- [ ] item
+- [ ] item
 
 ## How to use these materials
 1. Read the README.md
