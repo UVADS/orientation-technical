@@ -13,7 +13,7 @@ This repo contains the materials for the UVADS residential technical orientation
     * sneads resources
 5. install python something - discuss w/adam/nada/jon
 6. install VS code
-7. read about UVA resources - [link](https://guides.lib.virginia.edu/datascience)
+7. read about UVA resources (library)- [link](https://guides.lib.virginia.edu/datascience)
 
 ## How to use these materials
 1. Read the README.md
