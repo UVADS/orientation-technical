@@ -10,6 +10,7 @@ This repo contains the materials for the UVADS residential technical orientation
 2. create a github account - [link](https://github.com/join)
 3. computer hardware survey - [link](https://forms.gle/5YAgx272e2nzYMZ36)
 4. install R and Rstudio Desktop - [link](https://rstudio.com/products/rstudio/download/#download)
+  * sneads resources
 5. install python something - discuss w/adam/nada/jon
 6. install VS code
 
