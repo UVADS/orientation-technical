@@ -13,7 +13,8 @@ This repo contains the materials for the UVADS residential technical orientation
     * sneads resources
 5. install python something - discuss w/adam/nada/jon
 6. install VS code
-7. read about UVA resources (library)- [link](https://guides.lib.virginia.edu/datascience)
+7. log in to rivanna
+8. read about UVA resources (library)- [link](https://guides.lib.virginia.edu/datascience)
 
 ## Reading
 1. R for Data Science - [link](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar)
