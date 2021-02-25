@@ -17,6 +17,7 @@ This repo contains the materials for the UVADS residential technical orientation
 8. write and run hello world in bash,python,r, vscode,jupyter,rstudio,python in terminal
 9. read about UVA resources (library)- [link](https://guides.lib.virginia.edu/datascience)
 10. terminal work - open a terminal, first commands: pwd,ls,cd,history
+11. hello world - general test program, also save and load in various ways
 
 ## Reading
 1. R for Data Science - [link](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar)
