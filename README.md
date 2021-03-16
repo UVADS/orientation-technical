@@ -23,6 +23,7 @@ This repo contains the materials for the UVADS residential technical orientation
 1. R for Data Science - [link](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar)
 2. 2. Vi on Pi - https://youtu.be/jG7vhMMXagQ
 3. Watch Jurassic Park
+4. https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467
 
 ## How to use these materials
 1. Read the README.md
