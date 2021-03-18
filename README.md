@@ -26,7 +26,7 @@ There will be 7 syncronous sessions delivered via zoom. For details please see t
 
 ## Reading List
 9. [4+1] article by raf
-4. [Value] Watch Jurassic Park - https://en.wikipedia.org/wiki/Jurassic_Park_(film) (128 glorious minutes)
+4. [Value] Watch Jurassic Park - https://en.wikipedia.org/wiki/Jurassic_Park_(film) - (128 glorious minutes)
 9. [Design] - [A whack on the side of the head](https://www.amazon.com/Whack-Side-Head-More-Creative/dp/0446404667) - free from UVA library
 1. [Design] - [Tufte books](https://www.edwardtufte.com/tufte/)
 2. [Systems] - [Hardware Intro](https://www.youtube.com/playlist?list=PLc0No4e8MMEPztUFVdtazgWi7L7pWakfO)
