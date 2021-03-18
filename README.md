@@ -10,7 +10,7 @@
 2. **create** a github account - [link](https://github.com/join)
 3. **complete** computer hardware survey - [link](https://forms.gle/5YAgx272e2nzYMZ36)
 6. **install** VS code
-  * - 10. terminal work - open a terminal, first commands: pwd,ls,cd,history - text editor
+    * 10. terminal work - open a terminal, first commands: pwd,ls,cd,history - text editor
 8. **install** R and Rstudio Desktop - [link](https://rstudio.com/products/rstudio/download/#download)
 9. **install** python something - anaconda
 10. write and run hello world in bash,python,r, vscode,jupyter,rstudio,python in terminal
