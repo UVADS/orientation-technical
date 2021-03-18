@@ -10,12 +10,17 @@
 2. **create** a github account - [link](https://github.com/join)
 3. **complete** computer hardware survey - [link](https://forms.gle/5YAgx272e2nzYMZ36)
 6. **install** VS code
-    * 10. terminal work - open a terminal, first commands: pwd,ls,cd,history - text editor
-8. **install** R and Rstudio Desktop - [link](https://rstudio.com/products/rstudio/download/#download)
-9. **install** python something - anaconda
-10. write and run hello world in bash,python,r, vscode,jupyter,rstudio,python in terminal
-11. read about UVA resources (library)- [link](https://guides.lib.virginia.edu/datascience)
-12. [stretch] rivanna with RC
+    * **learn** the first four terminal commands - [pwd,ls,cd,history]
+    * **use** a terminal text editor - choose one [vi,nano,emacs,etc]
+    * **learn** the PATH environment variable
+8. **install** R and Rstudio Desktop
+    * [installation link](https://rstudio.com/products/rstudio/download/#download)
+    * **confirm** sucessful operation by running a hello world program
+10. **install** python something - anaconda
+11. **write and run** hello world program
+    * bash,python,r,jupyter
+12. read about UVA resources (library)- [link](https://guides.lib.virginia.edu/datascience)
+13. [stretch] rivanna with RC
 
 ## Syncronous Sessions
 There will be 7 syncronous sessions delivered via zoom. For details please see the live session tool in the corresponding collab site for this orientation (link goes here)
@@ -29,6 +34,7 @@ There will be 7 syncronous sessions delivered via zoom. For details please see t
 4. [Value] Watch Jurassic Park - https://en.wikipedia.org/wiki/Jurassic_Park_(film) - (128 glorious minutes)
 9. [Design] - [A whack on the side of the head](https://www.amazon.com/Whack-Side-Head-More-Creative/dp/0446404667) - free from UVA library
 1. [Design] - [Tufte books](https://www.edwardtufte.com/tufte/)
+7. [Systems= - [Hello World Program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 2. [Systems] - [Hardware Intro](https://www.youtube.com/playlist?list=PLc0No4e8MMEPztUFVdtazgWi7L7pWakfO)
 1. [Systems] R for Data Science - [link](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) - free online
 2. [Systems] Python for Data Analysis - [link](https://wesmckinney.com/pages/book.html) - from from UVA library
