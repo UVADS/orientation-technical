@@ -26,8 +26,6 @@ This repo contains the materials for the UVADS residential technical orientation
 2. [Systems] Python for Data Analysis - [link](https://wesmckinney.com/pages/book.html) - from from UVA library
 8. [Analytics] Vi on Pi - https://youtu.be/jG7vhMMXagQ
 5. [Analytics] [ML doesn't matter](https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467)
-6. libguide - https://guides.lib.virginia.edu/datascience
-7. 
 8. [4+1] youtube - triva - https://www.youtube.com/playlist?list=PLc0No4e8MMEP5Gg9Lch3912dRrUEwu97B
 
 ## How to use these materials
@@ -48,3 +46,6 @@ One of these will be a session from the research computing folks about HPC resou
 1. Fork this repo
 2. Complete items on the checklist and mark them as completed
 3. Issue a pull request for any suggested improvements
+
+# Best link for resources - https://guides.lib.virginia.edu/datascience
+
