@@ -9,21 +9,22 @@ This repo contains the materials for the UVADS residential technical orientation
 1. Read this readme file in its entirety
 2. create a github account - [link](https://github.com/join)
 3. computer hardware survey - [link](https://forms.gle/5YAgx272e2nzYMZ36)
+6. install VS code - 10. terminal work - open a terminal, first commands: pwd,ls,cd,history - text editor
 4. install R and Rstudio Desktop - [link](https://rstudio.com/products/rstudio/download/#download)
-    * sneads resources
 5. install python something - anaconda
-6. install VS code
-7. log in to rivanna
 8. write and run hello world in bash,python,r, vscode,jupyter,rstudio,python in terminal
 9. read about UVA resources (library)- [link](https://guides.lib.virginia.edu/datascience)
-10. terminal work - open a terminal, first commands: pwd,ls,cd,history
-11. hello world - general test program, also save and load in various ways
+7. [stretch] rivanna with RC
 
 ## Reading
-1. R for Data Science - [link](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar)
-2. 2. Vi on Pi - https://youtu.be/jG7vhMMXagQ
-3. Watch Jurassic Park
-4. https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467
+1. [R] R for Data Science - [link](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar)
+2. [Python]
+3. [Math] Vi on Pi - https://youtu.be/jG7vhMMXagQ
+4. [Ethics] Watch Jurassic Park - https://en.wikipedia.org/wiki/Jurassic_Park_(film) (128 glorious minutes)
+5. ML doesn't matter - https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467
+6. libguide - https://guides.lib.virginia.edu/datascience
+7. youtube - hello world - https://www.youtube.com/playlist?list=PLc0No4e8MMEPztUFVdtazgWi7L7pWakfO
+8. youtube - triva - https://www.youtube.com/playlist?list=PLc0No4e8MMEP5Gg9Lch3912dRrUEwu97B
 
 ## How to use these materials
 1. Read the README.md
