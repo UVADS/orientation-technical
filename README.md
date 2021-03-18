@@ -21,11 +21,12 @@
     * **attend** - syncronous session @ 3p on 6/17 (thur)
 
 ## Syncronous Sessions
-There will be 7 syncronous sessions delivered via zoom. For details please see the live session tool in the corresponding collab site for this orientation (link goes here)
+There will be 7 syncronous sessions delivered via zoom. For details please see the live session tool in the corresponding collab site for this orientation (link goes here). The subject of the session is tentative and subject to change based on needs of the students (except for the RC session with guests).
 1. kick off and orientation to the orientation
-2. **6/15** 11a,3p
-3. **6/16** 11a,3p
-4. **6/17** 11a,3p (Rivanna orientation with guests from Research Computing)
+2. **Kickoff** - Time TBD, probably 9am 6/15 - 15 min long
+2. **6/15** 11a (items 1,2),3p (3)
+3. **6/16** 11a (4) ,3p (5)
+4. **6/17** 11a (free),3p (Rivanna orientation with guests from Research Computing)
 
 ## Reading List
 9. [4+1] article by raf
