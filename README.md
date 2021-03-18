@@ -35,7 +35,7 @@ There will be 7 syncronous sessions delivered via zoom. For details please see t
 1. kick off and orientation to the orientation
 2. **6/15** 11a,3p
 3. **6/16** 11a,3p
-4. **6/17** 11a,3p
+4. **6/17** 11a,3p (Rivanna orientation with guests from Research Computing)
 
 One of these will be a session from the research computing folks about HPC resources at UVA
 
