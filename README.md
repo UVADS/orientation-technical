@@ -17,8 +17,8 @@ This repo contains the materials for the UVADS residential technical orientation
 7. [stretch] rivanna with RC
 
 ## Reading
-1. [R] R for Data Science - [link](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar)
-2. [Python]
+1. [R] R for Data Science - [link](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) - free online
+2. [Python] Python for Data Analysis - [link](https://wesmckinney.com/pages/book.html) - from from UVA library
 3. [Math] Vi on Pi - https://youtu.be/jG7vhMMXagQ
 4. [Ethics] Watch Jurassic Park - https://en.wikipedia.org/wiki/Jurassic_Park_(film) (128 glorious minutes)
 5. ML doesn't matter - https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467
