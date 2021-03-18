@@ -30,6 +30,14 @@ This repo contains the materials for the UVADS residential technical orientation
 2. Complete the items on the checklist ignoring flags for "second time"
 3. Complete the items on the checklist including flags for "second time"
 
+## Syncronous Sessions
+There will be 7 syncronous sessions delivered via zoom. For details please see the live session tool in the corresponding collab site for this orientation (link goes here)
+1. kick off and orientation to the orientation
+2. **6/15** 11a,3p
+3. **6/16** 11a,3p
+4. **6/17** 11a,3p
+One of these will be a session from the research computing folks about HPC resources at UVA
+
 ## How to use these materials (second time)
 1. Fork this repo
 2. Complete items on the checklist and mark them as completed
