@@ -1,11 +1,6 @@
 # orientation-technical
 **Executive Summary** This repo contains the materials for the UVADS residential technical orientation. Chief of which is a checklist of items to complete before classes begin. Supplemental materials are linked to help complete the checklist. There is also a schedule of syncronys session to help complete the checklist.
 
-## How to use these materials
-1. Read the README.md
-2. Complete the items on the checklist ignoring flags for "second time"
-3. Complete the items on the checklist including flags for "second time"
-
 ## The Checklist
 2. **create** a github account - [link](https://github.com/join)
 3. **complete** computer hardware survey - [link](https://forms.gle/5YAgx272e2nzYMZ36)
