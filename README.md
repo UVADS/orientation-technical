@@ -17,8 +17,10 @@ This repo contains the materials for the UVADS residential technical orientation
 7. [stretch] rivanna with RC
 
 ## Reading
+9. [4+1] article by raf
 4. [Value] Watch Jurassic Park - https://en.wikipedia.org/wiki/Jurassic_Park_(film) (128 glorious minutes)
 9. [Design] - [A whack on the side of the head](https://www.amazon.com/Whack-Side-Head-More-Creative/dp/0446404667) - free from UVA library
+1. [Design] - [Tufte books](https://www.edwardtufte.com/tufte/)
 1. [Systems] R for Data Science - [link](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) - free online
 2. [Systems] Python for Data Analysis - [link](https://wesmckinney.com/pages/book.html) - from from UVA library
 8. [Analytics] Vi on Pi - https://youtu.be/jG7vhMMXagQ
