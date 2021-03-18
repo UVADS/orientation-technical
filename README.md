@@ -17,11 +17,12 @@ This repo contains the materials for the UVADS residential technical orientation
 7. [stretch] rivanna with RC
 
 ## Reading
-1. [R] R for Data Science - [link](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) - free online
-2. [Python] Python for Data Analysis - [link](https://wesmckinney.com/pages/book.html) - from from UVA library
-3. [Math] Vi on Pi - https://youtu.be/jG7vhMMXagQ
-4. [Ethics] Watch Jurassic Park - https://en.wikipedia.org/wiki/Jurassic_Park_(film) (128 glorious minutes)
-5. ML doesn't matter - https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467
+4. [Value] Watch Jurassic Park - https://en.wikipedia.org/wiki/Jurassic_Park_(film) (128 glorious minutes)
+9. [Design] - [A whack on the side of the head](https://www.amazon.com/Whack-Side-Head-More-Creative/dp/0446404667) - free from UVA library
+5. [Analytics] ML doesn't matter - https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467
+1. [Analytics] R for Data Science - [link](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) - free online
+2. [Analytics] Python for Data Analysis - [link](https://wesmckinney.com/pages/book.html) - from from UVA library
+8. [Analytics] Vi on Pi - https://youtu.be/jG7vhMMXagQ
 6. libguide - https://guides.lib.virginia.edu/datascience
 7. youtube - hello world - https://www.youtube.com/playlist?list=PLc0No4e8MMEPztUFVdtazgWi7L7pWakfO
 8. youtube - triva - https://www.youtube.com/playlist?list=PLc0No4e8MMEP5Gg9Lch3912dRrUEwu97B
