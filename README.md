@@ -13,14 +13,17 @@
     * **learn** the first four terminal commands - [pwd,ls,cd,history]
     * **use** a terminal text editor - choose one [vi,nano,emacs,etc]
     * **learn** the PATH environment variable
+    * **confirm** sucessful operation by running a hello world program in BASH (or other shell if you prefer)
 8. **install** R and Rstudio Desktop
     * [installation link](https://rstudio.com/products/rstudio/download/#download)
     * **confirm** sucessful operation by running a hello world program
-10. **install** python something - anaconda
-11. **write and run** hello world program
-    * bash,python,r,jupyter
-12. read about UVA resources (library)- [link](https://guides.lib.virginia.edu/datascience)
-13. [stretch] rivanna with RC
+10. **install** python and jupyter with anaconda
+    * [installation link](https://docs.anaconda.com/anaconda/install/index.html)
+    * **confirm** sucessful operation by running a hello world program (using spyder **and** jupyter)
+13. **familiarize** yourself with the Data Science Lib Guide - [link](https://guides.lib.virginia.edu/datascience)
+14. **learn** about High Performance Computing at UVA
+    * **read** - rc.virginia.edu
+    * **attend** - syncronous session @ 3p on 6/17 (thur)
 
 ## Syncronous Sessions
 There will be 7 syncronous sessions delivered via zoom. For details please see the live session tool in the corresponding collab site for this orientation (link goes here)
