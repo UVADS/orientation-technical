@@ -22,7 +22,7 @@ This repo contains the materials for the UVADS residential technical orientation
 1. [Systems] R for Data Science - [link](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) - free online
 2. [Systems] Python for Data Analysis - [link](https://wesmckinney.com/pages/book.html) - from from UVA library
 8. [Analytics] Vi on Pi - https://youtu.be/jG7vhMMXagQ
-5. [Analytics] ML doesn't matter - https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467
+5. [Analytics] [ML doesn't matter](https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467)
 6. libguide - https://guides.lib.virginia.edu/datascience
 7. youtube - hello world - https://www.youtube.com/playlist?list=PLc0No4e8MMEPztUFVdtazgWi7L7pWakfO
 8. [4+1] youtube - triva - https://www.youtube.com/playlist?list=PLc0No4e8MMEP5Gg9Lch3912dRrUEwu97B
