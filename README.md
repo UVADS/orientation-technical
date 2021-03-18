@@ -7,15 +7,15 @@
 3. Complete the items on the checklist including flags for "second time"
 
 ## The Checklist
-1. Read this readme file in its entirety
-2. create a github account - [link](https://github.com/join)
-3. computer hardware survey - [link](https://forms.gle/5YAgx272e2nzYMZ36)
-6. install VS code - 10. terminal work - open a terminal, first commands: pwd,ls,cd,history - text editor
-4. install R and Rstudio Desktop - [link](https://rstudio.com/products/rstudio/download/#download)
-5. install python something - anaconda
-8. write and run hello world in bash,python,r, vscode,jupyter,rstudio,python in terminal
-9. read about UVA resources (library)- [link](https://guides.lib.virginia.edu/datascience)
-7. [stretch] rivanna with RC
+2. **create** a github account - [link](https://github.com/join)
+3. **complete** computer hardware survey - [link](https://forms.gle/5YAgx272e2nzYMZ36)
+6. **install** VS code
+  * - 10. terminal work - open a terminal, first commands: pwd,ls,cd,history - text editor
+8. **install** R and Rstudio Desktop - [link](https://rstudio.com/products/rstudio/download/#download)
+9. **install** python something - anaconda
+10. write and run hello world in bash,python,r, vscode,jupyter,rstudio,python in terminal
+11. read about UVA resources (library)- [link](https://guides.lib.virginia.edu/datascience)
+12. [stretch] rivanna with RC
 
 ## Syncronous Sessions
 There will be 7 syncronous sessions delivered via zoom. For details please see the live session tool in the corresponding collab site for this orientation (link goes here)
