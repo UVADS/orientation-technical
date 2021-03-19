@@ -42,9 +42,10 @@ There will be 7 syncronous sessions delivered via zoom. For details please see t
 5. [Analytics] [ML doesn't matter](https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467)
 8. [4+1] youtube - triva - https://www.youtube.com/playlist?list=PLc0No4e8MMEP5Gg9Lch3912dRrUEwu97B
 
-## How to use these materials (second time)
+## How to submit feedback
+I love getting feed back. Here is how you can submit it.
 1. Fork this repo
-2. Complete items on the checklist and mark them as completed
+2. work on your fork
 3. Issue a pull request for any suggested improvements
 
 ## Best link for resources  
