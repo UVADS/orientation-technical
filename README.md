@@ -35,6 +35,7 @@ There will be 7 syncronous sessions delivered via zoom. For details please see t
 1. [Design] - [Tufte books](https://www.edwardtufte.com/tufte/) ([UVA Library](https://search.lib.virginia.edu/search?mode=advanced&q=author%3A%20%7BEdward%20Tufte%7D&pool=uva_library))
 7. [Systems] - [Hello World Program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 2. [Systems] - [Hardware Intro](https://www.youtube.com/playlist?list=PLc0No4e8MMEPztUFVdtazgWi7L7pWakfO)
+8. [Systems] - [Bryan Wright computer facilities lessons](http://galileo.phys.virginia.edu/compfac/courses/)
 1. [Systems] R for Data Science - ([UVA Library](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) // [free online](https://r4ds.had.co.nz/))
 2. [Systems] Python for Data Analysis - ([UVA library](https://learning.oreilly.com/library/view/python-for-data/9781491957653/?ar) // [online](https://wesmckinney.com/pages/book.html))
 8. [Analytics] Vi on Pi - https://youtu.be/jG7vhMMXagQ
