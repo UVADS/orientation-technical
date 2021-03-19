@@ -22,7 +22,6 @@
 
 ## Syncronous Sessions
 There will be 7 syncronous sessions delivered via zoom. For details please see the live session tool in the corresponding collab site for this orientation (link goes here). The subject of the session is tentative and subject to change based on needs of the students (except for the RC session with guests).
-1. kick off and orientation to the orientation
 2. **Kickoff** - Time TBD, probably 9am 6/15 - 15 min long
 2. **6/15** 11a (items 1,2),3p (3)
 3. **6/16** 11a (4) ,3p (5)
