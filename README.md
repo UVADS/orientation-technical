@@ -48,9 +48,9 @@ I love getting feed back. Here is how you can submit it.
 2. work on your fork
 3. Issue a pull request for any suggested improvements
 
-## Best link for resources  
-[UVA Library Data Science Library Research Guide](https://guides.lib.virginia.edu/datascience).  What you will find there:
+## Best link for resources [UVA Library Data Science Library Research Guide](https://guides.lib.virginia.edu/datascience).
 
+Inside you will find:
 * UVA Library 101
 * Finding background documents for your data science projects
 * Research Data Services, and more
