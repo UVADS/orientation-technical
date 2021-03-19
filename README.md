@@ -15,7 +15,7 @@
 10. **install** python and jupyter with anaconda
     * [installation link](https://docs.anaconda.com/anaconda/install/index.html)
     * **confirm** sucessful operation by running a hello world program (using spyder **and** jupyter)
-13. **familiarize** yourself with the Data Science Lib Guide - [link](https://guides.lib.virginia.edu/datascience)
+13. **familiarize** yourself with the Data Science Library Research Guide - [link](https://guides.lib.virginia.edu/datascience)
 14. **learn** about High Performance Computing at UVA
     * **read** - rc.virginia.edu
     * **attend** - syncronous session @ 3p on 6/17 (thur)
@@ -31,12 +31,12 @@ There will be 7 syncronous sessions delivered via zoom. For details please see t
 ## Reading List
 9. [4+1] article by raf
 4. [Value] Watch Jurassic Park - https://en.wikipedia.org/wiki/Jurassic_Park_(film) - (128 glorious minutes) ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
-9. [Design] - [A whack on the side of the head](https://www.amazon.com/Whack-Side-Head-More-Creative/dp/0446404667) - free from UVA library
-1. [Design] - [Tufte books](https://www.edwardtufte.com/tufte/)
+9. [Design] - [A whack on the side of the head](https://www.amazon.com/Whack-Side-Head-More-Creative/dp/0446404667) - ([UVA library](https://search.lib.virginia.edu/search?mode=advanced&q=title%3A%20%7BA%20Whack%20on%20the%20Side%20of%20the%20Head%3A%20How%20You%20Can%20Be%20More%20Creative%7D%20AND%20author%3A%20%7BOech%7D&pool=uva_library))
+1. [Design] - [Tufte books](https://www.edwardtufte.com/tufte/) ([UVA Library](https://search.lib.virginia.edu/search?mode=advanced&q=author%3A%20%7BEdward%20Tufte%7D&pool=uva_library))
 7. [Systems] - [Hello World Program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 2. [Systems] - [Hardware Intro](https://www.youtube.com/playlist?list=PLc0No4e8MMEPztUFVdtazgWi7L7pWakfO)
-1. [Systems] R for Data Science - [link](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) - free online
-2. [Systems] Python for Data Analysis - [link](https://wesmckinney.com/pages/book.html) - from from UVA library
+1. [Systems] R for Data Science - ([UVA Library](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) // [free online](https://r4ds.had.co.nz/))
+2. [Systems] Python for Data Analysis - ([UVA library](https://learning.oreilly.com/library/view/python-for-data/9781491957653/?ar) // [online](https://wesmckinney.com/pages/book.html))
 8. [Analytics] Vi on Pi - https://youtu.be/jG7vhMMXagQ
 5. [Analytics] [ML doesn't matter](https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467)
 8. [4+1] youtube - triva - https://www.youtube.com/playlist?list=PLc0No4e8MMEP5Gg9Lch3912dRrUEwu97B
@@ -46,4 +46,9 @@ There will be 7 syncronous sessions delivered via zoom. For details please see t
 2. Complete items on the checklist and mark them as completed
 3. Issue a pull request for any suggested improvements
 
-# Best link for resources - https://guides.lib.virginia.edu/datascience
+## Best link for resources  
+[UVA Library Data Science Library Research Guide](https://guides.lib.virginia.edu/datascience).  What you will find there:
+
+* UVA Library 101
+* Finding background documents for your data science projects
+* Research Data Services, and more
