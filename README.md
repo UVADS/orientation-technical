@@ -26,7 +26,7 @@ There will be 7 syncronous sessions delivered via zoom. For details please see t
 1. **Kickoff** - Time TBD, probably 9am 6/15 - 15 min long
 2. **6/15** 11a (items 1,2),3p (3)
 3. **6/16** 11a (4) ,3p (5)
-4. **6/17** 11a (free),3p (Rivanna orientation with guests from Research Computing)
+4. **6/17** 11a (free),3p (Rivanna orientation with guests from Research Computing - [flyer](https://github.com/UVADS/orientation-technical/blob/main/SDS%20event%20flyer%20FINAL.pdf))
 
 ## Reading List
 9. [4+1] article by raf
