@@ -15,10 +15,14 @@
 ![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/developer-profile-markedup.png)
 ![]()
 
-## Exercise - Data Science Thinking Time
+# Exercise - Data Science Thinking Time
+
 * Look at this github profile - https://github.com/alonzi
+
+## Let's look at the commit graphic
 ![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/petes-commits.png)
 
+## Now take a swing at these questions
 ### What questions can we learn from this data? (category 1)
 ### What questions can we not answer from this data? (category 2)
 ### What additional data can we gather to move questions from category 2 to category 1?
