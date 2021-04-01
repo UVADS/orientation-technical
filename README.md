@@ -22,7 +22,7 @@
 13. **familiarize** yourself with the Data Science Library Research Guide - [link](https://guides.lib.virginia.edu/datascience)
 14. **learn** about High Performance Computing at UVA
     * **read** - rc.virginia.edu
-    * **attend** - syncronous session @ 3p on 6/17 (thur) - [flyer](https://github.com/UVADS/orientation-technical/blob/main/SDS%20event%20flyer%20FINAL.pdf)
+    * **attend** - syncronous session @ 3p on 6/17 (thur) - [flyer](https://github.com/UVADS/orientation-technical/blob/88bfaea6197d0ac0174f517b46b1a21e70a01507/SDS%20event%20flyer%20FINAL.pdf)
 
 ## Syncronous Sessions
 There will be 7 syncronous sessions delivered via zoom. For details please see the live session tool in the corresponding collab site for this orientation (link goes here). The subject of the session is tentative and subject to change based on needs of the students (except for the RC session with guests).
