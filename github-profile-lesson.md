@@ -8,6 +8,10 @@
 
 ## Let's look at a github profile
 ![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/developer-profile.png)
+## Let's breakdown a github profile
+* Black Box - contact info
+* Blue Box - Repositories you choose to highlight (aka 'pin')
+* Red Box - WARNING!!! mostly vanity!!! Will Disscuss later!!!
 ![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/developer-profile-markedup.png)
 ![]()
 
