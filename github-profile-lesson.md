@@ -31,6 +31,11 @@
 ### What additional data can we gather to make our answers to category 1 questions more accurate?
 
 
+# Conclusions, Homework, and Takeaways
+* NB: Github is constantly improving the website, sometimes things move
+* Get used to looking at people's github profiles, but don't get sucked into traps, and ...
+* If you find yourself discouraged or uncomfortable
+
 ## Reading List
 * https://en.wikipedia.org/wiki/Git
 * https://en.wikipedia.org/wiki/GitHub
