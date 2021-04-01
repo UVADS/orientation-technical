@@ -11,13 +11,15 @@
 ## Let's breakdown a github profile
 * Black Box - contact info
 * Blue Box - Repositories you choose to highlight (aka 'pin')
-* Red Box - WARNING!!! mostly vanity!!! Will Disscuss later!!!
+* Red Box - WARNING!!! Will Disscuss later!!!
 ![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/developer-profile-markedup.png)
+
+## Here is a collage of some more profiles
 ![]()
 
 # Exercise - Data Science Thinking Time
 
-* Look at this github profile - https://github.com/alonzi
+* Look at this github profile - https://github.com/alonzi - I will be our guinea pig
 
 ## Let's look at the commit graphic
 ![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/petes-commits.png)
