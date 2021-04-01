@@ -21,7 +21,7 @@
 
 * Look at this github profile - https://github.com/alonzi - I will be our guinea pig
 
-## Let's look at the commit graphic
+## Now focus on the commit graphic
 ![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/petes-commits.png)
 
 ## Now take a swing at these questions
