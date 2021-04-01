@@ -1,6 +1,9 @@
 # Github Profiles 101
 **Executive Summary:** This Document is the lesson plan for the github profiles. We will explore the github profile. Talk about the main features and how to use it. And finish with an exercise in data science thinking.
 
+## Main takeaway: Github is a social media platform
+Put yourself on high-alert and remember all of the pitfals of social media lurk just under the surface on github.
+
 ## Reminder of Definitions
 1. Git is a version control software program
 2. GitHub is a subsidiar of Microsoft and therefore is a for profit company
@@ -32,9 +35,11 @@
 
 
 # Conclusions, Homework, and Takeaways
-* NB: Github is constantly improving the website, sometimes things move
-* Get used to looking at people's github profiles, but don't get sucked into traps, and ...
-* If you find yourself discouraged or uncomfortable
+* **NB:** Github is constantly improving the website, sometimes things move
+* Get used to looking at people's github profiles, but don't get sucked into traps (it is just more social media)
+* Like facebook and other social media: people's profiles can cause: discouragement, discomfort,  intimidation. This is a challenge and is complex. Keep your sheilds up and head on a swivel. Have a friend to talk to and I am always available.
+
+
 
 ## Reading List
 * https://en.wikipedia.org/wiki/Git
