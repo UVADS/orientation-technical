@@ -7,13 +7,13 @@
 3. github.com is a website and serves as the front end for all GUI services
 
 ## Let's look at a github profile
-![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/developer-profile.png) - hadley
-![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/developer-profile-markedup.png) - hadley markup
-![]() - collage
+![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/developer-profile.png)
+![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/developer-profile-markedup.png)
+![]()
 
 ## Exercise - Data Science Thinking Time
 * Look at this github profile - https://github.com/alonzi
-![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/petes-commits.png) - do some data science on the commit graphic
+![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/petes-commits.png)
 
 ### What questions can we learn from this data? (category 1)
 ### What questions can we not answer from this data? (category 2)
