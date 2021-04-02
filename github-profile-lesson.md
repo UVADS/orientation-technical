@@ -32,7 +32,7 @@ Put yourself on high-alert and remember all of the pitfals of social media lurk 
 ### What questions can we not answer from this data? (category 2)
 ### What additional data can we gather to move questions from category 2 to category 1?
 ### What additional data can we gather to make our answers to category 1 questions more accurate?
-
+### How can you use this presentation of your personal data to your advantage?
 
 # Conclusions, Homework, and Takeaways
 * **NB:** Github is constantly improving the website, sometimes things move
