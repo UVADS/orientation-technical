@@ -60,3 +60,7 @@ Inside you will find:
 * UVA Library 101
 * Finding background documents for your data science projects
 * Research Data Services, and more
+
+
+## Late requests from professor to be incorperated if there is time
+* from Porter: latex,overleaf,RMarkdown (probably should do markdown first says pete, latex likely out of scope)
