@@ -47,6 +47,8 @@ There will be 7 syncronous sessions delivered via zoom. For details please see t
 14. [Analytics] [ML doesn't matter](https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467)
 15. [Analytics] [The most useful plot you will ever see](https://matplotlib.org/stable/gallery/showcase/anatomy.html)
 16. [4+1] youtube - triva - https://www.youtube.com/playlist?list=PLc0No4e8MMEP5Gg9Lch3912dRrUEwu97B
+17. code review people focus https://phauer.com/2018/code-review-guidelines/
+18. code review code focus https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/
 
 ## How to submit feedback
 I love getting feed back. Here is how you can submit it.
