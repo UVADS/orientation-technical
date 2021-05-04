@@ -6,6 +6,7 @@
 **Executive Summary** This repo contains the materials for the UVADS residential technical orientation. Chief of which is a checklist of items to complete before classes begin. Supplemental materials are linked to help complete the checklist. There is also a schedule of syncronys session to help complete the checklist.
 
 ## The Checklist
+1. **watch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 1. **create** a github account - [link](https://github.com/join)
 3. **complete** computer hardware survey - [link](https://forms.gle/5YAgx272e2nzYMZ36)
 6. **install** VS code
@@ -23,6 +24,7 @@
 14. **learn** about High Performance Computing at UVA
     * **read** - rc.virginia.edu
     * **attend** - syncronous session @ 3p on 6/17 (thur) - [flyer](https://github.com/UVADS/orientation-technical/blob/88bfaea6197d0ac0174f517b46b1a21e70a01507/SDS%20event%20flyer%20FINAL.pdf)
+1. **rewatch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 
 ## Syncronous Sessions
 There will be 7 syncronous sessions delivered via zoom. For details please see the live session tool in the corresponding collab site for this orientation (link goes here). The subject of the session is tentative and subject to change based on needs of the students (except for the RC session with guests).
@@ -33,7 +35,9 @@ There will be 7 syncronous sessions delivered via zoom. For details please see t
 4. **6/17** 11a (free),3p (Rivanna orientation with guests from Research Computing - [flyer](https://github.com/UVADS/orientation-technical/blob/main/SDS%20event%20flyer%20FINAL.pdf))
 
 ## Reading List
-1. [4+1] article by raf
+This reading list is in the tradition of old. It is a collection of good resources. The goal isn't to read or memorize everything in this list. The goal is to give starting points for exploration. You are encouraged to pick something and see where it leads. Have conversations about it. Pull on the thread. The brackets at the beginning of each item indicate the rough alignment to the 4+1 model. Systems, Analytics, Value, Design + Practice.
+
+1. [4+1] email Professor Alvarado for his article on the 4+1 model.
 4. [Value] Watch Jurassic Park - [wiki](https://en.wikipedia.org/wiki/Jurassic_Park_(film)) - (128 glorious minutes) ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 5. [Value] Code review for humans - [link](https://phauer.com/2018/code-review-guidelines/)
 9. [Design] - [A whack on the side of the head](https://www.amazon.com/Whack-Side-Head-More-Creative/dp/0446404667) - ([UVA library](https://search.lib.virginia.edu/search?mode=advanced&q=title%3A%20%7BA%20Whack%20on%20the%20Side%20of%20the%20Head%3A%20How%20You%20Can%20Be%20More%20Creative%7D%20AND%20author%3A%20%7BOech%7D&pool=uva_library))
@@ -51,10 +55,12 @@ There will be 7 syncronous sessions delivered via zoom. For details please see t
 18. code review code focus https://www.ibm.com/developerworks/rational/library/11-proven-practices-for-peer-review/
 
 ## How to submit feedback
-I love getting feed back. Here is how you can submit it.
+I love getting feedback. Here is how you can submit it.
 1. Fork this repo
 2. work on your fork
 3. Issue a pull request for any suggested improvements
+
+Alternatively you can submit and issue on the repository.
 
 ## Best link for resources [UVA Library Data Science Library Research Guide](https://guides.lib.virginia.edu/datascience).
 
@@ -62,7 +68,3 @@ Inside you will find:
 * UVA Library 101
 * Finding background documents for your data science projects
 * Research Data Services, and more
-
-
-## Late requests from professor to be incorperated if there is time
-* from Porter: latex,overleaf,RMarkdown (probably should do markdown first says pete, latex likely out of scope)
