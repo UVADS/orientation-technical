@@ -2,7 +2,7 @@
 **Executive Summary** This repo contains the materials for the UVADS residential technical orientation. Chief of which is a checklist of items to complete before classes begin. Supplemental materials are linked to help complete the checklist. There is also a schedule of syncronys session to help complete the checklist.
 
 ## The Checklist
-1. **watch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
+0. **watch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 1. **create** a github account - [link](https://github.com/join)
 3. **complete** computer hardware survey - [link](https://forms.gle/5YAgx272e2nzYMZ36)
 6. **install** VS code
