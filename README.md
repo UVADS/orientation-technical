@@ -7,7 +7,7 @@
 3. **complete** computer hardware survey - [link](https://forms.gle/5YAgx272e2nzYMZ36)
 6. **install** VS code
     * **learn** the first four terminal commands - [pwd,ls,cd,history]
-    * **use** a terminal text editor - choose one [vi,nano,emacs,etc]
+    * **use** a terminal text editor - choose one [vi,nano,emacs,etc.]
     * **learn** the PATH environment variable
     * **confirm** sucessful operation by running a hello world program in BASH (or other shell if you prefer)
 8. **install** R and Rstudio Desktop
