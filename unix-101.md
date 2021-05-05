@@ -48,7 +48,6 @@ Put yourself on high-alert and remember all of the pitfals of social media lurk 
 
 ## Reading List
 This list is initially populated with wikipedia articles. The goal of the exercise for the students is to improve this list. When you find something better make a pull request and improve the list.
-* https://en.wikipedia.org/wiki/Git
-* https://en.wikipedia.org/wiki/GitHub
-* https://en.wikipedia.org/wiki/Graphical_user_interface
-* https://en.wikipedia.org/wiki/Command-line_interface
+* http://galileo.phys.virginia.edu/compfac/courses/sysadmin1/
+    * http://galileo.phys.virginia.edu/compfac/courses/geek-hours/shell.html
+* 
