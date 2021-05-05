@@ -1,5 +1,5 @@
 # Unix 101
-**Executive Summary:** This Document is the lesson plan for unix. We will teach using 'Bash' the Bourne Again Shell (Bash). We will explore how to get access to Bash and the first commands a user commonly encounters.
+**Executive Summary:** This Document is the lesson plan for unix. We will teach using 'Bash' (Bourne Again Shell). We will explore how to get access to a Bash terminal regardless of operating system. And then the first commands a user commonly encounters.
 
 ## Main takeaway: Github is a social media platform
 Put yourself on high-alert and remember all of the pitfals of social media lurk just under the surface on github.
