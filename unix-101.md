@@ -12,6 +12,7 @@ Put yourself on high-alert and remember all of the pitfals of social media lurk 
 
 ## History of Unix
 ![](https://github.com/UVADS/orientation-technical/blob/e89f6cb5c7eb9882cfeac30a1417fe29279c700e/images/image5.png)
+Source: http://galileo.phys.virginia.edu/compfac/courses/geek-hours/shell.html credit Bryan Wright
 
 ## Let's look at a github profile
 ![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/developer-profile.png)
