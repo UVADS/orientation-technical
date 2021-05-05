@@ -27,10 +27,7 @@ Wikipedia puts it extremely well
 
 
 # Conclusions, Homework, and Takeaways
-* **NB:** Github is constantly improving the website, sometimes things move
-* Get used to looking at people's github profiles, but don't get sucked into traps (it is just more social media)
-* Like facebook and other social media: people's profiles can cause: discouragement, discomfort,  intimidation. This is a challenge and is complex. Keep your sheilds up and head on a swivel. Have a friend to talk to and I am always available.
-* Explain to a curious person how github is really just social media.
+* When you are setting up a system in this orientation (bash,python,R) or in the future. The first program you run should be 'hello world'
 
 
 
