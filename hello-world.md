@@ -20,10 +20,24 @@ Wikipedia puts it extremely well
 * Once the habit of using 'hello world' is established then in new locations it gives you a sense of orientation.
 
 
-## Environments
+## Contemporary Environments
 * BASH - `echo 'hello world'`
 * python - `print('hello world')`
 * R - `print('hello world')`
+
+## Old School Environment Example - 6502 Assembly
+`* = $C000       ;set the initial memory address
+CHROUT = $FFD2  ;set the address for the character out subroutine
+         LDY #$00 
+LOOP     LDA HELLO, Y 
+         CMP #$00
+         BEQ END 
+         JSR CHROUT 
+         INY 
+         BNE LOOP 
+END      RTS
+HELLO    ASC 'HELLO, WORLD.' ; PETSCII
+HELLOEND DFB 0 ; zero byte to mark the end of the string `
 
 
 # Conclusions, Homework, and Takeaways
