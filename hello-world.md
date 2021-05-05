@@ -26,7 +26,8 @@ Wikipedia puts it extremely well
 * R - `print('hello world')`
 
 ## Old School Environment Example - 6502 Assembly
-`* = $C000       ;set the initial memory address
+```
+* = $C000       ;set the initial memory address
 
 CHROUT = $FFD2  ;set the address for the character out subroutine
 
@@ -49,7 +50,7 @@ END      RTS
 HELLO    ASC 'HELLO, WORLD.' ; PETSCII
 
 HELLOEND DFB 0 ; zero byte to mark the end of the string
-`
+```
 
 
 # Conclusions, Homework, and Takeaways
