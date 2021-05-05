@@ -15,7 +15,10 @@ Put yourself on high-alert and remember all of the pitfals of social media lurk 
 
 ## History of Unix
 ![](https://github.com/UVADS/orientation-technical/blob/e89f6cb5c7eb9882cfeac30a1417fe29279c700e/images/image5.png)
+
 Source: http://galileo.phys.virginia.edu/compfac/courses/geek-hours/shell.html credit Bryan Wright
+
+**NB**: MacOS is off the Unix family tree
 
 ## Getting Started BASH
 Now that you have the background, it is time to get your machine set up with BASH. The first step is the software. Here are instructions depending on your platform:
