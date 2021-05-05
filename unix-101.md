@@ -31,6 +31,29 @@ Now that you have the background, it is time to get your machine set up with BAS
 * Windows: Unfortunately, BASH is not necessarily native on a Windows machine. Install VSCode (see item 3 on checklist). Open a terminal (Ctrl+Shift+`) 
 
 ## First Commands
+Bash is a CLI. To do anything you must input a command and often some additional parameters. The challenge is how to learn those commands in the first place. Here is the workflow to start with.
+
+1. type a command
+2. press the enter key
+3. read the output the computer prints back to you
+
+Let's dig in ....
+
+### pwd
+This command stands for 'print working directory'. A working directory is the location in the operating systems file structure where commands will operate from. By analogy if you asked someone where they are they may say something like "1600 Pennsylvania Ave". In that way when you say to the computer 'pwd' it will say it's location.
+
+Example
+![](https://github.com/UVADS/orientation-technical/blob/a91aca54ec7a63e4775d8c5c62e52a4dcc4e69a0/images/pwd.png)
+
+### ls
+The next thing you may want to know is what files are in the working directory. The 'ls' command stands for 'list'. By analogy if you asked someone what do you see in front of you they may say "The White House". In that way when you say to the computer 'ls' it will list 'what it sees' at that location.
+
+Example
+![](https://github.com/UVADS/orientation-technical/blob/c51f30d1f43aa5bb043a2ed9b02edd006b6bf581/images/ls.png)
+
+### cd
+
+### history
 
 ## Editing a File
 
