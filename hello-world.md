@@ -9,7 +9,7 @@ supports items 3,4,5
 
 ## Reminder of Definitions
 1. 'hello world' - a type of program, characterized by minimum overhead to demonstrate a system is set up and functional
-2. system - for example a programming environment. for example python
+2. system - for example a programming environment. for example python, on a specific deployment. eg python on your laptop is different from python on a super computer.
 
 ## "hello world" .... what is it good for?
 Wikipedia puts it extremely well
@@ -21,11 +21,13 @@ Wikipedia puts it extremely well
 
 
 ## Contemporary Environments
+In this orientation we will cover the three most commonly used environments in the MSDS program: BASH, python, and R. Here is 'hello world' program in each language.
 * BASH - `echo 'hello world'`
 * python - `print('hello world')`
 * R - `print('hello world')`
 
 ## Old School Environment Example - 6502 Assembly
+For context this is what it used to look like back in the day.
 ```
 * = $C000       ;set the initial memory address
 
