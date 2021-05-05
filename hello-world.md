@@ -1,8 +1,4 @@
-
-supports items 3,4,5
-
-
-# Github Profiles 101
+# hello world
 **Executive Summary:** This Document is the lesson plan for the most important system configuration diagnostic tool. We will explore the program 'hello world'.
 
 ## Main takeaway: If you can run 'hello world' your system is set up.
