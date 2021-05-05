@@ -17,14 +17,14 @@ Wikipedia puts it extremely well
 
 * In this orientation we are going to be setting up resources and the goal is to finish with the ability to run 'hello world'.
 * The second thing that it does is provide a beachhead. When you encounter a new computer environment by running 'hello world' a person has established the base upon which to build their foundation.
+* Once the habit of using 'hello world' is established then in new locations it gives you a sense of orientation.
 
 
-## Now take a swing at these questions
-### What questions can we learn from this data? (category 1)
-### What questions can we not answer from this data? (category 2)
-### What additional data can we gather to move questions from category 2 to category 1?
-### What additional data can we gather to make our answers to category 1 questions more accurate?
-### How can you use this presentation of your personal data to your advantage?
+## Environments
+* BASH - `echo 'hello world'`
+* python
+* R
+
 
 # Conclusions, Homework, and Takeaways
 * **NB:** Github is constantly improving the website, sometimes things move
