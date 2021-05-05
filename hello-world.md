@@ -15,7 +15,8 @@ supports items 3,4,5
 Wikipedia puts it extremely well
 > A "Hello, World!" program generally is a computer program that outputs or displays the message "Hello, World!". Such a program is very simple in most programming languages, and is often used to illustrate the basic syntax of a programming language. It is often the first program written by people learning to code.[1][2] It can also be used as a sanity test to make sure that a computer language is correctly installed, and that the operator understands how to use it.
 
-In this orientation we are going to be setting up resources and the goal is to finish with the ability to run 'hello world'
+* In this orientation we are going to be setting up resources and the goal is to finish with the ability to run 'hello world'.
+* The second thing that it does is provide a beachhead. When you encounter a new computer environment by running 'hello world' a person has established the base upon which to build their foundation.
 
 
 ## Now take a swing at these questions
