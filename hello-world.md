@@ -54,6 +54,7 @@ It's great to be alive today. Reflect on how lucky you are. (This example is fro
 # Conclusions, Homework, and Takeaways
 * When you are setting up a system in this orientation (bash,python,R) or in the future. The first program you run should be 'hello world'.
 * Running 'hello world' is a concrete task you can accomplish with minimal overhead. It provides a jump off point for further operations and helps to orient you to the new system.
+* Explain to a curious person what 'hello world' is and why it is useful.
 
 ## Reading List
 This list is initially populated with wikipedia articles. The goal of the exercise for the students is to improve this list. When you find something better make a pull request and improve the list.
