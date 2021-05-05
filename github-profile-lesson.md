@@ -4,7 +4,7 @@
 ## Main takeaway: Github is a social media platform
 Put yourself on high-alert and remember all of the pitfals of social media lurk just under the surface on github.
 
-## Reminder of Definitions
+## Definitions
 1. Git is a version control software program
 2. GitHub is a subsidiar of Microsoft and therefore is a for profit company
 3. github.com is a website and serves as the front end for all GUI services
