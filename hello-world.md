@@ -49,7 +49,7 @@ HELLO    ASC 'HELLO, WORLD.' ; PETSCII
 
 HELLOEND DFB 0 ; zero byte to mark the end of the string
 ```
-
+It's great to be alive today. Reflect on how lucky you are.
 
 # Conclusions, Homework, and Takeaways
 * When you are setting up a system in this orientation (bash,python,R) or in the future. The first program you run should be 'hello world'
