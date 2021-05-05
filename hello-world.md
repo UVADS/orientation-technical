@@ -5,31 +5,14 @@ supports items 3,4,5
 # Github Profiles 101
 **Executive Summary:** This Document is the lesson plan for the most important system configuration diagnostic tool. We will explore the program 'hello world'.
 
-## Main takeaway: Github is a social media platform
-Put yourself on high-alert and remember all of the pitfals of social media lurk just under the surface on github.
+## Main takeaway: If you can run 'hello world' your system is set up.
 
 ## Reminder of Definitions
-1. Git is a version control software program
-2. GitHub is a subsidiar of Microsoft and therefore is a for profit company
-3. github.com is a website and serves as the front end for all GUI services
+1. 'hello world' - a type of program, characterized by minimum overhead to demonstrate a system is set up and functional
+2. system - for example a programming environment. for example python
 
-## Let's look at a github profile
-![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/developer-profile.png)
-## Let's breakdown a github profile
-* Black Box - contact info
-* Blue Box - Repositories you choose to highlight (aka 'pin')
-* Red Box - WARNING!!! Will Disscuss later!!!
-![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/developer-profile-markedup.png)
+## 
 
-## Here is a collage of some more profiles
-![]()
-
-# Exercise - Data Science Thinking Time
-
-* Look at this github profile - https://github.com/alonzi - I will be our guinea pig
-
-## Now focus on the commit graphic
-![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/petes-commits.png)
 
 ## Now take a swing at these questions
 ### What questions can we learn from this data? (category 1)
@@ -48,7 +31,4 @@ Put yourself on high-alert and remember all of the pitfals of social media lurk 
 
 ## Reading List
 This list is initially populated with wikipedia articles. The goal of the exercise for the students is to improve this list. When you find something better make a pull request and improve the list.
-* https://en.wikipedia.org/wiki/Git
-* https://en.wikipedia.org/wiki/GitHub
-* https://en.wikipedia.org/wiki/Graphical_user_interface
-* https://en.wikipedia.org/wiki/Command-line_interface
+* https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
