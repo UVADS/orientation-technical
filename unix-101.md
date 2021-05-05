@@ -1,5 +1,5 @@
 # Unix 101
-**Executive Summary:** This Document is the lesson plan for unix and the Bourne Again Shell (Bash). We will explore how to get access to Bash and the first commands a user commonly encounters.
+**Executive Summary:** This Document is the lesson plan for unix. We will teach using 'Bash' the Bourne Again Shell (Bash). We will explore how to get access to Bash and the first commands a user commonly encounters.
 
 ## Main takeaway: Github is a social media platform
 Put yourself on high-alert and remember all of the pitfals of social media lurk just under the surface on github.
@@ -49,3 +49,4 @@ Now that you have the background, it is time to get your machine set up with BAS
 This list is initially populated with wikipedia articles. The goal of the exercise for the students is to improve this list. When you find something better make a pull request and improve the list.
 * http://galileo.phys.virginia.edu/compfac/courses/sysadmin1/
     * http://galileo.phys.virginia.edu/compfac/courses/geek-hours/shell.html
+* https://www.gnu.org/software/bash/
