@@ -1,7 +1,4 @@
-supports checklist item #3
-
-
-# Github Profiles 101
+# Unix 101
 **Executive Summary:** This Document is the lesson plan for the github profiles. We will explore the github profile. Talk about the main features and how to use it. And finish with an exercise in data science thinking.
 
 ## Main takeaway: Github is a social media platform
