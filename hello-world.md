@@ -11,13 +11,11 @@ supports items 3,4,5
 1. 'hello world' - a type of program, characterized by minimum overhead to demonstrate a system is set up and functional
 2. system - for example a programming environment. for example python
 
-## Does it work?
-The purpose of a hello world program is print out the bigram 'hello world'.
-This program also has immense utility in demonstrating that a programming environment is up and running.
-
+## "hello world" .... what is it good for?
 Wikipedia puts it extremely well
 > A "Hello, World!" program generally is a computer program that outputs or displays the message "Hello, World!". Such a program is very simple in most programming languages, and is often used to illustrate the basic syntax of a programming language. It is often the first program written by people learning to code.[1][2] It can also be used as a sanity test to make sure that a computer language is correctly installed, and that the operator understands how to use it.
 
+In this orientation we are going to be setting up resources and the goal is to finish with the ability to run 'hello world'
 
 
 ## Now take a swing at these questions
