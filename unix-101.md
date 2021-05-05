@@ -50,3 +50,4 @@ This list is initially populated with wikipedia articles. The goal of the exerci
 * http://galileo.phys.virginia.edu/compfac/courses/sysadmin1/
     * http://galileo.phys.virginia.edu/compfac/courses/geek-hours/shell.html
 * https://www.gnu.org/software/bash/
+* https://en.wikipedia.org/wiki/GNU
