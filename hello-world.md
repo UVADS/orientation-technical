@@ -22,8 +22,8 @@ Wikipedia puts it extremely well
 
 ## Environments
 * BASH - `echo 'hello world'`
-* python
-* R
+* python - `print('hello world')`
+* R - `print('hello world')`
 
 
 # Conclusions, Homework, and Takeaways
