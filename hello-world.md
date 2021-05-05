@@ -27,17 +27,29 @@ Wikipedia puts it extremely well
 
 ## Old School Environment Example - 6502 Assembly
 `* = $C000       ;set the initial memory address
+
 CHROUT = $FFD2  ;set the address for the character out subroutine
-         LDY #$00 
+
+LDY #$00 
+
 LOOP     LDA HELLO, Y 
-         CMP #$00
-         BEQ END 
-         JSR CHROUT 
-         INY 
-         BNE LOOP 
+
+CMP #$00
+
+BEQ END 
+
+JSR CHROUT 
+
+INY 
+
+BNE LOOP 
+
 END      RTS
+
 HELLO    ASC 'HELLO, WORLD.' ; PETSCII
-HELLOEND DFB 0 ; zero byte to mark the end of the string `
+
+HELLOEND DFB 0 ; zero byte to mark the end of the string
+`
 
 
 # Conclusions, Homework, and Takeaways
