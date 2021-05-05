@@ -57,9 +57,31 @@ The 'cd' command stands for 'change directory'. This is where we start moving ar
 Example
 ![](https://github.com/UVADS/orientation-technical/blob/ca4124aacd9cfacc0437b28899cc0fc45031ed09/images/cd.png)
 
+This one is a stretch so let's break it down.
+1. use pwd to ask the computer what the working directory is
+2. use cd to change directory. Also new is that we add an argument to the command (/c/Users/petea_000) which in this case is the directory we want to change to
+3. we repeat pwd but see the output has changed because we used cd
+
+** Extend ** You may be wondering, "can I use cd but instead of saying 'goto this address', could I say the equivalent of 'go one block north'?" The answer is Yes you can. Read [this page](https://www.geeksforgeeks.org/absolute-relative-pathnames-unix/) and ask questions.
+
 ### history
+This is a fun little bonus command. No example here you can try it for yourself. If you type 'history' command your computer will print all of the commands it has run (recently)
 
 ## Editing a File
+The next step is to create a file and edit the contents. We will just be looking to do a text file and use it for our 'hello world' program.
+
+There are many programs you can choose to edit a file. In this case type the following
+
+`nano hello-world.sh`
+
+You are now in a text editor. Go ahead a write your 'hello world' program. In this environment it is a single line
+
+`echo 'hello world'`
+
+Then save your file (Ctrl+O)
+Then exit (Ctrl+X)
+
+**NB** You actually don't need to use the mouse. Experience the joy of not wasting time as you move back and forth between the mouse and the keyboard.
 
 ## Running 'hello world'
 
