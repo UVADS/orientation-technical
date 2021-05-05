@@ -28,9 +28,11 @@ Wikipedia puts it extremely well
 
 # Conclusions, Homework, and Takeaways
 * When you are setting up a system in this orientation (bash,python,R) or in the future. The first program you run should be 'hello world'
+* Now read [this article](https://www.wintellect.com/30-years-of-hello-world/) and compare those languages with python and R and reflect on how lucky you are.
 
 
 
 ## Reading List
 This list is initially populated with wikipedia articles. The goal of the exercise for the students is to improve this list. When you find something better make a pull request and improve the list.
 * https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
+* https://www.wintellect.com/30-years-of-hello-world/
