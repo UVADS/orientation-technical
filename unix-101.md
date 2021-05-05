@@ -96,13 +96,15 @@ Example
 You will note in  my example we have stumbled into our first error. When we typed the name of the program the computer did not recognize it as a command, but by adding './' the computer did recognize it. To untangle that little puzzle we need to dig into the concept that causes the greatest number of errors for students in the MSDS program.
 
 ## The PATH forward
-
+The next step in the Unix journey is to understand the PATH variable. However we have already gone further in this lesson. We will leave it here for you to rest. When you are ready to untangle the './' take a swing at researching it yourself and use the keywords: unix, and path environment varible to guide you. Then come to Pete with questions.
 
 
 
 # Conclusions, Homework, and Takeaways
 * This was the most involved and challenging lesson in the orientation. It actually goes beyond orientation and gets into teaching because Pete cannot help himself.
 * Many students coming into our program come from the GUI world not the CLI world. As a result for many this approach is disorienting and that is challenging. The way forward is to find a few hooks to grab to orient.
+* The homework is to explore the path variable. Put in a good faith effort and see how far you can go. Then bring questions you have to Pete.
+* Getting the skills from this lesson takes time and consistent use. Working through any material on these topics won't be beneficial without sustained practice.
 
 
 
