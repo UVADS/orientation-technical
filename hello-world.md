@@ -49,13 +49,11 @@ HELLO    ASC 'HELLO, WORLD.' ; PETSCII
 
 HELLOEND DFB 0 ; zero byte to mark the end of the string
 ```
-It's great to be alive today. Reflect on how lucky you are.
+It's great to be alive today. Reflect on how lucky you are. (This example is from [this article](https://www.wintellect.com/30-years-of-hello-world/) and compare those languages with python and R and reflect on how lucky you are.)
 
 # Conclusions, Homework, and Takeaways
-* When you are setting up a system in this orientation (bash,python,R) or in the future. The first program you run should be 'hello world'
-* Now read [this article](https://www.wintellect.com/30-years-of-hello-world/) and compare those languages with python and R and reflect on how lucky you are.
-
-
+* When you are setting up a system in this orientation (bash,python,R) or in the future. The first program you run should be 'hello world'.
+* Running 'hello world' is a concrete task you can accomplish with minimal overhead. It provides a jump off point for further operations and helps to orient you to the new system.
 
 ## Reading List
 This list is initially populated with wikipedia articles. The goal of the exercise for the students is to improve this list. When you find something better make a pull request and improve the list.
