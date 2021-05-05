@@ -1,5 +1,5 @@
 # Unix 101
-**Executive Summary:** This Document is the lesson plan for the github profiles. We will explore the github profile. Talk about the main features and how to use it. And finish with an exercise in data science thinking.
+**Executive Summary:** This Document is the lesson plan for unix and the Bourne Again Shell (Bash). We will explore how to get access to Bash and the first commands a user commonly encounters.
 
 ## Main takeaway: Github is a social media platform
 Put yourself on high-alert and remember all of the pitfals of social media lurk just under the surface on github.
@@ -8,7 +8,10 @@ Put yourself on high-alert and remember all of the pitfals of social media lurk 
 1. Unix
 2. Linux
 3. Operating System
-4. Shell
+4. Bash
+5. GUI
+6. CLI
+7. Shell
    * ![](https://github.com/UVADS/orientation-technical/blob/d8bb11a4090297eb117eaa8b836a8dbb8379d8cc/images/image6.png)
    * Source: http://galileo.phys.virginia.edu/compfac/courses/ credit Bryan Wright 
 
@@ -46,4 +49,3 @@ Now that you have the background, it is time to get your machine set up with BAS
 This list is initially populated with wikipedia articles. The goal of the exercise for the students is to improve this list. When you find something better make a pull request and improve the list.
 * http://galileo.phys.virginia.edu/compfac/courses/sysadmin1/
     * http://galileo.phys.virginia.edu/compfac/courses/geek-hours/shell.html
-* 
