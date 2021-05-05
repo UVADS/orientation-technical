@@ -43,18 +43,21 @@ Let's dig in ....
 This command stands for 'print working directory'. A working directory is the location in the operating systems file structure where commands will operate from. By analogy if you asked someone where they are they may say something like "1600 Pennsylvania Ave". In that way when you say to the computer 'pwd' it will say it's location.
 
 Example
+
 ![](https://github.com/UVADS/orientation-technical/blob/a91aca54ec7a63e4775d8c5c62e52a4dcc4e69a0/images/pwd.png)
 
 ### ls
 The next thing you may want to know is what files are in the working directory. The 'ls' command stands for 'list'. By analogy if you asked someone what do you see in front of you they may say "The White House". In that way when you say to the computer 'ls' it will list 'what it sees' at that location.
 
 Example
+
 ![](https://github.com/UVADS/orientation-technical/blob/c51f30d1f43aa5bb043a2ed9b02edd006b6bf581/images/ls.png)
 
 ### cd
 The 'cd' command stands for 'change directory'. This is where we start moving around. Continuing our analogy you could tell someone to go home and they would move. In this case when you tell the computer to 'cd <location>' it will change the location. For this example we will combine it with pwd.
   
 Example
+
 ![](https://github.com/UVADS/orientation-technical/blob/ca4124aacd9cfacc0437b28899cc0fc45031ed09/images/cd.png)
 
 This one is a stretch so let's break it down.
@@ -84,7 +87,11 @@ Then exit (Ctrl+X)
 **NB** You actually don't need to use the mouse. Experience the joy of not wasting time as you move back and forth between the mouse and the keyboard.
 
 ## Running 'hello world'
+Now we run the program.
 
+Example
+
+![](https://github.com/UVADS/orientation-technical/blob/4f59236eafba19f08bdb10ba10ed4470e4fe3d2e/images/run.png)
 ## The PATH forward
 
 # Conclusions, Homework, and Takeaways
