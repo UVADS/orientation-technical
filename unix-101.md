@@ -52,6 +52,10 @@ Example
 ![](https://github.com/UVADS/orientation-technical/blob/c51f30d1f43aa5bb043a2ed9b02edd006b6bf581/images/ls.png)
 
 ### cd
+The 'cd' command stands for 'change directory'. This is where we start moving around. Continuing our analogy you could tell someone to go home and they would move. In this case when you tell the computer to 'cd <location>' it will change the location. For this example we will combine it with pwd.
+  
+Example
+![](https://github.com/UVADS/orientation-technical/blob/ca4124aacd9cfacc0437b28899cc0fc45031ed09/images/cd.png)
 
 ### history
 
