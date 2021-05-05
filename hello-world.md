@@ -37,13 +37,13 @@ LOOP     LDA HELLO, Y
 
          CMP #$00
 
-        BEQ END 
+         BEQ END 
 
-        JSR CHROUT 
+         JSR CHROUT 
 
-        INY 
-
-        BNE LOOP 
+         INY 
+ 
+         BNE LOOP 
 
 END      RTS
 
