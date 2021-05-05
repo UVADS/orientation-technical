@@ -92,10 +92,17 @@ Now we run the program.
 Example
 
 ![](https://github.com/UVADS/orientation-technical/blob/4f59236eafba19f08bdb10ba10ed4470e4fe3d2e/images/run.png)
+
+You will note in  my example we have stumbled into our first error. When we typed the name of the program the computer did not recognize it as a command, but by adding './' the computer did recognize it. To untangle that little puzzle we need to dig into the concept that causes the greatest number of errors for students in the MSDS program.
+
 ## The PATH forward
 
+
+
+
 # Conclusions, Homework, and Takeaways
-* 
+* This was the most involved and challenging lesson in the orientation. It actually goes beyond orientation and gets into teaching because Pete cannot help himself.
+* Many students coming into our program come from the GUI world not the CLI world. As a result for many this approach is disorienting and that is challenging. The way forward is to find a few hooks to grab to orient.
 
 
 
