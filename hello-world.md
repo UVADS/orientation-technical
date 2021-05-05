@@ -31,19 +31,19 @@ Wikipedia puts it extremely well
 
 CHROUT = $FFD2  ;set the address for the character out subroutine
 
-LDY #$00 
+         LDY #$00 
 
 LOOP     LDA HELLO, Y 
 
-CMP #$00
+         CMP #$00
 
-BEQ END 
+        BEQ END 
 
-JSR CHROUT 
+        JSR CHROUT 
 
-INY 
+        INY 
 
-BNE LOOP 
+        BNE LOOP 
 
 END      RTS
 
