@@ -3,7 +3,7 @@ supports items 3,4,5
 
 
 # Github Profiles 101
-**Executive Summary:** This Document is the lesson plan for the github profiles. We will explore the github profile. Talk about the main features and how to use it. And finish with an exercise in data science thinking.
+**Executive Summary:** This Document is the lesson plan for the most important system configuration diagnostic tool. We will explore the program 'hello world'.
 
 ## Main takeaway: Github is a social media platform
 Put yourself on high-alert and remember all of the pitfals of social media lurk just under the surface on github.
@@ -47,6 +47,7 @@ Put yourself on high-alert and remember all of the pitfals of social media lurk 
 
 
 ## Reading List
+This list is initially populated with wikipedia articles. The goal of the exercise for the students is to improve this list. When you find something better make a pull request and improve the list.
 * https://en.wikipedia.org/wiki/Git
 * https://en.wikipedia.org/wiki/GitHub
 * https://en.wikipedia.org/wiki/Graphical_user_interface
