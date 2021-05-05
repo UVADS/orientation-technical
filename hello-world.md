@@ -3,7 +3,7 @@
 
 ## Main takeaway: If you can run 'hello world' your system is set up.
 
-## Reminder of Definitions
+## Definitions for this lesson
 1. 'hello world' - a type of program, characterized by minimum overhead to demonstrate a system is set up and functional
 2. system - for example a programming environment. for example python, on a specific deployment. eg python on your laptop is different from python on a super computer.
 
