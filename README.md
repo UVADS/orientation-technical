@@ -1,7 +1,7 @@
 # TODO
 * read and revise everything
 * * test change
-* add teams configuration
+* add teams configuration: install zoom, mention github webhook
 
 # orientation-technical
 **Executive Summary** This repo contains the materials for the UVADS residential technical orientation. Chief of which is a checklist of items to complete before classes begin. Supplemental materials are linked to help complete the checklist. There is also a schedule of syncronys session to help complete the checklist.
