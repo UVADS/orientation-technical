@@ -37,7 +37,7 @@ There will be 7 syncronous sessions delivered via zoom. For details please see t
     * how to get in touch with Pete (Teams Chat me, i'm available full time this week) 
 3. **6/15** 11a (items 1,2 - hardware/github),3p (3 - vs code and Bash)
 4. **6/16** 11a (4 - R installation) ,3p (5 - Python installation)
-5. **6/17** 11a (open office hours),3p (Rivanna orientation with guests from Research Computing - [flyer](https://github.com/UVADS/orientation-technical/blob/main/SDS%20event%20flyer%20FINAL.pdf))
+5. **6/17** 11a (open office hours),3p (Rivanna orientation with guests from Research Computing - [flyer](https://github.com/UVADS/orientation-technical/blob/main/images/SDS%20event%20flyer%20FINAL.pdf)
 
 ## Reading List
 This reading list is in the tradition of old. It is a collection of good resources. The goal isn't to read or memorize everything in this list. The goal is to give starting points for exploration. You are encouraged to pick something and see where it leads. Have conversations about it. Pull on the thread. The brackets at the beginning of each item indicate the rough alignment to the 4+1 model. Systems, Analytics, Value, Design + Practice.
