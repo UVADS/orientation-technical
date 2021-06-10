@@ -1,6 +1,7 @@
 # TODO
 * read and revise everything
   * readme.md
+  * lessons
 * add teams configuration: install zoom, mention github webhook
 
 # orientation-technical
