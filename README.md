@@ -31,9 +31,9 @@
 There will be 7 syncronous sessions delivered via zoom. For details please see the live session tool in the corresponding collab site for this orientation (link goes here). The subject of the session is tentative and subject to change based on needs of the students (except for the RC session with guests).
 
 1. **Kickoff** - Time TBD, probably 9am 6/15 - 15 min long
-  * scope
-  * attack plan
-  * how to get in touch with Pete (Teams Chat me, i'm available full time this week) 
+    * scope
+    * attack plan
+    * how to get in touch with Pete (Teams Chat me, i'm available full time this week) 
 3. **6/15** 11a (items 1,2),3p (3)
 4. **6/16** 11a (4) ,3p (5)
 5. **6/17** 11a (free),3p (Rivanna orientation with guests from Research Computing - [flyer](https://github.com/UVADS/orientation-technical/blob/main/SDS%20event%20flyer%20FINAL.pdf))
