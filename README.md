@@ -1,6 +1,6 @@
 # TODO
 * read and revise everything
-* figure out which supplemental lessons we need (github - 6/15 am, hello world 6/16 am, unix 101 6/15 pm)
+* figure out which supplemental lessons we need (github - 6/15 am, hello world 6/16 am and 6/16 pm, unix 101 6/15 pm)
 * add teams configuration: install zoom, mention github webhook
 
 # orientation-technical
