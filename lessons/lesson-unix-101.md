@@ -5,14 +5,14 @@
 ## Backup takeaway: If you are using a mouse, you are usually slowing yourself down
 
 ## Definitions
-1. Unix - a family of operating systems
-2. Linux - a family of unix-like operating systems
-3. Operating System - software to manage computer hardware
-4. Shell - software to facilitate giving instructions to the operating system - the user talks to the shell and the shell passes on to the operating system
-5. Bash - Bourne Again SHell - a particular shell and one we will use for this lesson
-6. GUI - Graphical User Interface - eg: clicking on icons with a mouse cursor or tapping icons
-7. CLI - Command Line Interface - eg: the user types commands and uses specific syntax
-8. Shell
+1. **Unix** - a family of operating systems
+2. **Linux** - a family of unix-like operating systems
+3. **Operating System** - software to manage computer hardware
+4. **Shell** - software to facilitate giving instructions to the operating system - the user talks to the shell and the shell passes on to the operating system
+5. **Bash** - Bourne Again SHell - a particular shell and one we will use for this lesson
+6. **GUI** - Graphical User Interface - eg: clicking on icons with a mouse cursor or tapping icons
+7. **CLI** - Command Line Interface - eg: the user types commands and uses specific syntax
+8. **Shell**
    * ![](https://github.com/UVADS/orientation-technical/blob/d8bb11a4090297eb117eaa8b836a8dbb8379d8cc/images/image6.png)
    * Source: http://galileo.phys.virginia.edu/compfac/courses/ credit Bryan Wright 
 
