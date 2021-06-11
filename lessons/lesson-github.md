@@ -17,8 +17,6 @@ Put yourself on high-alert and remember all of the pitfals of social media lurk 
 * Red Box - WARNING!!! Will Disscuss later!!!
 ![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/developer-profile-markedup.png)
 
-## Here is a collage of some more profiles
-![]()
 
 # Exercise - Data Science Thinking Time
 
