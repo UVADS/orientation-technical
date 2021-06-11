@@ -5,9 +5,9 @@
 Put yourself on high-alert and remember all of the pitfals of social media lurk just under the surface on github.
 
 ## Definitions
-1. Git is a version control software program
-2. GitHub is a subsidiar of Microsoft and therefore is a for profit company
-3. github.com is a website and serves as the front end for all GUI services
+1. **Git** -- is a version control software program
+2. **GitHub** -- is a subsidiar of Microsoft and therefore is a for profit company
+3. **github.com** -- is a website and serves as the front end for all GUI services
 
 ## Let's look at a github profile
 ![](https://github.com/UVADS/orientation-technical/blob/41415438ee9d5f594ffea422a43b4d78b94d12c9/developer-profile.png)
