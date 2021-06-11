@@ -1,8 +1,7 @@
 # Unix 101
 **Executive Summary:** This Document is the lesson plan for unix. We will teach using 'Bash' (Bourne Again Shell). We will explore how to get access to a Bash terminal regardless of operating system. And then the first commands a user commonly encounters.
 
-## Main takeaway: ????
-
+## Main takeaway: It is worth it to become proficient with Bash
 
 ## Definitions
 1. Unix - a family of operating systems
