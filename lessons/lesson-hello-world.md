@@ -5,7 +5,7 @@
 
 ## Definitions for this lesson
 1. **'hello world'** -- a type of program, characterized by minimum overhead to demonstrate a system is set up and functional
-2. **system ** -- for example a programming environment. for example python, on a specific deployment. eg python on your laptop is different from python on a super computer.
+2. **system** -- for example a programming environment. for example python, on a specific deployment. eg python on your laptop is different from python on a super computer.
 
 ## "hello world" .... what is it good for?
 Wikipedia puts it extremely well
