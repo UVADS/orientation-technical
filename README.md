@@ -1,6 +1,5 @@
 # TODO
 * read and revise everything
-  * readme.md
   * lessons
 
 # orientation-technical
