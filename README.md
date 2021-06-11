@@ -28,7 +28,7 @@
 ## Syncronous Sessions
 There will be 7 syncronous sessions delivered via zoom. For details please see the live session tool in the corresponding collab site for this orientation (link goes here). The subject of the session is tentative and subject to change based on needs of the students (except for the RC session with guests).
 
-1. **Kickoff** - Time TBD, probably 9am 6/15 - 15 min long
+1. **Kickoff** - 9am 6/15 - 15 min long - [link to agenda](https://github.com/UVADS/orientation-technical/blob/main/lessons/kickOff.md)
     * scope - get ready for classes next week
     * attack plan - complete the checklist, come to sync sessions for questions
     * how to get in touch with Pete (Teams Chat me, i'm available full time this week) 
