@@ -12,7 +12,7 @@
     * **learn** the first four terminal commands - [pwd,ls,cd,history]
     * **use** a terminal text editor - choose one [vi,nano,emacs,etc.]
     * **learn** the PATH environment variable
-    * **confirm** sucessful operation by running a hello world program in BASH (or other shell if you prefer)
+    * **confirm** sucessful operation by running a [hello world program](https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md) in BASH (or other shell if you prefer)
 8. **install** R and Rstudio Desktop
     * [installation link](https://rstudio.com/products/rstudio/download/#download)
     * **confirm** sucessful operation by running a hello world program
