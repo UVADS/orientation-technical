@@ -51,7 +51,7 @@ This reading list is in the tradition of old. It is a collection of good resourc
 12. [Systems] Python for Data Analysis - ([UVA library](https://learning.oreilly.com/library/view/python-for-data/9781491957653/?ar) // [online](https://wesmckinney.com/pages/book.html))
 13. [Analytics] Vi on Pi - https://youtu.be/jG7vhMMXagQ
 14. [Analytics] [ML doesn't matter](https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467)
-15. [Analytics] [The most useful plot you will ever see](https://matplotlib.org/stable/gallery/showcase/anatomy.html)
+15. [Analytics] [The most useful plot you will ever see](https://matplotlib.org/stable/gallery/showcase/anatomy.html) (you have to scroll down a bit)
 16. [4+1] youtube - triva - https://www.youtube.com/playlist?list=PLc0No4e8MMEP5Gg9Lch3912dRrUEwu97B
 
 ## How to submit feedback
