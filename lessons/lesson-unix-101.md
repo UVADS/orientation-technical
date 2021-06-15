@@ -2,7 +2,6 @@
 **Executive Summary:** This Document is the lesson plan for unix. We will teach using 'Bash' (Bourne Again Shell). We will explore how to get access to a Bash terminal regardless of operating system. And then the first commands a user commonly encounters.
 
 ## Main takeaway: It is worth it to become proficient with Unix
-## Backup takeaway: If you are using a mouse, you are usually slowing yourself down
 
 ## Definitions
 1. **Unix** - a family of operating systems
@@ -108,6 +107,8 @@ The next step in the Unix journey is to understand the PATH variable. However we
 * Getting the skills from this lesson takes time and consistent use. Working through any material on these topics won't be beneficial without sustained practice.
 
 
+## Main takeaway: It is worth it to become proficient with Unix
+## Backup takeaway: If you are using a mouse, you are usually slowing yourself down
 
 ## Reading List
 This list is initially populated with wikipedia articles. The goal of the exercise for the students is to improve this list. When you find something better make a pull request and improve the list.
