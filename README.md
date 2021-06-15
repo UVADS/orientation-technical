@@ -31,7 +31,7 @@ There will be 7 synchronous sessions delivered via zoom. For details please see 
 1. **Kickoff** - 9am 6/15 - 15 min long - [link to agenda](https://github.com/UVADS/orientation-technical/blob/main/lessons/kickOff.md)
     * scope - get ready for classes next week
     * attack plan - complete the checklist, come to sync sessions for questions
-    * how to get in touch with Pete (Teams Chat me, i'm available full time this week) 
+    * how to get in touch with Pete (Teams Chat me, i'm available full time this week - after bootcamp use email) 
 3. **6/15** 11a (items 1,2 - hardware/github),3p (3 - vs code and Bash)
 4. **6/16** 11a (4 - R installation) ,3p (5 - Python installation)
 5. **6/17** 11a (open office hours),3p (Rivanna orientation with guests from Research Computing - [flyer](https://github.com/UVADS/orientation-technical/blob/main/images/SDS%20event%20flyer%20FINAL.pdf)
