@@ -39,7 +39,7 @@ There will be 7 synchronous sessions delivered via zoom. For details please see 
 ## Reading List
 This reading list is in the tradition of old. It is a collection of good resources. The goal isn't to read or memorize everything in this list. The goal is to give starting points for exploration. You are encouraged to pick something and see where it leads. Have conversations about it. Pull on the thread. The brackets at the beginning of each item indicate the rough alignment to the 4+1 model. Systems, Analytics, Value, Design + Practice.
 
-1. [4+1] email Professor Alvarado for his article on the 4+1 model.
+1. [4+1] email Professor Alvarado for his one-pager on the 4+1 model.
 4. [Value] Watch Jurassic Park - [wiki](https://en.wikipedia.org/wiki/Jurassic_Park_(film)) - (128 glorious minutes) ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 5. [Value] Code review for humans - [link](https://phauer.com/2018/code-review-guidelines/)
 9. [Design] - [A whack on the side of the head](https://www.amazon.com/Whack-Side-Head-More-Creative/dp/0446404667) - ([UVA library](https://search.lib.virginia.edu/search?mode=advanced&q=title%3A%20%7BA%20Whack%20on%20the%20Side%20of%20the%20Head%3A%20How%20You%20Can%20Be%20More%20Creative%7D%20AND%20author%3A%20%7BOech%7D&pool=uva_library))
