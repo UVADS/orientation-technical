@@ -2,7 +2,7 @@
 ## Hello and Welcome
 Who is this Pete guy?  (lightning round style)
 
-* Where did you grow up?
+1. Where did you grow up?
 * How did you come to UVA?
 * What is your favorite beverage?
 * What's the best way to get in touch with you?
