@@ -60,7 +60,7 @@ I love getting feedback. Here is how you can submit it.
 2. work on your fork
 3. Issue a pull request for any suggested improvements
 
-Alternatively you can submit and issue on the repository.
+Alternatively you can submit an issue on the repository.
 
 ## Best link for resources [UVA Library Data Science Library Research Guide](https://guides.lib.virginia.edu/datascience).
 
