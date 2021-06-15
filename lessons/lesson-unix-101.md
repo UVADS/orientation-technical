@@ -68,8 +68,8 @@ This one is a stretch so let's break it down.
 
  **_Extend:_** You may be wondering, "can I use `cd` but instead of saying 'goto this address', could I say the equivalent of 'go one block north'?" The answer is "Yes you can". Read [this page](https://www.geeksforgeeks.org/absolute-relative-pathnames-unix/) and ask questions.
 
-### history
-This is a fun little bonus command. No example here you can try it for yourself. If you type 'history' command your computer will print all of the commands it has run (recently)
+### the history command
+This is a fun little bonus command. No example here you can try it for yourself. If you type `history` command your computer will print all of the commands it has run (recently)
 
 ## Editing a File
 The next step is to create a file and edit the contents. We will just be looking to do a text file and use it for our 'hello world' program.
