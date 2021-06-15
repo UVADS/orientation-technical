@@ -66,7 +66,7 @@ This one is a stretch so let's break it down.
 2. use cd to change directory. Also new is that we add an argument to the command (/c/Users/petea_000) which in this case is the directory we want to change to
 3. we repeat pwd but see the output has changed because we used cd
 
-**Extend:** You may be wondering, "can I use cd but instead of saying 'goto this address', could I say the equivalent of 'go one block north'?" The answer is Yes you can. Read [this page](https://www.geeksforgeeks.org/absolute-relative-pathnames-unix/) and ask questions.
+** **Extend:** You may be wondering, "can I use cd but instead of saying 'goto this address', could I say the equivalent of 'go one block north'?" The answer is Yes you can. Read [this page](https://www.geeksforgeeks.org/absolute-relative-pathnames-unix/) and ask questions.
 
 ### history
 This is a fun little bonus command. No example here you can try it for yourself. If you type 'history' command your computer will print all of the commands it has run (recently)
