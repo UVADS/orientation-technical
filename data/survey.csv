@@ -1,0 +1,57 @@
+Timestamp,Operating System,CPU Cycle Rate (in GHz),CPU Number of Cores,RAM (in GB),Hard Drive Size (in GB),GPU (short description)
+6/12/2021 23:05:22,Windows 10,1.8,4,8,256,intel uhd 620
+6/13/2021 20:36:02,Windows 10,2.8,4,16,460,Intel(R) Iris(R) Xe Graphics
+6/13/2021 22:31:11,MacOS,3.1,2,8,512,Intel Iris Plus Graphics 650
+6/14/2021 13:31:30,Windows 10,3.5,4,16,1000,NVIDIA GeForce GTX 1070 Ti
+6/14/2021 14:13:55,MacOS,1.6,2,8,256,Intel HD Graphics 6000 1536 MB
+6/14/2021 15:48:34,MacOS,2.7,2,8,250,Intel Iris Graphics 6100 1536 MB
+6/14/2021 19:29:57,MacOS,2,8,16,256,Apple M1
+6/14/2021 21:02:57,MacOS,3.1,2,8,250,Apple designed
+6/15/2021 8:51:40,Windows 10,2.3,16,32,1000,NVIDIA GeForce RTX 2070 Super
+6/15/2021 8:54:05,MacOS,2.3,8,32,512,Radeon 560x
+6/15/2021 9:15:57,MacOS,2.6,6,16,500,Intel UHD Graphics 630 1536 MB
+6/15/2021 9:17:53,Windows 10,3.8,8,32,1000,RTX 3080
+6/15/2021 9:18:25,Windows 10,2.2,6,16,500,Nvidia GTX 1070 Max-Q
+6/15/2021 9:22:01,MacOS,2.5,4,16,500,Intel Iris Pro 1536 MB
+6/15/2021 9:23:04,Windows 10,2.9,5,8,237,NVIDIA GeForce GTX 1660 Ti
+6/15/2021 9:23:27,MacOS,2.2,4,16,256,Intel Iris Pro 1536 MB
+6/15/2021 9:25:06,MacOS,3.2,8,8,250,Apple M1 Chip
+6/15/2021 9:26:08,Any Linux,2.8,4,32,500,Nvidia GTX 1060 6GB
+6/15/2021 9:26:27,MacOS,2.6,4,202,16,Radeon Pro 450 2048 MB graphics
+6/15/2021 9:26:27,MacOS,1.8,2,8,117,Intel HD Graphics 6000 1536 MB
+6/15/2021 9:27:20,Windows 10,0.94,2,10,226,Intel(R) HD Graphics 620 (Full Display Device)
+6/15/2021 9:27:22,Windows 10,1.9,4,24,500,intel UHD graphics 620
+6/15/2021 9:28:07,MacOS,3.1,5,16,251,Intel Iris Plus Graphics 650 1536 MB
+6/15/2021 9:29:25,Windows 10,2.8,4,16,500,N/A
+6/15/2021 9:30:32,MacOS,1.3,2,4,251,Intel HD Graphics 5000 1536 MB
+6/15/2021 9:30:42,MacOS,2.6,6,16,500,Intel UHD Graphics 630 1536 MB
+6/15/2021 9:31:03,Windows 10,2.8,4,16,512,Intel(R) Iris(R) Xe Graphics
+6/15/2021 9:31:26,Windows 10,2.8,4,16,1000,intel(r) HD Graphics 630 & NVIDIA GeRForceGTX 1060
+6/15/2021 9:31:33,Windows 10,2.5,2,8,238,Intel HD Graphics 620
+6/15/2021 9:32:47,MacOS,2.6,2,8,256,"Intel Iris 1536 MB (I believe my Mac doesn't have the NVIDIA GeForce since it's mid 2014 and the 13"" version. From what I can tell, it looks like the GPU I have is integrated into the CPU from what I can gather online.)"
+6/15/2021 9:33:01,Windows 10,3.3,8,16,953,AMD Radeon Graphics
+6/15/2021 9:34:35,MacOS,3.1,2,8,251,Intel Iris Plus Graphics 650 1536 MB
+6/15/2021 9:34:40,MacOS,3.1,2,8,251,Intel Iris Plus Graphics 650 1536 MB
+6/15/2021 9:34:51,MacOS,1.7,4,8,128,Intel Iris Plus Graphics 645
+6/15/2021 9:35:09,Windows 10,1.6,4,8,256,nvidia® quadro® p520 2gb
+6/15/2021 9:35:30,MacOS,1.3,2,4,251,Intel HD Graphics 5000
+6/15/2021 9:36:01,MacOS,2,4,16,512,Intel Iris Plus Graphics 1536 MB
+6/15/2021 9:37:01,MacOS,2.3,4,8,251,Intel Iris Plus Graphics 655 1536 MB
+6/15/2021 9:37:19,MacOS,1.6,2,4,128,"I just bought a new laptop several days ago but I hasn't received that. It's Mac Pro 13.3 inches, with 16GB in RAM and 512 GB in Hard Drive Size.  "
+6/15/2021 9:37:39,Windows 10,2.6,2,16,476,1) Intel(R) HD Graphics 520 & 2) NVIDIA GeForce GPU
+6/15/2021 9:37:54,Windows 10,3.4,6,32,380,RX 480 4gb vram
+6/15/2021 9:38:04,MacOS,3.1,2,8,500,Intel Iris Plus Graphics 650 1536 MB
+6/15/2021 9:38:38,MacOS,2.9,2,8,251,Intel Iris Graphics 
+6/15/2021 9:38:59,MacOS,2,4,16,512,Intel Iris Plus Graphics 1536 MB
+6/15/2021 9:39:58,Windows 10,2.5,2,20,238,Intel(R) HD Graphics 620
+6/15/2021 9:40:47,Windows 10,3.8,4,16,941,Nvidia Geforce GTX 1060
+6/15/2021 9:42:04,MacOS,3.2,8,16,1000,Apple M1
+6/15/2021 9:43:23,MacOS,2,4,16,500,Intel Iris Plus Graphics 1536 MB
+6/15/2021 10:05:41,MacOS,2.2,4,16,500,Intel Iris Pro 1536 MB
+6/15/2021 10:18:03,MacOS,3.2,8,16,995,Apple M1 
+6/15/2021 10:26:56,MacOS,2.3,2,8,251,Intel Iris Plus Graphics 640
+6/15/2021 10:31:05,Windows 10,2.6,2,16,256,Intel HD Graphics 620
+6/15/2021 10:36:36,MacOS,2.9,4,16,500,Intel HD 630 & Radeon Pro 560
+6/15/2021 10:46:02,MacOS,2.3,8,16,500,Intel UHD Graphics 630 1536 MB
+6/15/2021 10:57:58,MacOS,3.2,8,16,512,M1 8-Core GPU
+6/15/2021 11:07:21,MacOS,2.2,2,8,500,"Intel HD Graphics 6000 1536 MB VRAM, built in Bus,  "
