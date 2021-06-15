@@ -26,7 +26,7 @@
 1. **rewatch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 
 ## Synchronous Sessions
-There will be 7 synchronous sessions delivered via zoom. For details please see the live session tool in the corresponding collab site for this orientation ([link](https://collab.its.virginia.edu/portal/site/dd37b643-1aa6-438a-acaa-3a1796fa8790)). The subject of the session is tentative and subject to change based on needs of the students (except for the RC session with guests). All sessions except the 9a kick off are nominally one hour long.
+There will be 7 synchronous sessions delivered via zoom. For details please see the "Online Meetings" tool in the corresponding collab site for this orientation ([link](https://collab.its.virginia.edu/portal/site/dd37b643-1aa6-438a-acaa-3a1796fa8790)). The subject of the session is tentative and subject to change based on needs of the students (except for the RC session with guests). All sessions except the 9a kick off are nominally one hour long.
 
 1. **Kickoff** - 9am 6/15 - 15 min long - [link to agenda](https://github.com/UVADS/orientation-technical/blob/main/lessons/kickOff.md)
     * scope - get ready for classes next week
