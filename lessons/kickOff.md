@@ -3,9 +3,9 @@
 Who is this Pete guy?  (lightning round style)
 
 1. Where did you grow up?
-* How did you come to UVA?
-* What is your favorite beverage?
-* What's the best way to get in touch with you?
+1. How did you come to UVA?
+1. What is your favorite beverage?
+1. What's the best way to get in touch with you?
 
 ## Objective of Technical Orientation
 1. complete the checklist
