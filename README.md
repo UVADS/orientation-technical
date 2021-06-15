@@ -69,7 +69,7 @@ Inside you will find:
 * Finding background documents for your data science projects
 * Research Data Services, and more
 
-
-#### PS
+---
+#### PS:
 * There is a good integration in Teams for Zoom
 * There is a good integration in Teams for github
