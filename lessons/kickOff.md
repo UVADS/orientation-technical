@@ -2,7 +2,7 @@
 1. Hello and Welcome
 2. Introduce myself
     * Where did I grow up
-    * How did I come to UVA - credentials
+    * How did I come to UVA
     * What is my favorite beverage
     * How to get in touch with me
 3. mission objective: complete checklist
