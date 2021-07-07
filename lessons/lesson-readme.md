@@ -1,6 +1,6 @@
-A good general template, IMHO, would be something like:
-
-Name of project (H1)
+> A good general template, IMHO, would be something like:
+>
+> Name of project (H1)
 
 One sentence description of what it does, two sentences at most. If you have screenshots of your thing running or of its output, put them here.
 
