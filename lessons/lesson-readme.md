@@ -1,3 +1,4 @@
+From our friendly programmer: https://github.com/danielcmccarthy
 > A good general template, IMHO, would be something like:
 >
 > Name of project (H1)
