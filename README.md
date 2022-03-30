@@ -1,3 +1,12 @@
+# Under Renovation
+* check links
+* set 2022 schedule
+* update hardware survey
+* core message is 'hello world' and we teach it to you in: bash,git/github,r/rstudio/python,on rivanna
+* CLI focus and handoff/integration with first summer courses
+* reading/watching list
+* revise core lesson - https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md
+
 # orientation-technical
 **Executive Summary** This repo contains the materials for the UVADS residential technical orientation. Chief of which is a checklist of items to complete before classes begin. Supplemental materials are linked to help complete the checklist. There is also a schedule of synchronous session to help complete the checklist.
 
