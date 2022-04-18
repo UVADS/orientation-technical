@@ -9,7 +9,9 @@
 * revise youtube watch list
 * add sql - https://www.learnsqlonline.org/en/Hello,_World!
 * make github template
+* linux file systems ---> workshop ( spring and fall )
 * rework hpc section ---> workshop ( spring and fall )
+* aws 101 ---> ( spring and fall )
 
 # orientation-technical
 **Executive Summary** This repo contains the materials for the UVADS residential technical orientation. Chief of which is a checklist of items to complete before classes begin. Supplemental materials are linked to help complete the checklist. There is also a schedule of synchronous session to help complete the checklist.
