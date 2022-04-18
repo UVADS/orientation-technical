@@ -6,6 +6,7 @@
 * CLI focus and handoff/integration with first summer courses
 * reading/watching list
 * revise core lesson - https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md
+  * the point is to know when you have sucessfully set the thing up aka how to test 
 * revise youtube watch list
 * add sql - https://www.learnsqlonline.org/en/Hello,_World!
 * make github template
