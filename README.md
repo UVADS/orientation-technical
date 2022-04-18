@@ -11,7 +11,7 @@
 * add sql - https://www.learnsqlonline.org/en/Hello,_World!
 * make github template
 * linux file systems ---> workshop ( spring and fall )
-* rework hpc section ---> workshop ( spring and fall )
+* rework hpc section ---> workshop ( spring and fall ), remove from here
 * aws 101 ---> ( spring and fall )
 
 # orientation-technical
