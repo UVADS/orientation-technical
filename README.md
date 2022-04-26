@@ -1,5 +1,6 @@
 # Under Renovation
 * check links
+* double sneaky test change
 * set 2022 schedule
 * update hardware survey -- uva net id and github username
 * core message is 'hello world' and we teach it to you in: bash,git/github,r/rstudio/python,on rivanna
