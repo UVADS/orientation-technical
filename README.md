@@ -1,22 +1,20 @@
 # Under Renovation
-* check links
-* double sneaky test change
-* set 2022 schedule
-* update hardware survey -- uva net id and github username
-* core message is 'hello world' and we teach it to you in: bash,git/github,r/rstudio/python,on rivanna
-* CLI focus and handoff/integration with first summer courses
-* reading/watching list
-* revise core lesson - https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md
-  * the point is to know when you have sucessfully set the thing up aka how to test 
-* revise youtube watch list
-* add sql - https://www.learnsqlonline.org/en/Hello,_World!
-* make github template
-* linux file systems ---> workshop ( spring and fall )
-* rework hpc section ---> workshop ( spring and fall ), remove from here
-* aws 101 ---> ( spring and fall )
-* remove libguide ---> program orientation 
-* session 0 - explain philosophy, i'm a coach, i have a vision, observe and isolate and work
-* session 1 - warm up, we need to make a data set, volunteer to fill out the surve on the big screen and i coach you through it
+* [ august ] linux file systems ---> workshop ( spring and fall )
+* [ august ] rework hpc section ---> workshop ( spring and fall ), remove from here
+* [ august ] aws 101 ---> ( spring and fall )
+* [ 6/13 ] check links
+* [ 6/13 ] make github template
+* [ today ] set 2022 schedule
+* [ ] remove libguide ---> program orientation 
+* [ ] update hardware survey -- uva net id and github username
+* [ ] reading/watching list, revise youtube watch list
+*  [ ]revise core lesson - https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md
+  * the point is to know when you have sucessfully set the thing up aka how to test
+  * core message is 'hello world' and we teach it to you in: bash,git/github,r/rstudio/python,on rivanna 
+  * CLI focus and handoff/integration with first summer courses
+* [ ] add sql - https://www.learnsqlonline.org/en/Hello,_World!
+* [ ] session 0 - explain philosophy, i'm a coach, i have a vision, observe and isolate and work
+* [ ] session 1 - warm up, we need to make a data set, volunteer to fill out the surve on the big screen and i coach you through it
 
 # orientation-technical
 **Executive Summary** This repo contains the materials for the UVADS residential technical orientation. Chief of which is a checklist of items to complete before classes begin. Supplemental materials are linked to help complete the checklist. There is also a schedule of synchronous session to help complete the checklist.
