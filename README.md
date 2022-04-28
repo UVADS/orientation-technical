@@ -79,10 +79,3 @@ I love getting feedback. Here is how you can submit it.
 3. Issue a pull request for any suggested improvements
 
 Alternatively you can submit an issue on the repository.
-
-
-
----
-#### PS:
-* There is a good integration in Teams for Zoom
-* There is a good integration in Teams for github
