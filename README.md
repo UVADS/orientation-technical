@@ -51,7 +51,9 @@ All students are expected to be present for the technical orientation from 9am t
 | Kick-off     | 09:00 | [link](https://github.com/alonzi/orientation-technical/blob/main/agenda/agenda-kickoff-tuesday.md)   |
 | Lab Work     | 09:15 | free   |
 | Group        | 11:00 | [link](https://github.com/alonzi/orientation-technical/blob/main/agenda/agenda-1100-tuesday.md) |
+|--------------|-------|--------|
 | Lunch        | 12:00 | free   |
+|--------------|-------|--------|
 | Lab Work     | 13:00 | free   | 
 | Group        | 15:00 | [link](https://github.com/alonzi/orientation-technical/blob/main/agenda/agenda-1500-tuesday.md)   | 
 
