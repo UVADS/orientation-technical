@@ -48,7 +48,7 @@ All students are expected to be present for the technical orientation from 9am t
 
 | Session Type | Time  | Agenda |
 |--------------|-------|--------|
-| Kick-off     | 09:00 | link   |
+| Kick-off     | 09:00 | [link](https://github.com/alonzi/orientation-technical/blob/e948bfebb7f4ab475a8fed3d3c95b385c092e6d3/agenda/agenda-kickoff-tuesday)   |
 | Lab Work     | 09:15 | free   |
 | Group        | 11:00 | link   |
 | Lunch        | 12:00 | free   |
@@ -56,9 +56,7 @@ All students are expected to be present for the technical orientation from 9am t
 | Group        | 15:00 | link   | 
 
 
-1. **Kickoff** - 9am 6/15 - 15 min long - [link to agenda](https://github.com/UVADS/orientation-technical/blob/main/lessons/kickOff.md)
-    * scope - get ready for classes next week
-    * attack plan - complete the checklist, come to sync sessions for questions
+
     * how to get in touch with Pete (Teams Chat me, i'm available full time this week - after bootcamp use email) 
 3. **6/15** 11a (items 1,2 - hardware/github),3p (3 - vs code and Bash)
 4. **6/16** 11a (4 - R installation) ,3p (5 - Python installation)
