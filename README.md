@@ -80,12 +80,7 @@ I love getting feedback. Here is how you can submit it.
 
 Alternatively you can submit an issue on the repository.
 
-## Best link for resources [UVA Library Data Science Library Research Guide](https://guides.lib.virginia.edu/datascience).
 
-Inside you will find:
-* UVA Library 101
-* Finding background documents for your data science projects
-* Research Data Services, and more
 
 ---
 #### PS:
