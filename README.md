@@ -48,13 +48,14 @@
 This playlist is one hour and takes you through the 4+1 model: [link](https://youtube.com/playlist?list=PLc0No4e8MMEMcsS6pL4TZ8KegtS3VLlkk)
 
 ## Reccomended Texts
-1.  email Professor Alvarado for his one-pager on the 4+1 model.
-10.  [Bryan Wright computer facilities lessons](http://galileo.phys.virginia.edu/compfac/courses/)
+1.  [From Pipeline to Paradigm: The 4 + 1 Model of DataScience](https://myuva.sharepoint.com/:b:/s/UVADSDocumentRepository/EW3lUf8y7_ZIpDjxsTEHT58Bd5OJGH4kwb7GPP0e_xifPA?e=BTli8d)
+2. [A History of Data Science: 1960 to 2012](https://myuva.sharepoint.com/:b:/s/UVADSDocumentRepository/EZqBYGILLBlLs2mUIymNYlkBnayKv3K5ZhEj8II10NRkKQ?e=6iZgcV)
+10.  [Lectures on Computing](http://galileo.phys.virginia.edu/compfac/courses/)
 11. R for Data Science - ([UVA Library](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) // [free online](https://r4ds.had.co.nz/))
 12.  Python for Data Analysis - ([UVA library](https://learning.oreilly.com/library/view/python-for-data/9781491957653/?ar) // [online](https://wesmckinney.com/pages/book.html))
-5.  Code review for humans - [link](https://phauer.com/2018/code-review-guidelines/)
+5.  [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
 9.  - [A whack on the side of the head](https://www.amazon.com/Whack-Side-Head-More-Creative/dp/0446404667) - ([UVA library](https://search.lib.virginia.edu/search?mode=advanced&q=title%3A%20%7BA%20Whack%20on%20the%20Side%20of%20the%20Head%3A%20How%20You%20Can%20Be%20More%20Creative%7D%20AND%20author%3A%20%7BOech%7D&pool=uva_library))
-14.  [ML doesn't matter](https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467)
+14.  [Why Aspiring Data Scientists Should Not Make a Big Deal of Machine Learning](https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467)
 
 ## How to submit feedback
 I love getting feedback. Here is how you can submit it.
