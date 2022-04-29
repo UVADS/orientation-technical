@@ -4,6 +4,7 @@
 * [ august ] aws 101 ---> ( spring and fall )
 * [ 6/13 ] check links
 * [ 6/13 ] make github template
+* [ ] speak to raf and jon and jeffrey about needs for their classes
 * [ ] reading/watching list, revise youtube watch list
 *  [ ]revise core lesson - https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md
   * the point is to know when you have sucessfully set the thing up aka how to test
