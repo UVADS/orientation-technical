@@ -1,4 +1,11 @@
 # Under Renovation
+* [ 6/14 ] morning of, make presenter notes sheet
+    - give my philosophy spiel
+    - explain the mission
+    - take questions
+    - give hello world lecture
+    - open q & a with studnet on the big screen
+    - vs code / text editor vs word processor / bash 
 * [ 6/13 ] check links
 * [ 6/13 ] make github template
 * [ emails sent requesting talk ] speak to raf and jon and jeffrey about needs for their classes
@@ -7,6 +14,7 @@
    * Open Question: What is hello world for SQL?
 * Punch out list:
     - every mention of sql
+    - presenter notes sheet
 
 # orientation-technical
 **Executive Summary** This repo contains the materials for the UVADS MSDS residential technical orientation. The goal of this orientation is for every student to complete the checklist. Supplemental materials are linked to help complete the checklist.
