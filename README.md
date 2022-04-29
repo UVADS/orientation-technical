@@ -14,24 +14,24 @@ The goal for orientation is for every student to complete the checklist.
 
 ## The Checklist
 
-**NB: if you have already competed an item there is no nead to repeat it, except for item 8**
+**NB: if you have already completed an item there is no nead to repeat it, except for item 7**
 
 0. **watch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 1. **create** a github account - [link](https://github.com/join) - **email** your username to lpa2a@virginia.edu
 2. **complete** computer hardware survey - [link](https://forms.gle/ddkrs1CtDwxGb1a87)
-6. **install** VS code
+3. **install** VS code
     * **learn** the first four terminal commands - [pwd,ls,cd,history]
     * **use** a terminal text editor - choose one [vi,nano,emacs,etc.]
     * **learn** the PATH environment variable
     * **confirm** sucessful operation by running a [hello world program](https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md) in BASH (or other shell if you prefer)
-8. **install** R and Rstudio Desktop
+4. **install** R and Rstudio Desktop
     * [installation link](https://rstudio.com/products/rstudio/download/#download)
     * **confirm** sucessful operation by running a hello world program
-10. **install** python and jupyter with anaconda
+5. **install** python and jupyter with anaconda
     * [installation link](https://docs.anaconda.com/anaconda/install/index.html)
     * **confirm** sucessful operation by running a hello world program (using spyder **and** jupyter)
 6. something sql
-1. **rewatch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
+7. **rewatch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 
 ## Sessions Structure
 * All students are expected to be present for the technical orientation from 1300-1600 on Tuesday June 14.
