@@ -28,7 +28,7 @@ The goal for orientation is for every student to complete the checklist.
 0. **watch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 1. **create** a github account - [link](https://github.com/join) - **email** your username to lpa2a@virginia.edu
 2. **complete** computer hardware survey - [link](https://forms.gle/ddkrs1CtDwxGb1a87)
-2. **open** a bash terminal on rivanna
+2. **open** a bash terminal on rivanna -[link](https://rivanna-portal.hpc.virginia.edu/)
     * **learn** the first four terminal commands - [pwd,ls,cd,history]
     * **use** a terminal text editor - choose one [vi,nano,emacs,etc.]
     * **learn** the PATH environment variable
