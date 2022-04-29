@@ -14,7 +14,6 @@
    * Open Question: What is hello world for SQL?
 * Punch out list:
     - every mention of sql
-    - presenter notes sheet
 
 # orientation-technical
 **Executive Summary** This repo contains the materials for the UVADS MSDS residential technical orientation. The goal of this orientation is for every student to complete the checklist. Supplemental materials are linked to help complete the checklist.
