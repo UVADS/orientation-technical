@@ -38,19 +38,9 @@
 1. **rewatch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 
 ## Sessions Structure
-All students are expected to be present for the technical orientation from 9am to 4pm on June 14,15, and 16 (tue/wed/thur).
-
-|  | Tuesday June 14   |        ||              | Wednesday June 15  |  || | Thursday June 16  |  |
-|--------------|-------|--------|-|--------------|-------|--------------|-|--------------|-------|--------|
-| Session Type | Time  | Agenda || Session Type | Time  | Agenda        ||Session Type | Time  | Agenda |
-|--------------|-------|--------||--------------|-------|---------------||--------------|-------|--------|
-|             |       |         || Kick-off     | 09:00 |               ||Kick-off     | 09:00 |        |
-|             |       |         || Lab Work     | 09:15 | free          || Lab Work     | 09:15 | free   |
-|             |       |         || Group        | 11:00 |               ||Group        | 11:00 | |
-| Lunch        | 12:00 | free   || Lunch        | 12:00 | free          || Lunch        | 12:00 | free   |
-| Kick-off     | 13:00 |        || Lab Work     | 13:00 | free          ||  Lab Work     | 13:00 | free   | 
-| Lab Work     | 13:15 | free   ||             |       |                ||              |       |         | 
-| Group        | 15:00 |        || Group        | 15:00 |               || Group        | 15:00 |        |     
+* All students are expected to be present for the technical orientation from 1300-1600 on Tuesday June 14.
+* All students are expected to be present for the technical orientation from 0900-1600 on Wednesday  June 15 and Thursday June 16.
+* Detailed schedule [here](https://github.com/alonzi/orientation-technical/blob/main/detail-schedule.md)
 
 ## Viewing List
 This playlist is one hour and takes you through the 4+1 model: [link](https://youtube.com/playlist?list=PLc0No4e8MMEMcsS6pL4TZ8KegtS3VLlkk)
