@@ -4,8 +4,8 @@
 * [ august ] aws 101 ---> ( spring and fall )
 * [ 6/13 ] check links
 * [ 6/13 ] make github template
+* [ 6/1 ] clean up orientation schedule
 * [ ] speak to raf and jon and jeffrey about needs for their classes
-* [ ] reading/watching list, revise youtube watch list
 *  [ ]revise core lesson - https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md
   * the point is to know when you have sucessfully set the thing up aka how to test
   * core message is 'hello world' and we teach it to you in: bash,git/github,r/rstudio/python,on rivanna 
@@ -52,6 +52,9 @@ All students are expected to be present for the technical orientation from 9am t
 | Kick-off     | 13:00 |        || Lab Work     | 13:00 | free          ||  Lab Work     | 13:00 | free   | 
 | Lab Work     | 13:15 | free   ||             |       |                ||              |       |         | 
 | Group        | 15:00 |        || Group        | 15:00 |               || Group        | 15:00 |        |     
+
+## Viewing List
+This playlist is one hour and takes you through the 4+1 model: [link](https://youtube.com/playlist?list=PLc0No4e8MMEMcsS6pL4TZ8KegtS3VLlkk)
 
 ## Reading List
 This reading list is in the tradition of old. It is a collection of good resources. The goal isn't to read or memorize everything in this list. The goal is to give starting points for exploration. You are encouraged to pick something and see where it leads. Have conversations about it. Pull on the thread. The brackets at the beginning of each item indicate the rough alignment to the 4+1 model. Systems, Analytics, Value, Design + Practice.
