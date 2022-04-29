@@ -4,6 +4,7 @@
 * [ emails sent requesting talk ] speak to raf and jon and jeffrey about needs for their classes
    * [ after raf and jon ] create sql exercise - add sql - https://www.learnsqlonline.org/en/Hello,_World!
    * tweak content based on convos
+   * Open Question: What is hello world for SQL?
 
 # orientation-technical
 **Executive Summary** This repo contains the materials for the UVADS MSDS residential technical orientation. The goal of this orientation is for every student to complete the checklist. Supplemental materials are linked to help complete the checklist.
