@@ -37,6 +37,7 @@
 10. **install** python and jupyter with anaconda
     * [installation link](https://docs.anaconda.com/anaconda/install/index.html)
     * **confirm** sucessful operation by running a hello world program (using spyder **and** jupyter)
+6. something sql
 1. **rewatch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 
 ## Sessions Structure
