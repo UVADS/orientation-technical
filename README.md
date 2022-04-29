@@ -1,7 +1,6 @@
 # Under Renovation
 * [ 6/13 ] check links
 * [ 6/13 ] make github template
-* [ 6/1 ] clean up orientation schedule
 * [ emails sent requesting talk ] speak to raf and jon and jeffrey about needs for their classes
    * [ after raf and jon ] create sql exercise - add sql - https://www.learnsqlonline.org/en/Hello,_World!
 *  [ ]revise core lesson - https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md
