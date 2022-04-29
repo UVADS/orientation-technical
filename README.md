@@ -44,8 +44,8 @@
 * All students are expected to be present for the technical orientation from 0900-1600 on Wednesday  June 15 and Thursday June 16.
 * Detailed schedule [here](https://github.com/alonzi/orientation-technical/blob/main/detail-schedule.md)
 
-## Viewing List
-This playlist is one hour and takes you through the 4+1 model: [link](https://youtube.com/playlist?list=PLc0No4e8MMEMcsS6pL4TZ8KegtS3VLlkk)
+## Reccomended Viewing
+This playlist contains five videos each one exemplifying a piece of the 4+1 model of Data Science: [link](https://youtube.com/playlist?list=PLc0No4e8MMEMcsS6pL4TZ8KegtS3VLlkk)
 
 ## Reccomended Texts
 1.  [From Pipeline to Paradigm: The 4 + 1 Model of DataScience](https://myuva.sharepoint.com/:b:/s/UVADSDocumentRepository/EW3lUf8y7_ZIpDjxsTEHT58Bd5OJGH4kwb7GPP0e_xifPA?e=BTli8d)
