@@ -69,5 +69,5 @@ Alternatively you can submit feedback without proposing a solution by creating a
 | DS 6001   |Practice and App of Data Science| Kropko,Jonathan Michael |
 |   STAT 6021   | Linear Models for Data Science | Woo,Yong Ming Jeffrey |
 * [ august ] linux file systems ---> workshop ( spring and fall )
-* [ august ] rework hpc section ---> workshop ( spring and fall ), remove from here
+* [ august ] rework hpc section ---> workshop ( spring and fall )
 * [ august ] aws 101 ---> ( spring and fall )
