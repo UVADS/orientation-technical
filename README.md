@@ -78,3 +78,10 @@ I love getting feedback. Here is how you can submit it.
 3. Issue a pull request for any suggested improvements
 
 Alternatively you can submit an issue on the repository.
+
+# What's Next
+| Class | Name  | Professor |
+|-------|-------|-----------|
+|  DS 5100   |Programming for Data Science | Alvarado,Rafael Candido   |
+| DS 6001   |Practice and App of Data Science| Kropko,Jonathan Michael |
+|   STAT 6021   | Linear Models for Data Science | Woo,Yong Ming Jeffrey |
