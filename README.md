@@ -6,11 +6,11 @@
 * [ 6/13 ] make github template
 * [ 6/1 ] clean up orientation schedule
 * [ ] speak to raf and jon and jeffrey about needs for their classes
+   * [ after raf and jon ] create sql exercise - add sql - https://www.learnsqlonline.org/en/Hello,_World!
 *  [ ]revise core lesson - https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md
   * the point is to know when you have sucessfully set the thing up aka how to test
   * core message is 'hello world' and we teach it to you in: bash,git/github,r/rstudio/python,on rivanna 
   * CLI focus and handoff/integration with first summer courses
-* [ ] add sql - https://www.learnsqlonline.org/en/Hello,_World!
 * [ ] session 0 - explain philosophy, i'm a coach, i have a vision, observe and isolate and work
 * [ ] session 1 - warm up, we need to make a data set, volunteer to fill out the surve on the big screen and i coach you through it
 
