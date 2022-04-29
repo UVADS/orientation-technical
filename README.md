@@ -41,17 +41,17 @@
 ## Sessions Structure
 All students are expected to be present for the technical orientation from 9am to 4pm on June 14,15, and 16 (tue/wed/thur).
 
-|  | Tuesday June 14   |        ||              | Wednesday June 15  |  | | Thursday June 16  |  |
-|--------------|-------|--------|-|--------------|-------|--------|--------------|-------|--------|
-| Session Type | Time  | Agenda || Session Type | Time  | Agenda |Session Type | Time  | Agenda |
-|--------------|-------|--------|-|--------------|-------|--------|--------------|-------|--------|
-|             |       |         || Kick-off     | 09:00 |        |Kick-off     | 09:00 |        |
-|             |       |         || Lab Work     | 09:15 | free   | Lab Work     | 09:15 | free   |
-|             |       |         || Group        | 11:00 |         |Group        | 11:00 | |
-| Lunch        | 12:00 | free   || Lunch        | 12:00 | free   | Lunch        | 12:00 | free   |
-| Kick-off     | 13:00 |        || Lab Work     | 13:00 | free   |  Lab Work     | 13:00 | free   | 
-| Lab Work     | 13:15 | free   ||             |       |         |              |       |         | 
-| Group        | 15:00 |        || Group        | 15:00 |        | Group        | 15:00 |        |     
+|  | Tuesday June 14   |        ||              | Wednesday June 15  |  || | Thursday June 16  |  |
+|--------------|-------|--------|-|--------------|-------|--------------|-|--------------|-------|--------|
+| Session Type | Time  | Agenda || Session Type | Time  | Agenda        ||Session Type | Time  | Agenda |
+|--------------|-------|--------||--------------|-------|---------------||--------------|-------|--------|
+|             |       |         || Kick-off     | 09:00 |               ||Kick-off     | 09:00 |        |
+|             |       |         || Lab Work     | 09:15 | free          || Lab Work     | 09:15 | free   |
+|             |       |         || Group        | 11:00 |               ||Group        | 11:00 | |
+| Lunch        | 12:00 | free   || Lunch        | 12:00 | free          || Lunch        | 12:00 | free   |
+| Kick-off     | 13:00 |        || Lab Work     | 13:00 | free          ||  Lab Work     | 13:00 | free   | 
+| Lab Work     | 13:15 | free   ||             |       |                ||              |       |         | 
+| Group        | 15:00 |        || Group        | 15:00 |               || Group        | 15:00 |        |     
 
 ## Reading List
 This reading list is in the tradition of old. It is a collection of good resources. The goal isn't to read or memorize everything in this list. The goal is to give starting points for exploration. You are encouraged to pick something and see where it leads. Have conversations about it. Pull on the thread. The brackets at the beginning of each item indicate the rough alignment to the 4+1 model. Systems, Analytics, Value, Design + Practice.
