@@ -23,7 +23,7 @@
 
 0. **watch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 1. **create** a github account - [link](https://github.com/join) - **email** your username to lpa2a@virginia.edu
-3. **complete** computer hardware survey - [link](https://forms.gle/5YAgx272e2nzYMZ36)
+2. **complete** computer hardware survey - [link](https://forms.gle/ddkrs1CtDwxGb1a87)
 6. **install** VS code
     * **learn** the first four terminal commands - [pwd,ls,cd,history]
     * **use** a terminal text editor - choose one [vi,nano,emacs,etc.]
