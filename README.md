@@ -1,7 +1,4 @@
 # Under Renovation
-* [ august ] linux file systems ---> workshop ( spring and fall )
-* [ august ] rework hpc section ---> workshop ( spring and fall ), remove from here
-* [ august ] aws 101 ---> ( spring and fall )
 * [ 6/13 ] check links
 * [ 6/13 ] make github template
 * [ 6/1 ] clean up orientation schedule
@@ -76,3 +73,6 @@ Alternatively you can submit feedback without proposing a solution by creating a
 |  DS 5100   |Programming for Data Science | Alvarado,Rafael Candido   |
 | DS 6001   |Practice and App of Data Science| Kropko,Jonathan Michael |
 |   STAT 6021   | Linear Models for Data Science | Woo,Yong Ming Jeffrey |
+* [ august ] linux file systems ---> workshop ( spring and fall )
+* [ august ] rework hpc section ---> workshop ( spring and fall ), remove from here
+* [ august ] aws 101 ---> ( spring and fall )
