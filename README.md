@@ -4,7 +4,6 @@
 * [ august ] aws 101 ---> ( spring and fall )
 * [ 6/13 ] check links
 * [ 6/13 ] make github template
-* [ ] remove libguide ---> program orientation 
 * [ ] update hardware survey -- uva net id and github username
 * [ ] reading/watching list, revise youtube watch list
 *  [ ]revise core lesson - https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md
