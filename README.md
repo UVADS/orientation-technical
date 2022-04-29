@@ -41,11 +41,15 @@
 ## Sessions Structure
 All students are expected to be present for the technical orientation from 9am to 4pm on June 14,15, and 16 (tue/wed/thur).
 
-| Session Type | Time  | Agenda |
-|--------------|-------|--------|
-| Kick-off     | 13:00 | [link](https://github.com/alonzi/orientation-technical/blob/main/agenda/agenda-kickoff-tuesday.md)   |
-| Lab Work     | 13:15 | free   |
-| Group        | 15:00 | [link](https://github.com/alonzi/orientation-technical/blob/main/agenda/agenda-1100-tuesday.md) |
+| Session Type | Time  | Agenda |Session Type | Time  | Agenda |Session Type | Time  | Agenda |
+|--------------|-------|--------|--------------|-------|--------|--------------|-------|--------|
+|             |       |         | Kick-off     | 09:00 |        |Kick-off     | 09:00 |        |
+|             |       |         | Lab Work     | 09:15 | free   | Lab Work     | 09:15 | free   |
+|             |       |         | Group        | 11:00 |         |Group        | 11:00 | |
+| Lunch        | 12:00 | free   | Lunch        | 12:00 | free   | Lunch        | 12:00 | free   |
+| Kick-off     | 13:00 |        | Lab Work     | 13:00 | free   |  Lab Work     | 13:00 | free   | 
+| Lab Work     | 13:15 | free   |             |       |         |              |       |         | 
+| Group        | 15:00 |        | Group        | 15:00 |        | Group        | 15:00 |        |     
 
 | Session Type | Time  | Agenda |
 |--------------|-------|--------|
