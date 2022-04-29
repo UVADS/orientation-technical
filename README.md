@@ -3,12 +3,7 @@
 * [ 6/13 ] make github template
 * [ emails sent requesting talk ] speak to raf and jon and jeffrey about needs for their classes
    * [ after raf and jon ] create sql exercise - add sql - https://www.learnsqlonline.org/en/Hello,_World!
-*  [ ]revise core lesson - https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md
-     * the point is to know when you have sucessfully set the thing up aka how to test
-     * core message is 'hello world' and we teach it to you in: bash,git/github,r/rstudio/python,on rivanna 
-     * CLI focus and handoff/integration with first summer courses
-     * 8. [Systems] - [Hello World Program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
-
+   * tweak content based on convos
 
 # orientation-technical
 **Executive Summary** This repo contains the materials for the UVADS MSDS residential technical orientation. The goal of this orientation is for every student to complete the checklist. Supplemental materials are linked to help complete the checklist.
