@@ -42,9 +42,9 @@
 All students are expected to be present for the technical orientation from 9am to 4pm on June 14,15, and 16 (tue/wed/thur).
 
 |  | Tuesday June 14   |        ||              | Wednesday June 15  |  | | Thursday June 16  |  |
-|--------------|-------|--------||--------------|-------|--------|--------------|-------|--------|
+|--------------|-------|--------|-|--------------|-------|--------|--------------|-------|--------|
 | Session Type | Time  | Agenda || Session Type | Time  | Agenda |Session Type | Time  | Agenda |
-|--------------|-------|--------||--------------|-------|--------|--------------|-------|--------|
+|--------------|-------|--------|-|--------------|-------|--------|--------------|-------|--------|
 |             |       |         || Kick-off     | 09:00 |        |Kick-off     | 09:00 |        |
 |             |       |         || Lab Work     | 09:15 | free   | Lab Work     | 09:15 | free   |
 |             |       |         || Group        | 11:00 |         |Group        | 11:00 | |
