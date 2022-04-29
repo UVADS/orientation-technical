@@ -60,6 +60,7 @@ This playlist contains five videos each one exemplifying a piece of the 4+1 mode
 5.  [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
 6.  [A whack on the side of the head](https://www.amazon.com/Whack-Side-Head-More-Creative/dp/0446404667) - ([UVA library](https://search.lib.virginia.edu/search?mode=advanced&q=title%3A%20%7BA%20Whack%20on%20the%20Side%20of%20the%20Head%3A%20How%20You%20Can%20Be%20More%20Creative%7D%20AND%20author%3A%20%7BOech%7D&pool=uva_library))
 7.  [Why Aspiring Data Scientists Should Not Make a Big Deal of Machine Learning](https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467)
+8.  << kropko chapter 0 >>
 
 ## How to submit feedback
 I love getting feedback. Here is how you can submit it.
