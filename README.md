@@ -51,28 +51,6 @@ All students are expected to be present for the technical orientation from 9am t
 | Lab Work     | 13:15 | free   |             |       |         |              |       |         | 
 | Group        | 15:00 |        | Group        | 15:00 |        | Group        | 15:00 |        |     
 
-| Session Type | Time  | Agenda |
-|--------------|-------|--------|
-| Kick-off     | 09:00 | [link](https://github.com/alonzi/orientation-technical/blob/main/agenda/agenda-kickoff-tuesday.md)   |
-| Lab Work     | 09:15 | free   |
-| Group        | 11:00 | [link](https://github.com/alonzi/orientation-technical/blob/main/agenda/agenda-1100-tuesday.md) |
-|--------------|-------|--------|
-| Lunch        | 12:00 | free   |
-|--------------|-------|--------|
-| Lab Work     | 13:00 | free   | 
-| Group        | 15:00 | [link](https://github.com/alonzi/orientation-technical/blob/main/agenda/agenda-1500-tuesday.md)   | 
-
-| Session Type | Time  | Agenda |
-|--------------|-------|--------|
-| Kick-off     | 09:00 | [link](https://github.com/alonzi/orientation-technical/blob/main/agenda/agenda-kickoff-tuesday.md)   |
-| Lab Work     | 09:15 | free   |
-| Group        | 11:00 | [link](https://github.com/alonzi/orientation-technical/blob/main/agenda/agenda-1100-tuesday.md) |
-|--------------|-------|--------|
-| Lunch        | 12:00 | free   |
-|--------------|-------|--------|
-| Lab Work     | 13:00 | free   | 
-| Group        | 15:00 | [link](https://github.com/alonzi/orientation-technical/blob/main/agenda/agenda-1500-tuesday.md)   | 
-
 ## Reading List
 This reading list is in the tradition of old. It is a collection of good resources. The goal isn't to read or memorize everything in this list. The goal is to give starting points for exploration. You are encouraged to pick something and see where it leads. Have conversations about it. Pull on the thread. The brackets at the beginning of each item indicate the rough alignment to the 4+1 model. Systems, Analytics, Value, Design + Practice.
 
