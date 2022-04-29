@@ -21,6 +21,7 @@ In this orientation we will cover the three most commonly used environments in t
 * BASH - `echo 'hello world'`
 * python - `print('hello world')`
 * R - `print('hello world')`
+* SQL - 
 
 ## Old School Environment Example - 6502 Assembly
 For context this is what it used to look like back in the day.
