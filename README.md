@@ -35,9 +35,6 @@
     * [installation link](https://docs.anaconda.com/anaconda/install/index.html)
     * **confirm** sucessful operation by running a hello world program (using spyder **and** jupyter)
 13. **familiarize** yourself with the Data Science Library Research Guide - [link](https://guides.lib.virginia.edu/datascience)
-14. **learn** about High Performance Computing at UVA
-    * **read** - rc.virginia.edu
-    * **attend** - syncronous session @ 3p on 6/17 (thur) - [flyer](https://github.com/UVADS/orientation-technical/blob/88bfaea6197d0ac0174f517b46b1a21e70a01507/SDS%20event%20flyer%20FINAL.pdf)
 1. **rewatch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 
 ## Sessions Structure
