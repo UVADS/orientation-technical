@@ -10,8 +10,6 @@
      * CLI focus and handoff/integration with first summer courses
      * 8. [Systems] - [Hello World Program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
-* [ ] make notes - explain philosophy, i'm a coach, i have a vision, observe and isolate and work
-* [ ] make notes - what is hello world
 
 # orientation-technical
 **Executive Summary** This repo contains the materials for the UVADS MSDS residential technical orientation. The goal of this orientation is for every student to complete the checklist. Supplemental materials are linked to help complete the checklist.
