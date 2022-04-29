@@ -33,15 +33,16 @@ The goal for orientation is for every student to complete the checklist.
     * **use** a terminal text editor - choose one [vi,nano,emacs,etc.]
     * **learn** the PATH environment variable
     * **confirm** sucessful operation by running a [hello world program](https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md) in BASH (or other shell if you prefer)
-4. **install** VS code
-5. **install** R and Rstudio Desktop
+4. **install** VS code and git BASH
+    * repeat rivanna substeps but now on your local machine
+6. **install** R and Rstudio Desktop
     * [installation link](https://rstudio.com/products/rstudio/download/#download)
     * **confirm** sucessful operation by running a hello world program
-6. **install** python and jupyter with anaconda
+7. **install** python and jupyter with anaconda
     * [installation link](https://docs.anaconda.com/anaconda/install/index.html)
     * **confirm** sucessful operation by running a hello world program (using spyder **and** jupyter)
-7. something sql
-8. **rewatch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
+8. something sql
+9. **rewatch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 
 ## Sessions Structure
 * All students are expected to be present for the technical orientation from 1300-1600 on Tuesday June 14.
