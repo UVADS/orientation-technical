@@ -17,7 +17,10 @@
 * [ ] session 1 - warm up, we need to make a data set, volunteer to fill out the surve on the big screen and i coach you through it
 
 # orientation-technical
-**Executive Summary** This repo contains the materials for the UVADS residential technical orientation. Chief of which is a checklist of items to complete before classes begin. Supplemental materials are linked to help complete the checklist. There is also a schedule of synchronous session to help complete the checklist.
+**Executive Summary** This repo contains the materials for the UVADS MSDS residential technical orientation. The goal of this orientation is for every student to complete the checklist. Supplemental materials are linked to help complete the checklist.
+
+## Goal
+The goal for orientation is for every student to complete the checklist.
 
 ## The Checklist
 
