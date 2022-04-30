@@ -3,6 +3,7 @@
     - give my philosophy spiel
     - explain the mission
     - take questions
+    - ok, let's start together part 1) social media and part 2) make data together
     - give hello world lecture
     - open q & a with studnet on the big screen
     - vs code / text editor vs word processor / bash 
