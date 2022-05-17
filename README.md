@@ -9,7 +9,7 @@
     - vs code / text editor vs word processor / bash 
 * [ 6/13 ] check links
 * [ 6/13 ] make github template
-* Open Question: What is hello world for SQL? - https://www.learnsqlonline.org/en/Hello,_World! - SELECT "Hello World"
+* ~~Open Question: What is hello world for SQL? - https://www.learnsqlonline.org/en/Hello,_World! - SELECT "Hello World"~~
 * Punch out list:
     - every mention of sql - we are treating `SELECT` as the print of the sql world
 
