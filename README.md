@@ -11,7 +11,7 @@
 * [ 6/13 ] make github template
 * Open Question: What is hello world for SQL? - https://www.learnsqlonline.org/en/Hello,_World! - SELECT "Hello World"
 * Punch out list:
-    - every mention of sql
+    - every mention of sql - we are treating `SELECT` as the print of the sql world
 
 # orientation-technical
 **Executive Summary** This repo contains the materials for the UVADS MSDS residential technical orientation. The goal of this orientation is for every student to complete the checklist. Supplemental materials are linked to help complete the checklist.
