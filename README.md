@@ -1,4 +1,4 @@
-# Under Renovation - These materials are currently under revision, enter at your own risk!
+# Under Renovation - These materials are currently under revision, enter at your own risk! (Expected completion on or about June 10)
 
 
 # orientation-technical
