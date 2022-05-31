@@ -1,17 +1,5 @@
-# Under Renovation
-* [ 6/14 ] morning of, make presenter notes sheet
-    - give my philosophy spiel
-    - explain the mission
-    - take questions
-    - ok, let's start together part 1) social media and part 2) make data together
-    - give hello world lecture
-    - open q & a with studnet on the big screen
-    - vs code / text editor vs word processor / bash 
-* [ 6/13 ] check links
-* [ 6/13 ] make github template
-* ~~Open Question: What is hello world for SQL? - https://www.learnsqlonline.org/en/Hello,_World! - SELECT "Hello World"~~
-* Punch out list:
-    - every mention of sql - we are treating `SELECT` as the print of the sql world
+# Under Renovation - These materials are currently under revision, enter at your own risk!
+
 
 # orientation-technical
 **Executive Summary** This repo contains the materials for the UVADS MSDS residential technical orientation. The goal of this orientation is for every student to complete the checklist. Supplemental materials are linked to help complete the checklist.
@@ -79,3 +67,21 @@ Alternatively you can submit feedback without proposing a solution by creating a
 * [ august ] linux file systems ---> workshop ( spring and fall )
 * [ august ] rework hpc section ---> workshop ( spring and fall )
 * [ august ] aws 101 ---> ( spring and fall )
+
+
+
+
+# TODO LIST
+* [ 6/14 ] morning of, make presenter notes sheet
+    - give my philosophy spiel
+    - explain the mission
+    - take questions
+    - ok, let's start together part 1) social media and part 2) make data together
+    - give hello world lecture
+    - open q & a with studnet on the big screen
+    - vs code / text editor vs word processor / bash 
+* [ 6/13 ] check links
+* [ 6/13 ] make github template
+* ~~Open Question: What is hello world for SQL? - https://www.learnsqlonline.org/en/Hello,_World! - SELECT "Hello World"~~
+* Punch out list:
+    - every mention of sql - we are treating `SELECT` as the print of the sql world
