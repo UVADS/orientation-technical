@@ -51,6 +51,7 @@ This playlist contains five videos each one exemplifying a piece of the 4+1 mode
 7.  [Why Aspiring Data Scientists Should Not Make a Big Deal of Machine Learning](https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467)
 8.  [Getting Starting with Python and JupyterLab: DS 6001: Practice and Application of Data Science](https://colab.research.google.com/drive/1oMEcZVC0P-VUGwLf-72XvHAPOoXEUkPh?usp=sharing)
 9.  [Using PostgresSQL](https://jkropko.github.io/surfing-the-data-pipeline/ch6.html#using-postgressql) - Kropko
+10.  SQL Turtorial - [learnsqlonline.org](https://www.learnsqlonline.org/)
 
 ## How to submit feedback
 I love getting feedback. Here is how you can submit it.
@@ -84,6 +85,3 @@ Alternatively you can submit feedback without proposing a solution by creating a
     - vs code / text editor vs word processor / bash 
 * [ 6/13 ] check links
 * [ 6/13 ] make github template
-* ~~Open Question: What is hello world for SQL? - https://www.learnsqlonline.org/en/Hello,_World! - SELECT "Hello World"~~
-* Punch out list:
-    - every mention of sql - we are treating `SELECT` as the print of the sql world
