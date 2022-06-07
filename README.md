@@ -75,12 +75,14 @@ Alternatively you can submit feedback without proposing a solution by creating a
 
 # TODO LIST
 * [ 6/14 ] morning of, make presenter notes sheet
-    - give my philosophy spiel
-    - explain the mission
-    - take questions
+    - give my philosophy spiel (i'm your coach, again but different)
+    - explain the goal of the orientation
+    - take questions on the goal?
     - ok, let's start together part 1) social media and part 2) make data together
     - give hello world lecture
-    - open q & a with studnet on the big screen
+    - questions
+    - with studnet on the big screen -- bash rivanna steps
     - vs code / text editor vs word processor / bash 
+    - no pain no gain --> let them loose
 * [ 6/13 ] check links
 * [ 6/13 ] make github template
