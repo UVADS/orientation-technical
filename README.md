@@ -28,7 +28,7 @@ The goal for orientation is for every student to complete the checklist.
     * [installation link](https://docs.anaconda.com/anaconda/install/index.html)
     * **confirm** sucessful operation by running a hello world program (using spyder **and** jupyter)
 8. **install** PostgresSQL
-    * confirm operation by running `SELECT 'hello world'`
+    * confirm operation by running a few fundamental commands `\l` and `\?` and `q`
 10. **rewatch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 
 ## Sessions Structure
