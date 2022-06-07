@@ -27,8 +27,9 @@ The goal for orientation is for every student to complete the checklist.
 7. **install** python and jupyter with anaconda
     * [installation link](https://docs.anaconda.com/anaconda/install/index.html)
     * **confirm** sucessful operation by running a hello world program (using spyder **and** jupyter)
-8. something sql
-9. **rewatch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
+8. **install** PostgresSQL
+    * confirm operation by running `SELECT 'hello world'`
+10. **rewatch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 
 ## Sessions Structure
 * All students are expected to be present for the technical orientation from 1300-1600 on Tuesday June 14.
@@ -49,6 +50,7 @@ This playlist contains five videos each one exemplifying a piece of the 4+1 mode
 6.  [A whack on the side of the head](https://www.amazon.com/Whack-Side-Head-More-Creative/dp/0446404667) - ([UVA library](https://search.lib.virginia.edu/search?mode=advanced&q=title%3A%20%7BA%20Whack%20on%20the%20Side%20of%20the%20Head%3A%20How%20You%20Can%20Be%20More%20Creative%7D%20AND%20author%3A%20%7BOech%7D&pool=uva_library))
 7.  [Why Aspiring Data Scientists Should Not Make a Big Deal of Machine Learning](https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467)
 8.  [Getting Starting with Python and JupyterLab: DS 6001: Practice and Application of Data Science](https://colab.research.google.com/drive/1oMEcZVC0P-VUGwLf-72XvHAPOoXEUkPh?usp=sharing)
+9.  [Using PostgresSQL](https://jkropko.github.io/surfing-the-data-pipeline/ch6.html#using-postgressql) - Kropko
 
 ## How to submit feedback
 I love getting feedback. Here is how you can submit it.
