@@ -45,7 +45,6 @@ This playlist contains five videos each one exemplifying a piece of the 4+1 mode
 3.  [Lectures on Computing](http://galileo.phys.virginia.edu/compfac/courses/)
 3. R for Data Science - ([UVA Library](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) // [free online](https://r4ds.had.co.nz/))
 3.  Python for Data Analysis - ([UVA library](https://learning.oreilly.com/library/view/python-for-data/9781491957653/?ar) // [online](https://wesmckinney.com/pages/book.html))
-4. something sql
 5.  [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
 6.  [A whack on the side of the head](https://www.amazon.com/Whack-Side-Head-More-Creative/dp/0446404667) - ([UVA library](https://search.lib.virginia.edu/search?mode=advanced&q=title%3A%20%7BA%20Whack%20on%20the%20Side%20of%20the%20Head%3A%20How%20You%20Can%20Be%20More%20Creative%7D%20AND%20author%3A%20%7BOech%7D&pool=uva_library))
 7.  [Why Aspiring Data Scientists Should Not Make a Big Deal of Machine Learning](https://towardsdatascience.com/why-aspiring-data-scientists-should-not-make-a-big-deal-of-machine-learning-218a66b18467)
