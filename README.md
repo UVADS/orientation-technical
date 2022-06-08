@@ -31,6 +31,11 @@ The goal for orientation is for every student to complete the checklist.
     * confirm operation by running a few fundamental commands `\echo hello world` and `\l` and `\?` and `\q`
 10. **rewatch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 
+### Bonus Item: Pick one from the following list and explore, share your findings with a friend:
+* ggplot
+* matplotlib
+* send an email from the command line
+
 ## Sessions Structure
 * All students are expected to be present for the technical orientation from 1300-1600 on Tuesday June 14.
 * All students are expected to be present for the technical orientation from 0900-1600 on Wednesday  June 15 and Thursday June 16.
