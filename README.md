@@ -19,7 +19,7 @@ The goal for orientation is for every student to complete the checklist.
     * **use** a terminal text editor - choose one [vi,nano,emacs,etc.]
     * **learn** the PATH environment variable
     * **confirm** sucessful operation by running a [hello world program](https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md) in BASH (or other shell if you prefer)
-    * if needed: allocation = msds2023
+    * if needed your allocation = msds2023
 4. **install** VS code and git BASH
     * repeat rivanna substeps but now on your local machine
 6. **install** R and Rstudio Desktop
