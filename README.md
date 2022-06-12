@@ -76,18 +76,3 @@ Alternatively you can submit feedback without proposing a solution by creating a
 * September Seminar: linux file systems
 * October Seminar: high performance computing
 * November Seminar: cloud primer (aws)
-
-
-
-
-# TODO LIST
-* [ 6/14 ] morning of, make presenter notes sheet
-    - give my philosophy spiel (i'm your coach, again but different)
-    - explain the goal of the orientation
-    - take questions on the goal?
-    - ok, let's start together part 1) social media and part 2) make data together
-    - give hello world lecture
-    - questions
-    - with studnet on the big screen -- bash rivanna steps 
-    - no pain no gain --> let them loose (at number 4)
-    - whlie they work i clean up the data and post it
