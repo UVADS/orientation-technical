@@ -90,4 +90,5 @@ Alternatively you can submit feedback without proposing a solution by creating a
     - questions
     - with studnet on the big screen -- bash rivanna steps 
     - no pain no gain --> let them loose (at number 4)
+    - whlie they work i clean up the data and post it
 * R&R this file [link](https://github.com/alonzi/orientation-technical/blob/main/detail-schedule.md)
