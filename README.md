@@ -73,9 +73,9 @@ Alternatively you can submit feedback without proposing a solution by creating a
 |  DS 5100   |Programming for Data Science | Alvarado,Rafael Candido   |
 | DS 6001   |Practice and App of Data Science| Kropko,Jonathan Michael |
 |   STAT 6021   | Linear Models for Data Science | Woo,Yong Ming Jeffrey |
-* September Seminar: linux file systems ---> workshop ( spring and fall )
-* October Seminar: high performance computing ---> workshop ( spring and fall )
-* November Seminar: cloud primer (aws) ---> ( spring and fall )
+* September Seminar: linux file systems
+* October Seminar: high performance computing
+* November Seminar: cloud primer (aws)
 
 
 
