@@ -89,5 +89,5 @@ Alternatively you can submit feedback without proposing a solution by creating a
     - give hello world lecture
     - questions
     - with studnet on the big screen -- bash rivanna steps 
-    - no pain no gain --> let them loose 
+    - no pain no gain --> let them loose (at number 4)
 * R&R this file [link](https://github.com/alonzi/orientation-technical/blob/main/detail-schedule.md)
