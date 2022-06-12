@@ -47,8 +47,8 @@ The goal for orientation is for every student to complete the checklist.
 This playlist contains five videos each one exemplifying a piece of the 4+1 model of Data Science: [link](https://youtube.com/playlist?list=PLc0No4e8MMEMcsS6pL4TZ8KegtS3VLlkk)
 
 ## Recommended Texts
-1.  [From Pipeline to Paradigm: The 4 + 1 Model of DataScience](https://myuva.sharepoint.com/:b:/s/UVADSDocumentRepository/EW3lUf8y7_ZIpDjxsTEHT58Bd5OJGH4kwb7GPP0e_xifPA?e=BTli8d)
-2. [A History of Data Science: 1960 to 2012](https://myuva.sharepoint.com/:b:/s/UVADSDocumentRepository/EZqBYGILLBlLs2mUIymNYlkBnayKv3K5ZhEj8II10NRkKQ?e=6iZgcV)
+1.  [From Pipeline to Paradigm: The 4 + 1 Model of DataScience](https://myuva-my.sharepoint.com/:b:/g/personal/lpa2a_virginia_edu/EVgvNgTGIY9NpiyhmJYG6sMBCUWeUbAwq6KiIvAp34k9NQ?e=gqrAeB)
+2. [A History of Data Science: 1960 to 2012](https://myuva-my.sharepoint.com/:b:/g/personal/lpa2a_virginia_edu/EZ7EIykczFNOr7vu9Y0JsJwBXxEdwV86y5B1HRbrfCZ0Aw?e=PA6wHL)
 3.  [Lectures on Computing](http://galileo.phys.virginia.edu/compfac/courses/)
 3. R for Data Science - ([UVA Library](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) // [free online](https://r4ds.had.co.nz/))
 3.  Python for Data Analysis - ([UVA library](https://learning.oreilly.com/library/view/python-for-data/9781491957653/?ar) // [online](https://wesmckinney.com/pages/book.html))
