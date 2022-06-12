@@ -91,6 +91,4 @@ Alternatively you can submit feedback without proposing a solution by creating a
     - with studnet on the big screen -- bash rivanna steps
     - vs code / text editor vs word processor / bash 
     - no pain no gain --> let them loose
-* [ 6/13 ] check links
-* [ 6/13 ] make github template
 * R&R this file [link](https://github.com/alonzi/orientation-technical/blob/main/detail-schedule.md)
