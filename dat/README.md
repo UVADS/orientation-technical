@@ -1,5 +1,4 @@
 # This directory contains data.
-# Did you know 'dat' stands for source code?
 
 
 
