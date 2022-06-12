@@ -11,7 +11,7 @@ The goal for orientation is for every student to complete the checklist.
 
 **NB: if you have already completed an item there is no nead to repeat it, except for the final item**
 
-0. **watch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
+0. **watch** Jurassic Park ([UVA Library]([https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371](https://search.lib.virginia.edu/sources/uva_library/items/u3586953))
 1. **create** a github account - [link](https://github.com/join) 
 2. **complete** computer hardware survey - [link](https://forms.gle/ddkrs1CtDwxGb1a87)
 2. **open** a bash terminal on rivanna -[link](https://rivanna-portal.hpc.virginia.edu/)
