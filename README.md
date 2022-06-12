@@ -88,7 +88,6 @@ Alternatively you can submit feedback without proposing a solution by creating a
     - ok, let's start together part 1) social media and part 2) make data together
     - give hello world lecture
     - questions
-    - with studnet on the big screen -- bash rivanna steps
-    - vs code / text editor vs word processor / bash 
-    - no pain no gain --> let them loose
+    - with studnet on the big screen -- bash rivanna steps 
+    - no pain no gain --> let them loose 
 * R&R this file [link](https://github.com/alonzi/orientation-technical/blob/main/detail-schedule.md)
