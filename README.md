@@ -1,6 +1,3 @@
-# Under Renovation - These materials are currently under revision, enter at your own risk! (Expected completion on or about June 10)
-
-
 # orientation-technical
 **Executive Summary** This repo contains the materials for the UVADS MSDS residential technical orientation. The goal of this orientation is for every student to complete the checklist. Supplemental materials are linked to help complete the checklist.
 
@@ -9,7 +6,7 @@ The goal for orientation is for every student to complete the checklist.
 
 ## The Checklist
 
-**NB: if you have already completed an item there is no nead to repeat it, except for the final item**
+**NB: if you have already completed an item there is no nead to repeat it**
 
 0. **watch** Jurassic Park ( [UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/u3586953) or HBO MAX )
 1. **create** a github account - [link](https://github.com/join) 
