@@ -12,3 +12,4 @@ ggplot(data = surveydatanew) + geom_point(mapping = aes(`RAM (in GB)`, `CPU Cycl
 
 ggplot(data = surveydatanew) + geom_bar(mapping = aes(`Operating System`, fill = `Operating System`))
 
+ggplot(data = surveydatanew) + geom_histogram(mapping = aes(`Hard Drive Size (in GB)`))
