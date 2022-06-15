@@ -1,0 +1,34 @@
+---
+title: "MSDS Orientation061522"
+output: html_document
+---
+#reading in the file and installing packages
+```{r}
+orientation<-read.csv("E:\\Rhea 2022\\Classes\\Data Science UVA\\Orientation\\orientation.csv",check.names = FALSE)
+library(tidyverse)
+library(ggplot2)
+library(dplyr)
+```
+
+```{r}
+orientation[, ]  
+#renaming the columns
+colnames(orientation)<-c('SubmissionTime', 'OS', 'CPUCycle', 'CPUNumCores', 'RAM', "HardDriveSize", 'GPU', 'GPUCudaNumCores')
+
+#bar graph, colored dark green, changed limits of x axis to remove outlier 
+ggplot(orientation,aes(x=RAM))+geom_bar(fill="darkgreen") +xlim(0,40)
+
+#boxplot of CPU cycle categorized by OS, colored magenta
+ggplot(orientation,aes(x=OS, y=CPUCycle))+geom_boxplot(fill="magenta")
+
+#scatter plot with CPU cycle in GHz on y axis and Number of CPU cycles on the x axis. Colored blue, position is jitter to make position of each point comprehensible. I changed the x and y limits which removed one outlier.
+ggplot(orientation, aes(x=CPUNumCores, y=CPUCycle))+geom_point(color="blue",position = "jitter") + xlim(0, 15) + ylim(0, 5)
+
+#Same as above except I added a third numerical variable relating the position of the dots to the Hard drive size. I changed the limits of the x and y axis and it is colored purple.
+ggplot(orientation, aes(x=CPUNumCores, y=CPUCycle, size=HardDriveSize))+geom_point(color="purple") +xlim(0,15) +ylim(0,5)
+
+
+
+
+```
+
