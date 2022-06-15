@@ -25,6 +25,7 @@ The goal for orientation is for every student to complete the checklist.
 7. **install** python and jupyter with anaconda
     * [installation link](https://docs.anaconda.com/anaconda/install/index.html)
     * **confirm** sucessful operation by running a hello world program (using spyder **and** jupyter)
+    * **NEW** make a histogram
 8. **install** PostgresSQL
     * confirm operation by running a few fundamental commands `\echo hello world` and `\l` and `\?` and `\q`
 10. **rewatch** Jurassic Park ( [UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/u3586953) or HBO MAX )
