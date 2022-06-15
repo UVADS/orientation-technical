@@ -1,0 +1,37 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df = pd.read_csv (r'C:\Users\Royal Wang\Documents\data_set.csv')
+
+list = []
+
+counter = 0
+for col in df.columns:
+    counter +=1
+    globals()["x" + str(counter)] = df[col]
+    list.append("x"+str(counter))
+
+print(list)
+
+fig, axs = plt.subplots(3,2)
+
+
+axs[0,0].hist(x2, bins=3)
+axs[0,0].set_title('Operating_System')
+
+axs[1,0].hist(x3, bins=50)
+axs[1,0].set_title('CPU Cycle Rate (in GHz)')
+
+axs[2,0].hist(x4, bins=10)
+axs[2,0].set_title('CPU Number of Cores (int)')
+
+axs[0,1].hist(x5, bins=50)
+axs[0,1].set_title('RAM (in GB)')
+
+axs[1,1].hist(x6, bins=10)
+axs[1,1].set_title('Hard Drive Size (in GB)')
+
+axs[2,1].hist(x8, bins=10)
+axs[2,1].set_title('GPU CUDA Number of Cores (int)')
+
+
