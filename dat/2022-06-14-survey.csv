@@ -1,0 +1,63 @@
+﻿Timestamp,Operating System,CPU Cycle Rate (in GHz),CPU Number of Cores (int),RAM (in GB),Hard Drive Size (in GB),GPU (short description as a string),GPU CUDA Number of Cores (int)
+5/18/2022 12:30:44,MacOS,2.5,2,16,500,Intel Iris Plus Graphics 640 1536 MB,0
+1/1/1970 0:00:00,Any Linux,500,-3,256,5,rtx 48000,6002283
+6/8/2022 17:39:20,Windows,2.8,4,16,512,Intel Iris Xe Graphics,4
+6/12/2022 21:25:43,Windows,2.3,8,16,936,Intel(R) UHD Graphics,2560
+6/14/2022 11:51:11,MacOS,1.6,2,8,121,Intel UHD Graphics 617 1536 MB,2
+6/14/2022 13:00:49,MacOS,3.1,4,8,256,"""Intel Iris Plus Graphics 650 1536 MB""",0
+6/14/2022 13:04:18,Windows,2.5,14,16,1000,NVIDIA GTX3070 Ti,6144
+6/14/2022 13:13:25,MacOS,2.3,4,8,500,Intel Iris Plus Graphics 655 1536 MB,4
+6/14/2022 13:29:50,MacOS,3.2,8,8,500,8,8
+6/14/2022 13:30:07,Windows,3.3,4,32,1000,Intel Iris Xe graphics,4
+6/14/2022 13:52:28,Windows,2.5,14,16,512,NVIDIA GeForce RTX 3050 Ti Laptop GPU,2560
+6/14/2022 13:53:31,MacOS,2.3,2,8,121,Intel Iris Plus Graphics 640,48
+6/14/2022 13:53:54,MacOS,2.3,2,16,250,Intel Iris Plus Graphics 640 1536 MB,0
+6/14/2022 13:56:14,Windows,2.8,4,16,1000,GTX 1050ti,768
+6/14/2022 13:57:45,Windows,2.71,2,8,237,equipment that quickly alters memory to render graphics,324
+6/14/2022 13:59:08,MacOS,3.22,8,16,512,"Apple M1 Pro, built-in",14
+6/14/2022 13:59:13,MacOS,3.2,8,16,995,Apple M1 Built-In Retina LCD,8
+6/14/2022 13:59:13,MacOS,3.1,2,8,256,Intel Iris Plus Graphics 650 1536 MB,48
+6/14/2022 14:00:17,MacOS,1.4,4,8,251,Intel Iris Plus Graphics 645 1536 MB,48
+6/14/2022 14:00:45,MacOS,3.2,8,8,250,Apple M1 Built in ,7
+6/14/2022 14:00:46,MacOS,1.8,2,8,250,Intel HD Graphics 6000 1536 MB,348
+6/14/2022 14:01:31,MacOS,2.3,5,8,121,Intel Iris Plus Graphics 640 1536 MB,0
+6/14/2022 14:02:41,Windows,2.6,1,8,279,Intel(R) Core(TM) i7-9750H,6
+6/14/2022 14:03:15,MacOS,3.2,10,32,500,Apple M1 Pro built-in,16
+6/14/2022 14:03:17,Windows,2.9,2,16,237,Intel(R) HD Graphics 620,24
+6/14/2022 14:03:27,MacOS,3.2,8,8,500,Apple M1 built-in GPU,8
+6/14/2022 14:04:01,Windows,4.7,14,16,512,NVIDIA GeForce RTX 3050,2560
+6/14/2022 14:04:07,Windows,2.34,4,16,222,Intel(R) UHD Graphics,630
+6/14/2022 14:04:21,Windows,2.1,6,12,256,AMD_Ryzen_5_5500U,6
+6/14/2022 14:05:35,MacOS,3.2,8,8,245,Apple M1 Built-in,7
+6/14/2022 14:05:39,Windows,2.3,8,16,512,NVIDIA GeForce RTX 3050 Ti Laptop GPU,2560
+6/14/2022 14:05:44,MacOS,2.8,4,16,256,Intel HD Graphics 630 1536 MB,24
+6/14/2022 14:05:47,MacOS,2.3,2,8,121,Intel Iris Plus Graphics 640,48
+6/14/2022 14:06:01,MacOS,2,4,16,512,Intel Iris Plus Graphics 1536 MB,24
+6/14/2022 14:06:19,MacOS,3.1,2,8,500,Intel Iris Plus Graphics 650 1536 MB,2
+6/14/2022 14:07:41,Windows,3,4,16,256,Intel R Iris R Xe Graphics,4
+6/14/2022 14:07:45,Windows,2.71,6,16,1024,Intel(R) UHD Graphics,384
+6/14/2022 14:08:11,MacOS,3.2,10,16,995,Apple M1 Pro,0
+6/14/2022 14:08:12,MacOS,1.1,2,8,251,Intel Iris Plus Graphics 1536 MB,48
+6/14/2022 14:08:18,Windows,2.8,4,16,512,Intel Iris Xe,4
+6/14/2022 14:08:43,MacOS,2.3,2,8,250,Intel Iris Plus graphics 640,384
+6/14/2022 14:09:23,MacOS,1.6,2,8,251,Intel UHD Graphics 617 1536 MB,24
+6/14/2022 14:09:35,Windows,1.61,6,8,222,intel(r) UHD Graphics,0
+6/14/2022 14:09:42,MacOS,3.2,10,16,1000,Apple M1 Pro,0
+6/14/2022 14:09:48,MacOS,2.4,4,8,512,Intel Iris Plus Graphics 655,48
+6/14/2022 14:10:11,MacOS,2.8,4,16,512,Quad-Core Intel Core i7,192
+6/14/2022 14:10:12,MacOS,3.2,8,16,512,Apple M1 Pro,0
+6/14/2022 14:11:00,Windows,2.4,4,16,222,Intel(R) Graphics UHD 630,24
+6/14/2022 14:11:18,Windows,1.8,4,16,256,Intel(R) UHD Graphics 620,24
+6/14/2022 14:11:26,MacOS,1.8,2,8,256,Intel HD Graphics 6000,48
+6/14/2022 14:11:27,MacOS,2.6,6,16,499,Intel UHD Graphics 630 1536 MB,48
+6/14/2022 14:11:32,MacOS,3.2,8,16,512,Apple M1,14
+6/14/2022 14:12:00,MacOS,2.1,10,16,1000,M1 Pro,16
+6/14/2022 14:12:59,Windows,2.7,2,8,242,Intel(R) HD Graphics 620,0
+6/14/2022 14:13:20,Windows,2.8,4,16,934,Intel(R) Iris(R) Xe Graphics,0
+6/14/2022 14:13:20,MacOS,1.6,2,4,251,Intel HD Graphics 6000 1536 MB,0
+6/14/2022 14:15:06,MacOS,1.4,8,16,16,Apple M1,0
+6/14/2022 14:16:47,Windows,1.8,4,16,450,NVIDIA GeForce GTX 1050,640
+6/14/2022 14:17:00,Windows,2.4,4,16,237,Intel(R) Iris(R) Xe Graphics,0
+6/14/2022 14:17:18,Any Linux,2.5,14,32,1000,NVIDIA GeForce RTX 3050 Ti Laptop GPU,2560
+6/14/2022 14:17:30,Windows,2.4,2,8,237,Intel (R) HD Graphics 520,192
+6/14/2022 14:18:16,MacOS,1.4,8,8,256,Apple M1,0
