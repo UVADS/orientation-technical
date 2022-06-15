@@ -1,0 +1,150 @@
+---
+title: "R intro"
+output: html_document
+date: '2022-06-15'
+---
+
+```{r}
+library(readr)
+library(tidyverse)
+```
+
+# 3) Data Visualization
+
+## First Steps
+```{r}
+library(ggplot2)
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy), colour = 'blue') + 
+  ggtitle("highway miles vs engine displacement") +
+  xlab("engine displacement, in litres") + 
+  ylab("highway miles, per gallon")
+
+ggplot(data = mpg) +
+  geom_point(mapping = aes(cyl, hwy))
+
+ggplot(data = mpg) +
+  geom_point(mapping = aes(drv, class))
+```
+## Aesthethic Mappings
+```{r}
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy, color = hwy))
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy, color = class))
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy, size = class))
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy, shape = class))
+```
+
+## Facets
+```{r}
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy)) + 
+  facet_wrap(~ class, nrow = 2)
+
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy)) + 
+  facet_grid(drv ~ cyl)
+
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy)) + 
+  facet_grid(. ~ cyl)
+
+# facet on a continuous variable
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy)) + 
+  facet_grid(. ~ displ)
+
+
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy)) +
+  facet_grid(drv ~ .)
+
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy)) +
+  facet_grid(. ~ cyl)
+```
+## Geometric Objects
+```{r}
+ggplot(data = mpg) +
+  geom_smooth(
+    mapping = aes(x = displ, y = hwy, color = drv),
+    show.legend = TRUE
+  )
+
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy)) +
+  geom_smooth(
+    mapping = aes(x = displ, y = hwy)
+  )
+
+ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) + 
+  geom_point(mapping = aes(color = class)) + 
+  geom_smooth()
+
+ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) + 
+  geom_point(mapping = aes(color = class)) + 
+  geom_smooth(
+    mapping = aes(x = displ, y = hwy, color = class),
+    show.legend = TRUE
+  )
+```
+```{r}
+ggplot(data = mpg) +
+  geom_point(mapping = aes(x = displ, y  = hwy)) + 
+  geom_smooth(mapping = aes(x = displ, y  = hwy))
+
+ggplot(data = mpg) +
+  geom_point(mapping = aes(x = displ, y  = hwy)) + 
+  geom_smooth(mapping = aes(x = displ, y  = hwy, group = drv))
+
+ggplot(data = mpg) +
+  geom_point(mapping = aes(x = displ, y  = hwy, color = drv)) + 
+  geom_smooth(mapping = aes(x = displ, y  = hwy, color = drv))
+
+ggplot(data = mpg) +
+  geom_point(mapping = aes(x = displ, y  = hwy, color = drv)) + 
+  geom_smooth(mapping = aes(x = displ, y  = hwy))
+
+ggplot(data = mpg) +
+  geom_point(mapping = aes(x = displ, y  = hwy, color = drv)) + 
+  geom_smooth(mapping = aes(x = displ, y  = hwy, linetype = drv))
+
+ggplot(data = mpg) +
+  geom_point(mapping = aes(x = displ, y  = hwy, color = drv, size = 0.01))
+```
+
+
+## Statistical Transformations
+```{r}
+ggplot(data = diamonds) + 
+  geom_bar(mapping = aes(x = cut, fill = cut))
+
+ggplot(data = diamonds) + 
+  geom_bar(mapping = aes(x = cut, fill = clarity))
+
+ggplot(data = diamonds) + 
+  geom_bar(mapping = aes(x = cut, fill = clarity), position = "dodge")
+
+ggplot(data = diamonds) + 
+  geom_bar(mapping = aes(x = cut, y = stat(prop), group = 1))
+```
+```{r}
+library(readr)
+library(tidyverse)
+
+survey <- read_csv("https://raw.githubusercontent.com/UVADS/orientation-technical/main/dat/2022-06-14-survey.csv")
+colnames(survey) <- c("Timestamp","OS", "CPU_CycleR", "CPU_NumberCores", "RAM", "HardDriveSize", "GPU_Description", "GPU_NumberCores")
+head(survey)
+```
+
+```{r}
+library(ggplot2)
+ggplot(data = survey) + 
+  geom_bar(mapping = aes(x = CPU_NumberCores,fill=OS)) + 
+  scale_fill_manual("legend", values = c(`Any Linux` = "darkblue", `MacOS` = "blue", `Windows` = "lightblue"))
+```
+
+
