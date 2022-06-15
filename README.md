@@ -28,6 +28,7 @@ The goal for orientation is for every student to complete the checklist.
     * **NEW** make a histogram
 8. **install** PostgresSQL
     * confirm operation by running a few fundamental commands `\echo hello world` and `\l` and `\?` and `\q`
+9. **make** a pull request to this repo (some code you wrote today in the src folder)
 10. **rewatch** Jurassic Park ( [UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/u3586953) or HBO MAX )
 
 ### Bonus Item: Pick one from the following list and explore, share your findings with a friend:
