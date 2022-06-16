@@ -30,7 +30,7 @@ The goal for orientation is for every student to complete the checklist.
     * confirm operation by running a few fundamental commands `\echo hello world` and `\l` and `\?` and `\q`
 9. **make** a pull request to this repo (some code you wrote today in the src folder)
 10. **rewatch** Jurassic Park ( [UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/u3586953) or HBO MAX )
-11. **Send email** with final assignment to alonzi@virginia.edu
+11. **Send email** with final assignment to alonzi@virginia.edu (subject = MSDS 2023)
       * Part I: reaction/reflection to the film (one paragraph limit)
       * Part IIa: one thing about orientation you liked and why
       * Part IIb: one thing about orientation to improve and why?
