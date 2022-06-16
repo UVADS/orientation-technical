@@ -61,8 +61,9 @@ This playlist contains five videos each one exemplifying a piece of the 4+1 mode
 8.  [Getting Starting with Python and JupyterLab: DS 6001: Practice and Application of Data Science](https://colab.research.google.com/drive/1oMEcZVC0P-VUGwLf-72XvHAPOoXEUkPh?usp=sharing)
 9.  [Using PostgresSQL](https://jkropko.github.io/surfing-the-data-pipeline/ch6.html#using-postgressql) - Kropko
 10.  SQL Turtorial - [learnsqlonline.org](https://www.learnsqlonline.org/)
-11. [https://jkropko.github.io/surfing-the-data-pipeline/intro.html](https://jkropko.github.io/surfing-the-data-pipeline/intro.html)
-12. 
+11. [Surfing the Data Pipeline with Python](https://jkropko.github.io/surfing-the-data-pipeline/intro.html)
+
+
 ## How to submit feedback
 I love getting feedback. Here is how you can submit it.
 1. Fork this repo
