@@ -1,0 +1,51 @@
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## import and clean
+```{r}
+library("cli")
+
+past <- read.csv("/Users/nickkalenichenko/Library/CloudStorage/Box-Box/uva/msds/orientation/2021-06-15-survey.csv")
+present <- read.csv("/Users/nickkalenichenko/Library/CloudStorage/Box-Box/uva/msds/orientation/2022-06-14-survey.csv")
+
+#Change Windows10 to Windows 
+past$Operating.System[past$Operating.System == "Windows 10"] <- "Windows"
+
+#Get rid of unrealistic inputs (-3 cores, 500GHz CPU)
+present <- present[-which(present$CPU.Cycle.Rate..in.GHz. > 100),]
+past <- past[-which(past$RAM..in.GB. > 50),]
+
+#Get rid of the linux since there's only one
+presentNoLin <- present[-which(present$Operating.System == "Any Linux"),]
+pastNoLin <- past[-which(past$Operating.System == "Any Linux"),]
+
+###combine datasets with long format
+#Get rid of columns
+present <- present[,-c(7,8)]
+past <- past[-c(7)]
+#rename columns
+names(present)[4] <- "CPU.Number.of.Cores"
+#Add new column for factor
+present$year <- rep(2022, nrow(present))
+past$year <- rep(2021, nrow(past))
+#Create long dataset
+combinedSpecs <- rbind(past, present)
+
+```
+
+#Compare Operating Systems
+```{r}
+library(ggplot2)
+
+ggplot(combinedSpecs, aes(Operating.System, group = year)) + 
+          geom_bar(aes(y = ..prop.., fill = factor(..x..)), stat="count") + 
+          ylab("relative frequencies") +
+          facet_grid(~year)
+
+
+```
+
+
+
