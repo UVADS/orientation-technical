@@ -1,0 +1,12 @@
+import pandas as pd
+
+df = pd.read_csv('https://raw.githubusercontent.com/UVADS/orientation-technical/main/dat/2022-06-14-survey.csv')
+df.head()
+
+df.hist(column='RAM (in GB)')
+
+df["RAM (in GB)"].max()
+
+dfnew = df[df['RAM (in GB)'] < 250]
+
+dfnew.hist(column='RAM (in GB)')
