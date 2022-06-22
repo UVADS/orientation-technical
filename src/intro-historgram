@@ -1,0 +1,4 @@
+import pandas
+computers = pandas.read_csv(r'/Users/jakeweinberg/Downloads/2022-06-14-survey.txt')
+clean_computers = computers.drop(1)
+clean_computers.hist(column='CPU Cycle Rate (in GHz)')
