@@ -1,0 +1,22 @@
+---
+title: "Orientation Plot"
+author: "Julia Burek"
+date: '2022-06-15'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r cars}
+library(tidyverse)
+```
+```{r}
+data <- read_csv('https://raw.githubusercontent.com/UVADS/orientation-technical/main/dat/2022-06-14-survey.csv')
+```
+
+
+```{r}
+ggplot(data, aes(data$`Operating System`)) + geom_bar(stat='count') + labs(x='Operating System', y='Count')
+```

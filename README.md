@@ -30,6 +30,10 @@ The goal for orientation is for every student to complete the checklist.
     * confirm operation by running a few fundamental commands `\echo hello world` and `\l` and `\?` and `\q`
 9. **make** a pull request to this repo (some code you wrote today in the src folder)
 10. **rewatch** Jurassic Park ( [UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/u3586953) or HBO MAX )
+11. **Send email** with final assignment to alonzi@virginia.edu (subject = MSDS 2023)
+      * Part I: reaction/reflection to the film (one paragraph limit)
+      * Part IIa: one thing about orientation you liked and why
+      * Part IIb: one thing about orientation to improve and why?
 
 ### Bonus Item: Pick one from the following list and explore, share your findings with a friend:
 * ggplot
@@ -57,6 +61,8 @@ This playlist contains five videos each one exemplifying a piece of the 4+1 mode
 8.  [Getting Starting with Python and JupyterLab: DS 6001: Practice and Application of Data Science](https://colab.research.google.com/drive/1oMEcZVC0P-VUGwLf-72XvHAPOoXEUkPh?usp=sharing)
 9.  [Using PostgresSQL](https://jkropko.github.io/surfing-the-data-pipeline/ch6.html#using-postgressql) - Kropko
 10.  SQL Turtorial - [learnsqlonline.org](https://www.learnsqlonline.org/)
+11. [Surfing the Data Pipeline with Python](https://jkropko.github.io/surfing-the-data-pipeline/intro.html)
+
 
 ## How to submit feedback
 I love getting feedback. Here is how you can submit it.
