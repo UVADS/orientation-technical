@@ -87,3 +87,4 @@ Alternatively you can submit feedback without proposing a solution by creating a
 * shift to new schedule 9a-2p over 4 days
 * more git
 * from jeffrey more sql from pete no sql ---> to discuss
+* kill spyder, promote jupyterlab, conda environment mandatory
