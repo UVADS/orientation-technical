@@ -29,7 +29,13 @@
 ## Preamble
 ![](programmer-life.png)[8]
 
+# Part I - Data Scientist GNU/Linux Minimum
 
+## History
+## Open Software
+## Culture
+## Exercise
+1. Get bash running on your machine
 
 # Footnotes
 [1]  TOP500 list. The benchmark we decided on was Linpack, which means that systems are ranked only by their ability to solve a set of linear equations, A x = b, using a dense random matrix A. Therefore, any supercomputer – no matter what its architecture is – can make it into the TOP500 list - topp500.org
