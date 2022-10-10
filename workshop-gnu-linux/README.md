@@ -27,7 +27,7 @@
     * practice
 
 ## Preamble
-
+![](programmer-life.png)[8]
 
 
 
@@ -39,3 +39,4 @@
 [5] By Smartmo - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=22720596
 [6] https://www.gnu.org/gnu/gnu-history.html
 [7] By Shermozle at English Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11478957
+[8] The internet, author, unknown
