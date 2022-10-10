@@ -37,6 +37,34 @@
 ## Exercise
 1. Get bash running on your machine
 
+## Command line interface (CLI)
+1. **open** a bash terminal on rivanna -[link](https://rivanna-portal.hpc.virginia.edu/)
+    * **learn** the first four terminal commands - [pwd,ls,cd,history]
+    * **use** a terminal text editor - choose one [vi,nano,emacs,etc.]
+    * **learn** the PATH environment variable
+    * **confirm** sucessful operation by running a [hello world program](https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md) in BASH (or other shell if you prefer)
+    * if needed your allocation = msds2023
+
+2. GNU/Linux File Structures
+* Everything is a file [9]
+* ![](Standard-unix-filesystem-hierarchy.svg) [10]
+
+3. Text Editor
+
+4. Exercise -- Send me an SMS or email from the command line
+
+# Break - reconvene at ...
+
+# Part II
+
+## Installation Demo
+* package management
+* users, groups, permission
+* ps and top
+* ssh, scp, rsync
+
+## Planning to build the habit
+
 # Footnotes
 [1]  TOP500 list. The benchmark we decided on was Linpack, which means that systems are ranked only by their ability to solve a set of linear equations, A x = b, using a dense random matrix A. Therefore, any supercomputer – no matter what its architecture is – can make it into the TOP500 list - topp500.org
 [2] By Benedikt.Seidl - Eigenes Werk (own work) / source top500.org, Public Domain, https://commons.wikimedia.org/w/index.php?curid=5932978
@@ -46,3 +74,5 @@
 [6] https://www.gnu.org/gnu/gnu-history.html
 [7] By Shermozle at English Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=11478957
 [8] The internet, author, unknown
+[9] https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+[10] By Ppgardne - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=49654565
