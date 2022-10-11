@@ -48,6 +48,12 @@
 * "copyleft": copyright the software and use it to ensure the freedoms
 * The GPL: GNU General Public License
 * Ethics question: What about software that breaks encryption? Should it be "free"?
+
+## Culture
+![](linux-culture1.jpg)
+
+![](linux-culture2.jpg)
+
 ## Exercise
 1. Get bash running on your machine
 2. Explore the file system using - `pwd, ls, cd`
