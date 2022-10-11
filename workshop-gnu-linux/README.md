@@ -19,6 +19,8 @@
     * ![](World_Wide_Smartphone_Sales.png) [5]
     * ![](Operating_systems_used_on_top_500_supercomputers.svg) [2]
     * One exception: Playing video games, which is >95% windows
+    * Yes desktop/laptops are 75% windows, but smartphones are more common (60% to 40%).
+    * Put another way: `conda install numpy`
 4. Goals for today
     * first half = exposure to fundamentals
     * second half = equip you to build the habit
@@ -32,7 +34,12 @@
 # Part I - Data Scientist GNU/Linux Minimum
 
 ## History
-## Open Software
+![](Unix_timeline.en.svg) [12]
+## Open Software [13]
+* The four freedoms (use, change, share, share changes)
+* "copyleft": copyright the software and use it to ensure the freedoms
+
+* Ethics question: What about software that breaks encryption? Should it be "free"?
 ## Culture
 ## Exercise
 1. Get bash running on your machine
@@ -76,3 +83,6 @@
 [8] The internet, author, unknown
 [9] https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
 [10] By Ppgardne - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=49654565
+[11] https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#:~:text=As%20of%20September%202022%2C%20Android,also%20using%20the%20Linux%20kernel.
+[12] By Guillem, Wereon, Hotmocha (copied from old version&#039;s history)Christoph S. (redrew the image with Inkscape) - Original image: Image:Unix.png, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1667764
+[13] https://www.gnu.org/licenses/quick-guide-gplv3.html
