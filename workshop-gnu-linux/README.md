@@ -6,6 +6,8 @@
 1. GNU/Linux minimum for Data Scientists
 2. How to GNU/Linux
 
+![](baby-george.png)[22]
+
 ## Introduction
 1. `whois` lpa2a
 2. What is GNU/Linux
@@ -17,7 +19,7 @@
     * Put another way: GNU is the chocolate and Linux is the Peanut Butter
 3. Why GNU/Linux? Simply put: it is the only relevant operating system
     * ![](World_Wide_Smartphone_Sales.png) [5]
-    * ![](Operating_systems_used_on_top_500_supercomputers.svg) [2]
+    * ![](Operating_systems_used_on_top_500_supercomputers.svg) Top500 supercomputers [2]
     * One exception: Playing video games, which is >95% windows
     * Yes desktop/laptops are 75% windows, but smartphones are more common (60% to 40%).
     * Put another way: `conda install numpy`
@@ -26,6 +28,7 @@
     * second half = equip you to build the habit
 5. GNU/Linux is a habit
     * exposure
+    * wizard
     * practice
 
 ## Preamble
@@ -51,7 +54,8 @@
     * `less ~/.bash_profile`
 4. Edit `.bash_profile` and `PS1` environment variable
     * **use** a terminal text editor - choose one [vi,nano,emacs,etc.]
-
+5. Repeat this exercise but on Rivanna side by side with your local machine
+    * hint `ssh rivanna.hpc.virginia.edu`
 5. Exercise -- Send me an SMS or email from the command line
     * my email: lpa2a@virginia.edu
     * my sms: [[phone number]]@msg.fi.google.com
@@ -71,6 +75,14 @@
 2. Pick a project
     * Classic Example - My roommate built a Tivo running gentoo
     * Contemporary Example - Build a Nintendo or Streaming Box using a Rasberry Pi and Ubuntu ![](rasp.png) [21]
+
+# Wrap up
+1. Please think of one thing you liked and one thing you would change about this workshop. And a few sentences about why.
+2. Then make a pull request and add them to this repo in the folder workshop-gnu-linux/feedback.
+![](swanson-please.png)
+
+# To improve for next time
+1. empty so far
 
 # Footnotes
 [1]  TOP500 list. The benchmark we decided on was Linpack, which means that systems are ranked only by their ability to solve a set of linear equations, A x = b, using a dense random matrix A. Therefore, any supercomputer – no matter what its architecture is – can make it into the TOP500 list - topp500.org
@@ -94,3 +106,5 @@
 [19] https://github.com/UVADS/orientation-technical 
 [20] https://mobaxterm.mobatek.net/download-home-edition.html
 [21] https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
+[22] https://youtu.be/SP7dbl0rJS0?t=205
+
