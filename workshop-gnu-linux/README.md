@@ -84,3 +84,8 @@
 [13] https://www.gnu.org/licenses/quick-guide-gplv3.html
 [14] https://rivanna-portal.hpc.virginia.edu/
 [15] `echo "text" | mailx [[phone number]]@msg.fi.google.com`
+[16] https://www.gnu.org/gnu/why-gnu-linux.html 
+[17] https://www.fsf.org/ 
+[18] http://galileo.phys.virginia.edu/compfac/courses/sysadmin1/ 
+[19] https://github.com/UVADS/orientation-technical 
+[20] https://mobaxterm.mobatek.net/download-home-edition.html
