@@ -10,6 +10,11 @@
 
 ## Introduction
 1. `whois` lpa2a
+2. Goals for today
+* Define GNU/Linux
+* Give out some fish (part I)
+* Teach you to fish (part II)
+* But really I just want you all to ask questions
 2. What is GNU/Linux
     * Unix = an operating system, not necessarially under open license
     * GNU = "GNU's not Unix", software suite in need of a kernel under GPL [6]
