@@ -33,8 +33,8 @@
 
 # Part I - Data Scientist GNU/Linux Minimum
 
-## History
-![](Unix_timeline.en.svg) [12]
+## History [12]
+![](Unix_timeline.en.svg) 
 ## Open Software [13]
 * The four freedoms (use, change, share, share changes)
 * "copyleft": copyright the software and use it to ensure the freedoms
@@ -42,22 +42,19 @@
 * Ethics question: What about software that breaks encryption? Should it be "free"?
 ## Exercise
 1. Get bash running on your machine
-
-## Command line interface (CLI)
-1. **open** a bash terminal on rivanna -[link](https://rivanna-portal.hpc.virginia.edu/)
-    * **learn** the first four terminal commands - [pwd,ls,cd,history]
+2. Explore the file system using - `pwd, ls, cd`
+    * Everything is a file [9]
+    * ![](Standard-unix-filesystem-hierarchy.svg) [10]
+3. Environment variables
+    * `printenv` and `echo`
+    * `$PATH`
+    * `less ~/.bash_profile`
+4. Edit `.bash_profile` and `PS1` environment variable
     * **use** a terminal text editor - choose one [vi,nano,emacs,etc.]
-    * **learn** the PATH environment variable
-    * **confirm** sucessful operation by running a [hello world program](https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md) in BASH (or other shell if you prefer)
-    * if needed your allocation = msds2023
 
-2. GNU/Linux File Structures
-* Everything is a file [9]
-* ![](Standard-unix-filesystem-hierarchy.svg) [10]
-
-3. Text Editor
-
-4. Exercise -- Send me an SMS or email from the command line
+5. Exercise -- Send me an SMS or email from the command line
+    * my email: lpa2a@virginia.edu
+    * my sms: @msg.fi.google.com
 
 # Break - reconvene at ...
 
@@ -85,3 +82,5 @@
 [11] https://en.wikipedia.org/wiki/Usage_share_of_operating_systems#:~:text=As%20of%20September%202022%2C%20Android,also%20using%20the%20Linux%20kernel.
 [12] By Guillem, Wereon, Hotmocha (copied from old version&#039;s history)Christoph S. (redrew the image with Inkscape) - Original image: Image:Unix.png, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1667764
 [13] https://www.gnu.org/licenses/quick-guide-gplv3.html
+[14] https://rivanna-portal.hpc.virginia.edu/
+[15] `echo "text" | mailx [[phone number]]@msg.fi.google.com`
