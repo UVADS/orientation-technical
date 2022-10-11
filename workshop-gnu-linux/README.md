@@ -67,6 +67,10 @@
 * ssh, scp, rsync
 
 ## Planning to build the habit
+1. Find a wizard
+2. Pick a project
+    * Classic Example - My roommate built a Tivo running gentoo
+    * Contemporary Example - Build a streaming box using a Rasberry Pi and Ubuntu ![](rasp.png) [21]
 
 # Footnotes
 [1]  TOP500 list. The benchmark we decided on was Linpack, which means that systems are ranked only by their ability to solve a set of linear equations, A x = b, using a dense random matrix A. Therefore, any supercomputer – no matter what its architecture is – can make it into the TOP500 list - topp500.org
@@ -89,3 +93,4 @@
 [18] http://galileo.phys.virginia.edu/compfac/courses/sysadmin1/ 
 [19] https://github.com/UVADS/orientation-technical 
 [20] https://mobaxterm.mobatek.net/download-home-edition.html
+[21] https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
