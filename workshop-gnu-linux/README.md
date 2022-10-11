@@ -38,9 +38,8 @@
 ## Open Software [13]
 * The four freedoms (use, change, share, share changes)
 * "copyleft": copyright the software and use it to ensure the freedoms
-
+* The GPL: GNU General Public License
 * Ethics question: What about software that breaks encryption? Should it be "free"?
-## Culture
 ## Exercise
 1. Get bash running on your machine
 
