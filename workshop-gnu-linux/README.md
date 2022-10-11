@@ -54,7 +54,7 @@
 
 5. Exercise -- Send me an SMS or email from the command line
     * my email: lpa2a@virginia.edu
-    * my sms: @msg.fi.google.com
+    * my sms: <<phone number>>@msg.fi.google.com
 
 # Break - reconvene at ...
 
