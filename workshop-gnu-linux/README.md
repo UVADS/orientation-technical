@@ -6,7 +6,7 @@
 1. GNU/Linux minimum for Data Scientists
 2. How to GNU/Linux
 
-![](baby-george.png)[22]
+![](baby-george.png)[22](https://youtu.be/SP7dbl0rJS0?t=205)
 
 ## Introduction
 1. `whois` lpa2a
