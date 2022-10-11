@@ -67,7 +67,7 @@
 
 # Break - reconvene at ...
 
-# Part II
+# Part II - building the habit
 
 ## Installation Demo
 * package management
@@ -75,7 +75,7 @@
 * ps and top
 * ssh, scp, rsync
 
-## Planning to build the habit
+## Planning to build the GNU/Linux habit
 1. Find a wizard
 2. Pick a project
     * Classic Example - My roommate built a Tivo running gentoo
