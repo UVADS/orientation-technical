@@ -70,7 +70,7 @@
 1. Find a wizard
 2. Pick a project
     * Classic Example - My roommate built a Tivo running gentoo
-    * Contemporary Example - Build a streaming box using a Rasberry Pi and Ubuntu ![](rasp.png) [21]
+    * Contemporary Example - Build a Nintendo or Streaming Box using a Rasberry Pi and Ubuntu ![](rasp.png) [21]
 
 # Footnotes
 [1]  TOP500 list. The benchmark we decided on was Linpack, which means that systems are ranked only by their ability to solve a set of linear equations, A x = b, using a dense random matrix A. Therefore, any supercomputer – no matter what its architecture is – can make it into the TOP500 list - topp500.org
