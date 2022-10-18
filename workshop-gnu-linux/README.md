@@ -4,20 +4,21 @@
 ## Outline
 * Introduction and Preamble
 1. GNU/Linux minimum for Data Scientists
-2. How to GNU/Linux
+2. break
+3. How to GNU/Linux
 
 ![](baby-george.png)[22](https://youtu.be/SP7dbl0rJS0?t=205)
 
 ## Introduction
 1. `whois` lpa2a
 2. Goals for today
-* Define GNU/Linux
-* Give out some fish (part I)
-* Teach you to fish (part II)
-* But really I just want you all to ask questions
+    * Define GNU/Linux
+    * Give out some fish (part I)
+    * Teach you to fish (part II)
+    * But really I just want you all to ask questions
 2. What is GNU/Linux
-    * Unix = an operating system, not necessarially under open license
     * GNU = "GNU's not Unix", software suite in need of a kernel under GPL [6]
+    * Unix = an operating system, not necessarially under open license
     * GPL = "GNU General Public License"
     * Linux = "Linus's Unix", a kernel under the GPL
     * ![](Linux_0_12.jpg) [7]
