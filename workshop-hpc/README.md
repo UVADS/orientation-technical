@@ -66,6 +66,17 @@ All quotes below are from: https://www.rc.virginia.edu/userinfo/rivanna/overview
 ![](https://media.giphy.com/media/26AHLNr8en8J3ovOo/giphy.gif)
 ![](2022-09-30-cas7kvf.png)
 
+
+
+# Part II
+This part is just an exercise. Individually you will explore your github account for a project that you can scale up with HPC. Then you will make a plan for scaling it up. At the end you will leave with a new github repository and a set to tasks to accomplish to put your new HPC knowledge into practice. By working this plan over time you will build proficiency with HPC.
+
+# Wrap up
+1. Please think of one thing you liked and one thing you would change about this workshop. And a few sentences about why.
+2. Then make a pull request and add them to this repo in the folder workshop-gnu-linux/feedback.
+![](swanson-please.png)
+
+
 # Footnotes
 [1] https://www.top500.org/news/ornls-frontier-first-to-break-the-exaflop-ceiling/
 [2] https://www.kotzendes-einhorn.de/blog/wp-content/uploads/2016/02/121Gigawatts.gif
