@@ -47,7 +47,7 @@ The No. 1 spot is now held by the Frontier system at Oak Ridge National Laborato
 7. 52.23 gigaflops/watt
 8. gigabit ethernet
 
-**Exercise** Divide these up and do a little research in pairs, then report results.
+**Exercise:** Divide these up and do a little research in pairs, then report results.
 
 ## Repeat the exercise but with the local UVA HPC resource
 
@@ -58,9 +58,16 @@ All quotes below are from: https://www.rc.virginia.edu/userinfo/rivanna/overview
 4. "How can I make my Jupyter notebook from JupyterLab to run as a batch job on Rivanna?"
 
 
+## Why HPC?
+1. Set it and forget it (jobs run in batch mode)
+2. Run many jobs at the same time
+3. The need for speed
+![](https://media.giphy.com/media/26AHLNr8en8J3ovOo/giphy.gif)
+![]()
 
 # Footnotes
 [1] https://www.top500.org/news/ornls-frontier-first-to-break-the-exaflop-ceiling/
 [2] https://www.kotzendes-einhorn.de/blog/wp-content/uploads/2016/02/121Gigawatts.gif
 [3] https://www.rc.virginia.edu/userinfo/rivanna/overview/
+[4] https://media.giphy.com/media/26AHLNr8en8J3ovOo/giphy.gif
 
