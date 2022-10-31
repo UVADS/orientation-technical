@@ -74,7 +74,7 @@ This part is just an exercise. Individually you will explore your github account
 # Wrap up
 1. Please think of one thing you liked and one thing you would change about this workshop. And a few sentences about why.
 2. Then make a pull request and add them to this repo in the folder workshop-gnu-linux/feedback.
-![](../workshop-hpc/swanson-please.png)
+![](../workshop-gnu-linux/swanson-please.png)
 
 
 # Footnotes
