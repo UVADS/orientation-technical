@@ -41,4 +41,4 @@ The No. 1 spot is now held by the Frontier system at Oak Ridge National Laborato
 7. 52.23 gigaflops/watt
 8. gigabit ethernet
 
-![](121Gigawats.png)
+![](121Gigawats.gif)
