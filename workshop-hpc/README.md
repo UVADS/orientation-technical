@@ -26,10 +26,15 @@
 ## What is HPC
 HPC = **H**igh-**p**erformance **C**omputing
 
-## OK, but what, **is** HPC
+## OK but what ... **is** ... HPC
+
+**Exercise**: Read some technobabble and break it down together:
+
 The 59th edition of the TOP500 revealed the Frontier system to be the first true exascale machine with an HPL score of 1.102 Exaflop/s.
 
 The No. 1 spot is now held by the Frontier system at Oak Ridge National Laboratory (ORNL) in the US. Based on the latest HPE Cray EX235a architecture and equipped with AMD EPYC 64C 2GHz processors, the system has 8,730,112 total cores, a power efficiency rating of 52.23 gigaflops/watt, and relies on gigabit ethernet for data transfer.
+
+![](https://www.kotzendes-einhorn.de/blog/wp-content/uploads/2016/02/121Gigawatts.gif)
 
 ### How many pieces of jargon can you find?
 1. Top500
@@ -41,4 +46,11 @@ The No. 1 spot is now held by the Frontier system at Oak Ridge National Laborato
 7. 52.23 gigaflops/watt
 8. gigabit ethernet
 
-![](https://www.kotzendes-einhorn.de/blog/wp-content/uploads/2016/02/121Gigawatts.gif)
+## Repeat the exercise but with the local UVA HPC resource
+"Currently the Rivanna supercomputer has 603 nodes with over 20476 cores and 8PB of various storage."
+
+"Users may submit multiple jobs or job arrays, but the maximum aggregate cpu cores allowed for a single user’s running jobs is 1000."
+
+"Rivanna is a managed resource; users must submit jobs to queues controlled by a resource manager, also known as a queueing system. The manager in use on Rivanna is Slurm. "
+
+"How can I make my Jupyter notebook from JupyterLab to run as a batch job on Rivanna?"
