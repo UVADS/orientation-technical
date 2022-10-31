@@ -66,7 +66,15 @@ All quotes below are from: https://www.rc.virginia.edu/userinfo/rivanna/overview
 ![](https://media.giphy.com/media/26AHLNr8en8J3ovOo/giphy.gif)
 ![](2022-09-30-cas7kvf.png)
 
+## Exercise
+1. Logon to rivanna
+2. Submit a batch job of "hello world", have the computer say its name
+3. Submit 100 batch jobs of "hello world", have the computers say their name
 
+## Exercise
+1. Logon to rivanna
+2. Upload some code you have already written
+3. Submit a batch job to run the code
 
 # Part II
 This part is just an exercise. Individually you will explore your github account for a project that you can scale up with HPC. Then you will make a plan for scaling it up. At the end you will leave with a new github repository and a set to tasks to accomplish to put your new HPC knowledge into practice. By working this plan over time you will build proficiency with HPC.
