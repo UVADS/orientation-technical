@@ -10,16 +10,17 @@
 ## Introduction
 1. `whois` lpa2a
 2. Goals for today
-  * Define HPC
-  * Motivate the need for HPC
-  * Describe our plan
-  * Present the Data Scientist Minimum
-  * Make individual plans for building HPC proficiency
-  * But really, I just want you to ask questions
+    * Define HPC
+    * Motivate the need for HPC
+    * Describe our plan
+    * Present the Data Scientist Minimum
+    * Make individual plans for building HPC proficiency
+    * But really, I just want you to ask questions
 
 
 ## Preamble
 ![](hpc-preamble.png)
+
 ** You have to build solutions for all computers. Not just your personal machine. **
 
 # Part I - The Data Scientist Minimum
@@ -30,11 +31,11 @@ HPC = **H**igh-**p**erformance **C**omputing
 
 **Exercise**: Read some technobabble and break it down together:
 
-The 59th edition of the TOP500 revealed the Frontier system to be the first true exascale machine with an HPL score of 1.102 Exaflop/s.
+"The 59th edition of the TOP500 revealed the Frontier system to be the first true exascale machine with an HPL score of 1.102 Exaflop/s.
 
-The No. 1 spot is now held by the Frontier system at Oak Ridge National Laboratory (ORNL) in the US. Based on the latest HPE Cray EX235a architecture and equipped with AMD EPYC 64C 2GHz processors, the system has 8,730,112 total cores, a power efficiency rating of 52.23 gigaflops/watt, and relies on gigabit ethernet for data transfer.
+The No. 1 spot is now held by the Frontier system at Oak Ridge National Laboratory (ORNL) in the US. Based on the latest HPE Cray EX235a architecture and equipped with AMD EPYC 64C 2GHz processors, the system has 8,730,112 total cores, a power efficiency rating of 52.23 gigaflops/watt, and relies on gigabit ethernet for data transfer." [1]
 
-![](https://www.kotzendes-einhorn.de/blog/wp-content/uploads/2016/02/121Gigawatts.gif)
+![](https://www.kotzendes-einhorn.de/blog/wp-content/uploads/2016/02/121Gigawatts.gif)[2]
 
 ### How many pieces of jargon can you find?
 1. Top500
@@ -46,11 +47,20 @@ The No. 1 spot is now held by the Frontier system at Oak Ridge National Laborato
 7. 52.23 gigaflops/watt
 8. gigabit ethernet
 
+**Exercise** Divide these up and do a little research in pairs, then report results.
+
 ## Repeat the exercise but with the local UVA HPC resource
-"Currently the Rivanna supercomputer has 603 nodes with over 20476 cores and 8PB of various storage."
 
-"Users may submit multiple jobs or job arrays, but the maximum aggregate cpu cores allowed for a single user’s running jobs is 1000."
+All quotes below are from: https://www.rc.virginia.edu/userinfo/rivanna/overview/
+1. "Currently the Rivanna supercomputer has 603 nodes with over 20476 cores and 8PB of various storage."
+2. "Users may submit multiple jobs or job arrays, but the maximum aggregate cpu cores allowed for a single user’s running jobs is 1000."
+3. "Rivanna is a managed resource; users must submit jobs to queues controlled by a resource manager, also known as a queueing system. The manager in use on Rivanna is Slurm. "
+4. "How can I make my Jupyter notebook from JupyterLab to run as a batch job on Rivanna?"
 
-"Rivanna is a managed resource; users must submit jobs to queues controlled by a resource manager, also known as a queueing system. The manager in use on Rivanna is Slurm. "
 
-"How can I make my Jupyter notebook from JupyterLab to run as a batch job on Rivanna?"
+
+# Footnotes
+[1] https://www.top500.org/news/ornls-frontier-first-to-break-the-exaflop-ceiling/
+[2] https://www.kotzendes-einhorn.de/blog/wp-content/uploads/2016/02/121Gigawatts.gif
+[3] https://www.rc.virginia.edu/userinfo/rivanna/overview/
+
