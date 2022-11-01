@@ -10,12 +10,10 @@
 ## Introduction
 1. `whois` lpa2a
 2. Goals for today
-    * Define HPC
-    * Motivate the need for HPC
-    * Describe our plan
-    * Present the Data Scientist Minimum
-    * Make individual plans for building HPC proficiency
-    * But really, I just want you to ask questions
+    * Define and Motivate HPC
+    * Prt I: Present the Data Scientist Minimum
+    * Part II: Make individual plans for building HPC proficiency
+    * _Secret goal: But really, I just want you to ask questions_
 
 
 ## Preamble
@@ -81,7 +79,7 @@ All quotes below are from: https://www.rc.virginia.edu/userinfo/rivanna/overview
 3. Submit a batch job to run the code
 
 # Part II
-** Objective: Create an individual plan for you to practice your HPC skills **
+**Objective: Create an individual plan for you to practice your HPC skills**
 
 This part is just an exercise. Individually you will explore your github account for a project that you can scale up with HPC. Then you will make a plan for scaling it up. At the end you will leave with a new github repository and a set to tasks to accomplish to put your new HPC knowledge into practice. By working this plan over time you will build proficiency with HPC.
 
