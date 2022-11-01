@@ -8,7 +8,7 @@
 4. The Data Scientist Minimum for HPC
 5. Your first HPC project
 
-## Warmup
+## Warm up
 Write a python program to generate 100 numbers from the standard normal distribution.
 
 ## Introduction
@@ -61,14 +61,15 @@ All quotes below are from: https://www.rc.virginia.edu/userinfo/rivanna/overview
 
 
 ## Why HPC?
-1. Set it and forget it (jobs run in batch mode)
-2. Run many jobs at the same time
-3. The need for speed
+1. Set it and forget it (jobs run in batch mode) --> I don't need to leave my laptop open
+2. Run many jobs at the same time --> I don't need to buy a thousan laptops
+3. The need for speed --> I don't need to buy an expensive fancy laptop
 
-![](https://media.giphy.com/media/26AHLNr8en8J3ovOo/giphy.gif)
-![](2022-09-30-cas7kvf.png)
+![](https://media.giphy.com/media/26AHLNr8en8J3ovOo/giphy.gif)[4]
+![](2022-09-30-cas7kvf.png)[5]
 
 ## Exercise
+![](deer.jpg)[6]
 1. Logon to rivanna
 2. Submit a batch job of "hello world", have the computer say its name
 3. Submit 100 batch jobs of "hello world", have the computers say their name
@@ -99,5 +100,6 @@ This part is just an exercise. Individually you will explore your github account
 [3] https://www.rc.virginia.edu/userinfo/rivanna/overview/
 [4] https://media.giphy.com/media/26AHLNr8en8J3ovOo/giphy.gif
 [5] cas7kvf
+[6] https://cdn.sanity.io/images/z2aip6ei/production/2d6e54d6b6ba1cd2867e9f1c9b5d75f788d04284-2560x1060.jpg
 
 
