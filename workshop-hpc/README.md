@@ -71,13 +71,20 @@ All quotes below are from: https://www.rc.virginia.edu/userinfo/rivanna/overview
 2. Submit a batch job of "hello world", have the computer say its name
 3. Submit 100 batch jobs of "hello world", have the computers say their name
 
+** Hint: Documentation [here](https://www.rc.virginia.edu/userinfo/rivanna/slurm/) and [here](https://slurm.schedmd.com/documentation.html) **
+
+** Hint: use `allocations` to find an allocation **
+
 ## Exercise
 1. Logon to rivanna
 2. Upload some code you have already written
 3. Submit a batch job to run the code
 
 # Part II
+** Objective: Create an individual plan for you to practice your HPC skills **
+
 This part is just an exercise. Individually you will explore your github account for a project that you can scale up with HPC. Then you will make a plan for scaling it up. At the end you will leave with a new github repository and a set to tasks to accomplish to put your new HPC knowledge into practice. By working this plan over time you will build proficiency with HPC.
+
 
 # Wrap up
 1. Please think of one thing you liked and one thing you would change about this workshop. And a few sentences about why.
