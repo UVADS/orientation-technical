@@ -19,7 +19,7 @@
 ## Preamble
 ![](hpc-preamble.png)
 
-** You have to build solutions for all computers. Not just your personal machine. **
+**You have to build solutions for all computers. Not just your personal machine.**
 
 # Part I - The Data Scientist Minimum
 ## What is HPC
