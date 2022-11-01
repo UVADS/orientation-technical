@@ -71,9 +71,9 @@ All quotes below are from: https://www.rc.virginia.edu/userinfo/rivanna/overview
 2. Submit a batch job of "hello world", have the computer say its name
 3. Submit 100 batch jobs of "hello world", have the computers say their name
 
-** Hint: Documentation [here](https://www.rc.virginia.edu/userinfo/rivanna/slurm/) and [here](https://slurm.schedmd.com/documentation.html) **
+**Hint: Documentation [here](https://www.rc.virginia.edu/userinfo/rivanna/slurm/) and [here](https://slurm.schedmd.com/documentation.html)**
 
-** Hint: use `allocations` to find an allocation **
+**Hint: use `allocations` to find an allocation**
 
 ## Exercise
 1. Logon to rivanna
