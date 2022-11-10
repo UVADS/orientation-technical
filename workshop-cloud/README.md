@@ -1,6 +1,12 @@
 # Cloud Workshop
 
 ## Warp Up
+Look up and record these metrics for your laptop
+* CPU Cycle Rate (in GHz)
+* CPU Number of Cores (int)
+* RAM (in GB)
+* Hard Drive Size (in GB)
+* GPU
 
 ## Welcome
 1. Introduction
