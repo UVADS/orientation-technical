@@ -17,10 +17,10 @@ Look up and record these metrics for your laptop
 ## Introduction
 1. `whois` lpa2a
 2. goals for today
-  * Define and Motivate HPC
-  * Part I: Present the Data Scientist Minimum
-  * Part II: Make individual plans for building HPC proficiency
-  * Secret goal: But really, I just want you to ask questions
+    * Define and Motivate HPC
+    * Part I: Present the Data Scientist Minimum
+    * Part II: Make individual plans for building HPC proficiency
+    * Secret goal: But really, I just want you to ask questions
 
 ## Preamble
 ![](aws-preamble.png)
