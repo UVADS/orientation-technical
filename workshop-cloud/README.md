@@ -27,3 +27,6 @@ Look up and record these metrics for your laptop
 
 ## Exercise 1 - Spec your laptop
 [https://app.cloudcraft.co/](https://app.cloudcraft.co/)
+
+## Exercise 2 - Spec two more machines
+![](2022-09-30-schuster-catherine.png)
