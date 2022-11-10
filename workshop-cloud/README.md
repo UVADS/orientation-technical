@@ -30,3 +30,5 @@ Look up and record these metrics for your laptop
 
 ## Exercise 2 - Spec two more machines
 ![](2022-09-30-schuster-catherine.png)
+
+## Exercise 3 - Do a price comparison
