@@ -1,9 +1,16 @@
 # Cloud Workshop
 
-## Welcome
-1. `whois` lpa2a
-2. goals
+## Warp Up
 
+## Welcome
+1. Introduction
+2. Preamble
+3. The Data Scientist Minimum for HPC
+4. Your first HPC project
+
+## Introduction
+1. `whois` lpa2a
+2. goals for today
 
 ## Preamble
 ![](aws-preamble.png)
