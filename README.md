@@ -3,7 +3,7 @@ Hello there. Welcome to your one stop shop for technical orientation materials. 
 
 ![](images/smile-crop-crop.png)
 
-## Find your program below
+## Find your program below to get started
 * Residential MSDS - [link](residential-msds/README.md)
 * Online MSDS - [link](online-msds/README.md)
 * PhD - [link](phd/README.md)
