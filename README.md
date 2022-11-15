@@ -3,7 +3,11 @@ Hello there. Welcome to your one stop shop for technical orientation materials. 
 
 ![](images/smile-crop-crop.png)
 
-**Executive Summary** This repo contains the materials for the UVADS MSDS residential technical orientation. The goal of this orientation is for every student to complete the checklist. Supplemental materials are linked to help complete the checklist.
+## Find your program below
+* Residential MSDS - ![link](residential-msds/README.md)
+* Online MSDS - ![link](online-msds/README.md)
+* PhD - ![link](phd/README.md)
+
 
 ## Goal
 The goal for orientation is for every student to complete the checklist.
