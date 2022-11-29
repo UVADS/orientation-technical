@@ -1,6 +1,6 @@
 # Cloud Workshop
 
-## Warp Up
+## Warm Up
 Look up and record these metrics for your laptop
 * CPU Cycle Rate (in GHz)
 * CPU Number of Cores (int)
@@ -8,22 +8,16 @@ Look up and record these metrics for your laptop
 * Hard Drive Size (in GB)
 * GPU
 
-## Welcome
-1. Introduction
-2. Preamble
-3. The Data Scientist Minimum for Cloud
-4. Your first HPC project
-
-## Introduction
-1. `whois` lpa2a
-2. goals for today
+## Welcome & Introduction
+1. `whois lpa2a` (aka who is the instructor)
+2. `cat .plan` (aka goals for today)
     * Define and Motivate Cloud
     * Part I: Present the Data Scientist Minimum
     * Part II: Make individual plans for building HPC proficiency
     * Secret goal: But really, I just want you to ask questions
 
 ## Preamble
-![](aws-preamble.png)
+![](aws-preamble.png)[0]
 ### "There are real computers on the ground"
 
 ## A quick note
@@ -32,27 +26,32 @@ We are going to talk about cloud computing but we will talk in the AWS vernacula
 ## Exercise 0 - click on everything
 [https://app.cloudcraft.co/](https://app.cloudcraft.co/)
 
-## Exercise 1 - Spec your Laptop
+## A few building blocks (mini-lecture)
+* s3
+* ec2
+![](lego-brick.png)[1]
 
-## Exercise 3 - Spec three more machines
+## Exercise 1 - Spec your Laptop using cloudcraft
+
+## Exercise 2 - Spec three more machines using cloudcraft
 ![](2022-09-30-schuster-catherine.png)
 
-## Exercise 3 - Do a price comparison
+## Exercise 3 - Do a price comparison using cloudcraft budget
 
-## Why use the cloud
+## Why use the cloud (mini-lecture)
 1. Scale
 2. Prototyping
 3. Reproducibility
 
-## A few nuts and bolts
-* s3
-* ec2
+## https://github.com/boto/boto3/blob/develop/README.rst
+
+## A few more building blocks (mini-lecture)
 * iam
 * lambda
 
-### Event-driven computing
-
 # Break
+
+### Event-driven computing (mini-lecture)
 
 ## Your first prototype
 1. Create an event stream
@@ -60,3 +59,7 @@ We are going to talk about cloud computing but we will talk in the AWS vernacula
 3. Store those events in s3
 4. Perform analytics with lambda
 5. Share results
+
+# References
+[0] The internet, author unknown
+[1] By Cmglee - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14829196
