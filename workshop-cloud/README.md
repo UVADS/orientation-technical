@@ -38,9 +38,9 @@ We are going to talk about cloud computing but we will talk in the AWS vernacula
 ## Exercise 3 - Do a price comparison using cloudcraft budget
 
 ## Why use the cloud (mini-lecture)
-1. Scale
-2. Prototyping
-3. Reproducibility
+1. Scale - typical US home:100A :: typical AWS data center:2,500,000A
+2. Prototyping - own:rent :: your laptop:AWS
+3. Reproducibility - GUI:CLI :: your laptop:AWS
 
 ## Exercise 4 -  read this file [https://github.com/boto/boto3/blob/develop/README.rst](https://github.com/boto/boto3/blob/develop/README.rst)
 
