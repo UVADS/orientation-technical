@@ -26,8 +26,8 @@ We are going to talk about cloud computing but we will talk in the AWS vernacula
 ## Exercise 0 - click on everything here - [https://app.cloudcraft.co/](https://app.cloudcraft.co/)
 
 ## A few building blocks (mini-lecture)
-* s3
-* ec2
+* s3 - Simple Storage Service
+* ec2 - Elastic Compute Cloud
 ![](lego-brick.png)[1]
 
 ## Exercise 1 - Spec your Laptop using cloudcraft
