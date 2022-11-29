@@ -44,7 +44,7 @@ We are going to talk about cloud computing but we will talk in the AWS vernacula
 
 ## Exercise 4 -  read this file [https://github.com/boto/boto3/blob/develop/README.rst](https://github.com/boto/boto3/blob/develop/README.rst)
 
-## A few more building blocks (mini-lecture)
+## A few more building blocks (mini-lecture if time)
 * iam
 * lambda
 
