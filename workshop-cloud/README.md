@@ -23,8 +23,7 @@ Look up and record these metrics for your laptop
 ## A quick note
 We are going to talk about cloud computing but we will talk in the AWS vernacular.
 
-## Exercise 0 - click on everything
-[https://app.cloudcraft.co/](https://app.cloudcraft.co/)
+## Exercise 0 - click on everything here - [https://app.cloudcraft.co/](https://app.cloudcraft.co/)
 
 ## A few building blocks (mini-lecture)
 * s3
