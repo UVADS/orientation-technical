@@ -42,7 +42,7 @@ We are going to talk about cloud computing but we will talk in the AWS vernacula
 2. Prototyping
 3. Reproducibility
 
-## https://github.com/boto/boto3/blob/develop/README.rst
+## Exercise 4 -  read this file [https://github.com/boto/boto3/blob/develop/README.rst](https://github.com/boto/boto3/blob/develop/README.rst)
 
 ## A few more building blocks (mini-lecture)
 * iam
