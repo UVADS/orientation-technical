@@ -50,8 +50,9 @@ We are going to talk about cloud computing but we will talk in the AWS vernacula
 
 # Break
 
-### Event-driven computing (mini-lecture)
-
+## Event-driven computing (mini-lecture)
+![](ellie-wonder.png)
+* AWS is for planned computation, not spontaneous exploration or memory manipulation
 ## Your first prototype
 1. Create an event stream
 2. Catch those events via an API
