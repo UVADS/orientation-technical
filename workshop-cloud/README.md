@@ -70,5 +70,5 @@ Easy to say and understand ... hard to do.
 [2] Jurassic Park
 
 ## Super secret instrutor notes
-* [](eservices-uva.awsapps.com/start)
+* [link](eservices-uva.awsapps.com/start)
 * sa-lpa2a@myuva.onmicrosoft.com
