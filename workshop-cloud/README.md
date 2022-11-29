@@ -13,7 +13,7 @@ Look up and record these metrics for your laptop
 2. `cat .plan` (aka goals for today)
     * Define and Motivate Cloud
     * Part I: Present the Data Scientist Minimum
-    * Part II: Make individual plans for building HPC proficiency
+    * Part II: Make individual plans for building cloud proficiency
     * Secret goal: But really, I just want you to ask questions
 
 ## Preamble
