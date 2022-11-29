@@ -51,7 +51,7 @@ We are going to talk about cloud computing but we will talk in the AWS vernacula
 # Break
 
 ## Event-driven computing (mini-lecture)
-![](ellie-wonder.png)
+![](ellie-wonder.png)[2]
 * AWS is for planned computation, not spontaneous exploration or memory manipulation
 ## Your first prototype
 1. Create an event stream
@@ -63,3 +63,4 @@ We are going to talk about cloud computing but we will talk in the AWS vernacula
 # References
 [0] The internet, author unknown
 [1] By Cmglee - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14829196
+[2] Jurassic Park
