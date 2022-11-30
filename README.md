@@ -1,5 +1,5 @@
 # UVA Data Science Graduate School Technical Orientation
-Hello there. Welcome to your one stop shop for technical orientation materials. Regardless of which program you are enrolled in at the School of Data Science for graduate studies this is the place to be. The faculty member responsible for this orientation is Professor Alonzi (lpa2a@virginia.edu)
+Hello there. Welcome to your one stop shop for technical orientation materials. Regardless of which program you are enrolled in at the School of Data Science for graduate studies this is the place to be. The faculty member responsible for this orientation is Professor Alonzi (lpa2a@virginia.edu) ([associated one drive files](https://myuva-my.sharepoint.com/:f:/r/personal/lpa2a_virginia_edu/Documents/TEACHING-residential-msds-orientation?csf=1&web=1&e=02zvIr))
 
 ![](images/smile-crop-crop.png)
 
