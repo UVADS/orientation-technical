@@ -5,7 +5,7 @@ Hello there. Welcome to your one stop shop for technical orientation materials. 
 
 # Step 1 - Watch this video
 
-![](nicholas-renotte)
+![](images/nicholas-renotte)
 [5 THINGS I WISH I KNEW Before Starting Data Science by Nicholas Renotte](https://youtu.be/B5emClQf_I4)
 
 ## Find your program below to get started
