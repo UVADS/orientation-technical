@@ -9,7 +9,7 @@ Hello there. Welcome to your one stop shop for technical orientation materials. 
 
 [5 THINGS I WISH I KNEW Before Starting Data Science by Nicholas Renotte](https://youtu.be/B5emClQf_I4)
 
-## Find your program below to get started
+# Step 2 - Find your program below and get started
 * Residential MSDS - [link](residential-msds/README.md)
 * Online MSDS - [link](online-msds/README.md)
 * PhD - [link](phd/README.md)
