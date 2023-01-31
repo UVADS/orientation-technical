@@ -8,8 +8,8 @@ Hello there. Welcome to your one stop shop for technical orientation materials. 
 * Read this article: [The Virginia Model of Data Science](https://ontoligent.github.io/four-plus-one-model/)
 
 # Step 2 - Find your program below and get started
-* Residential MSDS - [link](residential-msds/README.md)
-* Online MSDS - [link](online-msds/README.md)
+* Residential MSDS - [link](msds-residential/README.md)
+* Online MSDS - [link](msds-online/README.md)
 * PhD - [link](phd/README.md)
 
 
