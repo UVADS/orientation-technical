@@ -6,6 +6,9 @@ There are two kinds of badges: skills badges and program badges. For example a s
 ## Badge Tech Tree
 ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/badge-tech-tree.jpeg)
 
+Todo:
+* add hardware badge
+
 
 ## Links to badge pages
 * [R](https://github.com/UVADS/orientation-technical/blob/main/content/badges/R.md)
