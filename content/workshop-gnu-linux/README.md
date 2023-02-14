@@ -1,12 +1,12 @@
 # GNU/Linux Workshop
 **Executive Summary:** This document contains the materials for the UVA residential MSDS workshop on GNU/Linux. It is a compainion to the initial orientation given prior to the start of study. This workshop is part of a series designed to help students with the world larger than their own laptop. A world of high-performance computing and of cloud computing, a world dominated by GNU/Linux.
 
-## Outline
-* Introduction and Preamble
-1. GNU/Linux minimum for Data Scientists
+## Plan for Today
+1. The GNU/Linux minimum (for Data Scientists)
 2. break
-3. How to GNU/Linux
+3. How to build the GNU/Linux habit
 
+## Preamble
 ![](baby-george.png)[22](https://youtu.be/SP7dbl0rJS0?t=205)
 
 ## Introduction
