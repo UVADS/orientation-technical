@@ -6,6 +6,7 @@ Hello there. Welcome to your one stop shop for technical orientation materials. 
 # Step 1
 * Watch this video: [5 THINGS I WISH I KNEW Before Starting Data Science by Nicholas Renotte](https://youtu.be/B5emClQf_I4)
 * Read this article: [The Virginia Model of Data Science](https://ontoligent.github.io/four-plus-one-model/)
+* Watch this video about laptop selection: [Computer Buying Guide](https://www.youtube.com/watch?v=k9hm8S4iCdQ)
 
 # Step 2 - Find your program below and get started
 * Residential MSDS - [link](msds-residential/README.md)
