@@ -24,6 +24,14 @@
 
 
 ## Motivation
+
+### Why GNU/Linux? Simply put: it is the only relevant operating system
+  * ![](World_Wide_Smartphone_Sales.png) [5]
+  * ![](Operating_systems_used_on_top_500_supercomputers.svg) Top500 supercomputers [2]
+  * One exception: Playing video games, which is >95% windows
+  * Yes desktop/laptops are 75% windows, but smartphones are more common (60% to 40%).
+  * Put another way: `conda install numpy`
+
 ### What is GNU/Linux
 
   * GNU = "GNU's not Unix", software suite in need of a kernel under GPL [6]
@@ -33,12 +41,6 @@
   * ![](Linux_0_12.jpg) [7]
   * Put another way: GNU is the chocolate and Linux is the Peanut Butter
 
-### Why GNU/Linux? Simply put: it is the only relevant operating system
-  * ![](World_Wide_Smartphone_Sales.png) [5]
-  * ![](Operating_systems_used_on_top_500_supercomputers.svg) Top500 supercomputers [2]
-  * One exception: Playing video games, which is >95% windows
-  * Yes desktop/laptops are 75% windows, but smartphones are more common (60% to 40%).
-  * Put another way: `conda install numpy`
 
 ## Preamble
 ![](programmer-life.png)[8]
