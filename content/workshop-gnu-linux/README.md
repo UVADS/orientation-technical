@@ -84,7 +84,7 @@
 * ssh, scp, rsync
 
 ## Planning to build the GNU/Linux habit
-1. Find a wizard
+1. Find a coach (wizard)
 2. Pick a project
     * Classic Example - My roommate built a Tivo running gentoo
     * Contemporary Example - Build a Nintendo or Streaming Box using a Rasberry Pi and Ubuntu ![](rasp.png) [21]
