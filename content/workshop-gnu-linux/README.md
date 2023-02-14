@@ -41,10 +41,6 @@
   * ![](Linux_0_12.jpg) [7]
   * Put another way: GNU is the chocolate and Linux is the Peanut Butter
 
-
-## Preamble
-![](programmer-life.png)[8]
-
 # Part I - Data Scientist GNU/Linux Minimum
 
 ## History [12]
