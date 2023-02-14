@@ -24,14 +24,14 @@
 
 
 ## Motivation
-2. What is GNU/Linux
+### What is GNU/Linux
     * GNU = "GNU's not Unix", software suite in need of a kernel under GPL [6]
     * Unix = an operating system, not necessarially under open license
     * GPL = "GNU General Public License"
     * Linux = "Linus's Unix", a kernel under the GPL
     * ![](Linux_0_12.jpg) [7]
     * Put another way: GNU is the chocolate and Linux is the Peanut Butter
-3. Why GNU/Linux? Simply put: it is the only relevant operating system
+### Why GNU/Linux? Simply put: it is the only relevant operating system
     * ![](World_Wide_Smartphone_Sales.png) [5]
     * ![](Operating_systems_used_on_top_500_supercomputers.svg) Top500 supercomputers [2]
     * One exception: Playing video games, which is >95% windows
