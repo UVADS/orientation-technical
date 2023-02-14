@@ -13,9 +13,17 @@
 1. `whois` lpa2a
 2. Goals for today
     * Define GNU/Linux
-    * Give out some fish (part I)
-    * Teach you to fish (part II)
+    * Establish the Data Scientist minimum (part I)
+    * Give you a plan to build the habit (part II)
     * But really I just want you all to ask questions
+3. GNU/Linux is a habit
+    * today: introduce you to the equipment
+    * today: introduce you to a coach
+    * today: create a workout plan
+    * tomorow: hit the gym
+
+
+## Motivation
 2. What is GNU/Linux
     * GNU = "GNU's not Unix", software suite in need of a kernel under GPL [6]
     * Unix = an operating system, not necessarially under open license
@@ -29,13 +37,6 @@
     * One exception: Playing video games, which is >95% windows
     * Yes desktop/laptops are 75% windows, but smartphones are more common (60% to 40%).
     * Put another way: `conda install numpy`
-4. Goals for today
-    * first half = exposure to fundamentals
-    * second half = equip you to build the habit
-5. GNU/Linux is a habit
-    * exposure
-    * wizard
-    * practice
 
 ## Preamble
 ![](programmer-life.png)[8]
