@@ -90,12 +90,12 @@
     * Contemporary Example - Build a Nintendo or Streaming Box using a Rasberry Pi and Ubuntu ![](rasp.png) [21]
 
 # Wrap up
-1. Please think of one thing you liked and one thing you would change about this workshop. And a few sentences about why.
-2. Then make a pull request and add them to this repo in the folder workshop-gnu-linux/feedback.
+1. Please think of one thing you liked and why and one thing you would change and why.
+2. Then make a pull request and add them to the next section "to improve for next time"
 ![](swanson-please.png)
 
 # To improve for next time
-1. this is where the fun beings meme
+1. << put your feedback here >>
 
 # Footnotes
 [1]  TOP500 list. The benchmark we decided on was Linpack, which means that systems are ranked only by their ability to solve a set of linear equations, A x = b, using a dense random matrix A. Therefore, any supercomputer – no matter what its architecture is – can make it into the TOP500 list - topp500.org
