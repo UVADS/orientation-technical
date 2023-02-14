@@ -77,7 +77,7 @@
 
 # Part II - building the habit
 
-## Installation Demo
+## Installation Demo (not included -- directions here [link](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview))
 * package management
 * users, groups, permission
 * ps and top
