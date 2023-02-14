@@ -8,6 +8,7 @@ There are two kinds of badges: skills badges and program badges. For example a s
 
 Todo:
 * add hardware badge
+* figure out where to put the text editor requirement (maybe everything that uses one has one for their own? like rstudio in R and vs code in pythong?)
 
 
 ## Links to badge pages
