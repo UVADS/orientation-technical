@@ -1,2 +1,8 @@
-# BADGES
-This readme shows the tech tree for UVADS technical orientation badges. Each node represents a badge and the requirements for the badge are found in the appropriate folder.
+# BADGES README
+This readme shows the tech tree for UVADS technical orientation badges. Each node represents a badge. The requirements for the badges are found in the markdown files.
+
+## Badge Tech Tree
+
+## Links to badge pages
+
+* [R](https://github.com/UVADS/orientation-technical/blob/main/content/badges/R.md)
