@@ -23,9 +23,7 @@
     * tomorow: hit the gym
 
 
-## Motivation
-
-### Why GNU/Linux? Simply put: it is the only relevant operating system
+## Motivation -- Why GNU/Linux? -- Simply put: it is the only relevant operating system
   * ![](World_Wide_Smartphone_Sales.png) [5]
   * ![](Operating_systems_used_on_top_500_supercomputers.svg) Top500 supercomputers [2]
   * One exception: Playing video games, which is >95% windows
