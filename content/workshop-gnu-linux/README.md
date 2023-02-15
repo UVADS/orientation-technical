@@ -63,6 +63,7 @@
     * `printenv` and `echo`
     * `$PATH`
     * `less ~/.bash_profile`
+3. The story of manspacetar
 4. Edit `.bash_profile` and `PS1` environment variable
     * **use** a terminal text editor - choose one [vi,nano,emacs,etc.]
 5. Repeat this exercise but on Rivanna side by side with your local machine
