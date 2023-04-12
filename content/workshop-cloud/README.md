@@ -26,8 +26,8 @@ We are going to talk about cloud computing but we will talk in the AWS vernacula
 ## Exercise 0 - click on everything here - [https://app.cloudcraft.co/](https://app.cloudcraft.co/)
 
 ## A few building blocks (mini-lecture)
-* s3 - Simple Storage Service ![](s3)
-* ec2 - Elastic Compute Cloud ![](ec2)
+* s3 - Simple Storage Service ![](s3.png)
+* ec2 - Elastic Compute Cloud ![](ec2.png)
 ![](lego-brick.png)[1]
 
 ## Exercise 1 - Spec your Laptop using cloudcraft
@@ -45,8 +45,8 @@ We are going to talk about cloud computing but we will talk in the AWS vernacula
 ## Exercise 4 -  read this file [https://github.com/boto/boto3/blob/develop/README.rst](https://github.com/boto/boto3/blob/develop/README.rst)
 
 ## A few more building blocks (mini-lecture if time)
-* iam ![](iam)
-* lambda ![](lambda)
+* iam ![](iam.png)
+* lambda ![](lambda.png)
 
 # Break
 
