@@ -56,6 +56,8 @@ We are going to talk about cloud computing but we will talk in the AWS vernacula
 
 ## The Method
 Easy to say and understand ... hard to do.
+![](ellie2.png)[2]
+
 
 ## Your first prototype
 1. Create an event stream
