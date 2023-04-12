@@ -32,7 +32,7 @@ We are going to talk about cloud computing but we will talk in the AWS vernacula
 
 ## Exercise 1 - Spec your Laptop using cloudcraft
 
-## Exercise 2 - Spec three more machines using cloudcraft
+## Exercise 2 - Spec two more machines using cloudcraft
 ![](2022-09-30-schuster-catherine.png)
 
 ## Exercise 3 - Do a price comparison using cloudcraft budget
