@@ -8,7 +8,7 @@ Hello there. Welcome to your one stop shop for technical orientation materials. 
 * Read this article: [The Virginia Model of Data Science](https://ontoligent.github.io/four-plus-one-model/)
 * Watch this video about laptops (this is optional, it is intended for those who have yet to purchase a laptop): [Computer Buying Guide](https://www.youtube.com/watch?v=k9hm8S4iCdQ)
 
-# Step 2 - Find your program below and get started
+# Step 2 - Find your program below and get started!
 * Residential MSDS - [link](msds-residential/README.md)
 * Online MSDS - [link](msds-online/README.md)
 * PhD - [link](phd/README.md)
