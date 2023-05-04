@@ -3,6 +3,7 @@
 ## embed youtube video of Dean/Program Director welcome
 
 ## syncronous introduction by Professor Alonzi script written out here
+* [slides](https://myuva-my.sharepoint.com/:p:/g/personal/lpa2a_virginia_edu/EcIqb1_xLZlLpneOl-sklXUBv-7899RNFqwllVSMAI4hqg?e=c5pRpZ)
 
 ## Badge tree
 * shows all the badges
