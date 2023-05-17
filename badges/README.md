@@ -13,3 +13,6 @@ Todo:
 
 ## Links to badge pages
 * [R](https://github.com/UVADS/orientation-technical/blob/main/content/badges/R.md)
+
+## Ideas
+* ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/use-environment-meme.png)
