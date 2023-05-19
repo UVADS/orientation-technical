@@ -6,7 +6,7 @@
 * N.B. Classes start June 20 (you have the weekend).
 * N.B. Put in a good faith effort and then ask for help!
 
-# Schedule
+## Schedule
 | Date | Place | Time | Activity |
 |----------------------|----------|---------------|-|
 | Tuesday, June 13, 2023 | Alumni Hall | 13:00-15:00 | Session 1 |
