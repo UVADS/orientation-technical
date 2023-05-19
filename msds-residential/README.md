@@ -77,13 +77,5 @@ Alternatively you can submit feedback without proposing a solution by creating a
 |  DS 5100   |Programming for Data Science | Alvarado,Rafael Candido   |
 | DS 6001   |Practice and App of Data Science| Kropko,Jonathan Michael |
 |   STAT 6021   | Linear Models for Data Science | Woo,Yong Ming Jeffrey |
-* September Seminar: linux file systems
-* October Seminar: high performance computing
-* November Seminar: cloud primer (aws)
 
-
-# Todo
-* shift to new schedule 9a-2p over 4 days
-* more git
-* from jeffrey more sql from pete no sql ---> to discuss
-* kill spyder, promote jupyterlab, conda environment mandatory
+* Monthly workshops led by Professor Alonzi on topics like Cloud Computing
