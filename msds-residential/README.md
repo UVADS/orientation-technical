@@ -67,9 +67,4 @@ Alternatively you can submit feedback by creating an issue on the repository.
 
 2. **create** a github account - [link](https://github.com/join) 
  
-5. **install** VS code and git BASH
-   **learn** vscode - the first four terminal commands - [pwd,ls,cd,history]
-   **learn** the PATH environment variable (environment variables)
-   **install** python extension in vscode
-   **install** miniconda in vs code
-   **setup** conda environment in vs code
+
