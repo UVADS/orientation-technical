@@ -16,37 +16,15 @@
 
 ## The Checklist
 
-**NB: if you have already completed an item there is no nead to repeat it**
-
-0. **watch** Jurassic Park ( [UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/u3586953) or HBO MAX )
-1. **create** a github account - [link](https://github.com/join) 
-2. **complete** computer hardware survey - [link](https://forms.gle/ddkrs1CtDwxGb1a87)
-2. **open** a bash terminal on rivanna -[link](https://rivanna-portal.hpc.virginia.edu/)
-    * **learn** the first four terminal commands - [pwd,ls,cd,history]
-    * **use** a terminal text editor - choose one [vi,nano,emacs,etc.]
-    * **learn** the PATH environment variable
-    * **confirm** sucessful operation by running a [hello world program](https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md) in BASH (or other shell if you prefer)
-    * if needed your allocation = msds2023
-4. **install** VS code and git BASH
-    * repeat rivanna substeps but now on your local machine
-6. **install** R and Rstudio Desktop
-    * [installation link](https://rstudio.com/products/rstudio/download/#download)
-    * **confirm** sucessful operation by running a hello world program
-7. **install** python and jupyter with anaconda
-    * [installation link](https://docs.anaconda.com/anaconda/install/index.html)
-    * **confirm** sucessful operation by running a hello world program (using spyder **and** jupyter)
-    * **NEW** make a histogram
-8. **install** PostgresSQL
-    * confirm operation by running a few fundamental commands `\echo hello world` and `\l` and `\?` and `\q`
-9. **make** a pull request to this repo (some code you wrote today in the src folder)
-10. **rewatch** Jurassic Park ( [UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/u3586953) or HBO MAX )
-11. **Send email** with final assignment to alonzi@virginia.edu (subject = MSDS 2023)
-      * Part I: reaction/reflection to the film (one paragraph limit)
-      * Part IIa: one thing about orientation you liked and why
-      * Part IIb: one thing about orientation to improve and why?
-
-
-
+0. **watch** Jurassic Park 
+   * Explain two ethical challenges the characters in the movie face and what you would do in their place.
+   * Discuss with your cohort strategies for identifying ethical challenges in the digital world.
+1. **complete** computer hardware survey - [link](https://forms.gle/ddkrs1CtDwxGb1a87)
+2. **complete** the following 3 badges:
+   * VSCode
+   * GitHub
+   * Python
+3. **call** someone you should call more often and them about what you are excited to learn this summer
 
 ## Recommended Viewing
 This playlist contains five videos each one exemplifying a piece of the 4+1 model of Data Science: [link](https://youtube.com/playlist?list=PLc0No4e8MMEMcsS6pL4TZ8KegtS3VLlkk)
@@ -83,3 +61,20 @@ Alternatively you can submit feedback by creating an issue on the repository.
 
 * Monthly workshops led by Professor Alonzi on topics like Cloud Computing
 
+
+
+
+
+
+
+# move to badges
+
+
+2. **create** a github account - [link](https://github.com/join) 
+ 
+5. **install** VS code and git BASH
+   **learn** vscode - the first four terminal commands - [pwd,ls,cd,history]
+   **learn** the PATH environment variable (environment variables)
+   **install** python extension in vscode
+   **install** miniconda in vs code
+   **setup** conda environment in vs code
