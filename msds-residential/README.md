@@ -1,12 +1,18 @@
 # Welcome to the Residential MSDS Technical Orientation
 
-## Goal
-Your goal is to complete the technical orientation checklist before the start of classes.
+**GOAL:** Your goal is to complete the technical orientation checklist before the start of classes.
 
 * N.B. The majority of work is done independently
 * N.B. Classes start June 20 (you have the weekend).
 * N.B. Put in a good faith effort and then ask for help!
 
+# Schedule
+| Date | Place | Time | Activity |
+|----------------------|----------|---------------|-|
+| Tuesday, June 13, 2023 | Alumni Hall | 13:00-15:00 | Session 1 |
+| Tuesdays, June 13, 2023 | Your home | evening | Homework |
+| Wednesday, June 14, 2023 | Chemistry Building, Room 217 | 10:00-12:00 | Session 2 |
+| Tuesday, June 20, 2023 | start of classes |
 
 ## The Checklist
 
@@ -77,9 +83,3 @@ Alternatively you can submit feedback by creating an issue on the repository.
 
 * Monthly workshops led by Professor Alonzi on topics like Cloud Computing
 
-# Schedule
-| Date | Place | Time | Activity |
-|----------------------|----------|---------------|-|
-| Tuesday, June 13, 2023 | Alumni Hall | 13:00-15:00 | Session 1 |
-| Tuesdays, June 13, 2023 | Your home | evening | Homework |
-| Wednesday, June 14, 2023 | Chemistry Building, Room 217 | 10:00-12:00 | Session 2 |
