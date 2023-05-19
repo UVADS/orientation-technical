@@ -61,12 +61,12 @@ This playlist contains five videos each one exemplifying a piece of the 4+1 mode
 
 
 ## How to submit feedback
-I love getting feedback. Here is how you can submit it.
+I love getting feedback. Here is the preferred way to submit it.
 1. Fork this repo
-2. work on your fork
-3. Issue a pull request for any suggested improvements
+2. Work on your fork to make improvements
+3. Issue a pull request
 
-Alternatively you can submit feedback without proposing a solution by creating an issue on the repository.
+Alternatively you can submit feedback by creating an issue on the repository.
 
 # What's Next
 | Class | Name  | Professor |
