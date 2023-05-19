@@ -55,16 +55,3 @@ Alternatively you can submit feedback by creating an issue on the repository.
 |   STAT 6021   | Linear Models for Data Science | Woo,Yong Ming Jeffrey |
 
 * Monthly workshops led by Professor Alonzi on topics like Cloud Computing
-
-
-
-
-
-
-
-# move to badges
-
-
-2. **create** a github account - [link](https://github.com/join) 
- 
-
