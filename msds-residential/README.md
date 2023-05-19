@@ -12,7 +12,7 @@
 | Tuesday, June 13, 2023 | Alumni Hall | 13:00-15:00 | Session 1 |
 | Tuesdays, June 13, 2023 | Your home | evening | Homework |
 | Wednesday, June 14, 2023 | Chemistry Building, Room 217 | 10:00-12:00 | Session 2 |
-| Tuesday, June 20, 2023 | start of classes |
+| Tuesday, June 20, 2023 | | | start of classes |
 
 ## The Checklist
 
