@@ -25,6 +25,7 @@
    * GitHub
    * Python
 3. **call** someone you should call more often and them about what you are excited to learn this summer
+4. **read** [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
 
 ## Recommended Viewing
 This playlist contains five videos each one exemplifying a piece of the 4+1 model of Data Science: [link](https://youtube.com/playlist?list=PLc0No4e8MMEMcsS6pL4TZ8KegtS3VLlkk)
@@ -32,20 +33,12 @@ This playlist contains five videos each one exemplifying a piece of the 4+1 mode
 ## Recommended Texts
 
 Good Programming References
-3. R for Data Science - ([UVA Library](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) // [free online](https://r4ds.had.co.nz/))
-3.  Python for Data Analysis - ([UVA library](https://learning.oreilly.com/library/view/python-for-data/9781491957653/?ar) // [online](https://wesmckinney.com/pages/book.html))
+* R for Data Science - ([UVA Library](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) // [free online](https://r4ds.had.co.nz/))
+* Python for Data Analysis - ([UVA library](https://learning.oreilly.com/library/view/python-for-data/9781491957653/?ar) // [online](https://wesmckinney.com/pages/book.html))
 
 Deep Cuts
-2. [A History of Data Science: 1960 to 2012](https://myuva-my.sharepoint.com/:b:/g/personal/lpa2a_virginia_edu/EZ7EIykczFNOr7vu9Y0JsJwBXxEdwV86y5B1HRbrfCZ0Aw?e=PA6wHL)
-3.  [Lectures on Computing](http://galileo.phys.virginia.edu/compfac/courses/)
-
-5.  [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
-6.  A whack on the side of the head - ([UVA library](https://search.lib.virginia.edu/search?mode=advanced&q=title%3A%20%7BA%20Whack%20on%20the%20Side%20of%20the%20Head%3A%20How%20You%20Can%20Be%20More%20Creative%7D%20AND%20author%3A%20%7BOech%7D&pool=uva_library))
-8.  [Getting Starting with Python and JupyterLab: DS 6001: Practice and Application of Data Science](https://colab.research.google.com/drive/1oMEcZVC0P-VUGwLf-72XvHAPOoXEUkPh?usp=sharing)
-9.  [Using PostgresSQL](https://jkropko.github.io/surfing-the-data-pipeline/ch6.html#using-postgressql) - Kropko
-10.  SQL Turtorial - [learnsqlonline.org](https://www.learnsqlonline.org/)
-11. [Surfing the Data Pipeline with Python](https://jkropko.github.io/surfing-the-data-pipeline/intro.html)
-
+* [A History of Data Science: 1960 to 2012](https://myuva-my.sharepoint.com/:b:/g/personal/lpa2a_virginia_edu/EZ7EIykczFNOr7vu9Y0JsJwBXxEdwV86y5B1HRbrfCZ0Aw?e=PA6wHL)
+* [Lectures on Computing](http://galileo.phys.virginia.edu/compfac/courses/)
 
 ## How to submit feedback
 I love getting feedback. Here is the preferred way to submit it.
