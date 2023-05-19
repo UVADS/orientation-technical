@@ -39,10 +39,6 @@ Your goal is to complete the technical orientation checklist before the start of
       * Part IIa: one thing about orientation you liked and why
       * Part IIb: one thing about orientation to improve and why?
 
-### Bonus Item: Pick one from the following list and explore, share your findings with a friend:
-* ggplot
-* matplotlib
-* send an email from the command line
 
 ## Sessions Structure
 * Location: [Wilson 325](https://www.google.com/maps/dir/The+Rotunda,+University+Avenue,+Charlottesville,+VA/Wilson+Hall,+University,+VA+22903/@38.0341718,-78.5058008,17z/data=!3m1!5s0x89b3864428afc2cb:0x80a87cac3b54931c!4m15!4m14!1m5!1m1!1s0x89b38645c3e1a2f7:0x7c424e84bcb81680!2m2!1d-78.503426!2d38.0355514!1m5!1m1!1s0x89b38645206bdbdf:0x7dbc3c087e9f1849!2m2!1d-78.5040612!2d38.0324818!3e2!5i1)
