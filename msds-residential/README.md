@@ -76,3 +76,10 @@ Alternatively you can submit feedback by creating an issue on the repository.
 |   STAT 6021   | Linear Models for Data Science | Woo,Yong Ming Jeffrey |
 
 * Monthly workshops led by Professor Alonzi on topics like Cloud Computing
+
+# Schedule
+| Date | Place | Time | Activity |
+|----------------------|----------|---------------|-|
+| Tuesday, June 13, 2023 | Alumni Hall | 13:00-15:00 | Session 1 |
+| Tuesdays, June 13, 2023 | Your home | evening | Homework |
+| Wednesday, June 14, 2023 | Chemistry Building, Room 217 | 10:00-12:00 | Session 2 |
