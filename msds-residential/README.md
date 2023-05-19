@@ -1,7 +1,12 @@
 # Welcome to the Residential MSDS Technical Orientation
 
 ## Goal
-The goal for orientation is for every student to complete the checklist.
+Your goal is to complete the technical orientation checklist before the start of classes.
+
+* N.B. The majority of work is done independently
+* N.B. Classes start June 20 (you have the weekend).
+* N.B. Put in a good faith effort and then ask for help!
+
 
 ## The Checklist
 
