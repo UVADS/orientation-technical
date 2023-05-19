@@ -27,11 +27,7 @@
 3. **call** someone you should call more often and them about what you are excited to learn this summer
 4. **read** [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
 
-## Recommended Viewing
-This playlist contains five videos each one exemplifying a piece of the 4+1 model of Data Science: [link](https://youtube.com/playlist?list=PLc0No4e8MMEMcsS6pL4TZ8KegtS3VLlkk)
-
 ## Recommended Texts
-
 Good Programming References
 * R for Data Science - ([UVA Library](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) // [free online](https://r4ds.had.co.nz/))
 * Python for Data Analysis - ([UVA library](https://learning.oreilly.com/library/view/python-for-data/9781491957653/?ar) // [online](https://wesmckinney.com/pages/book.html))
@@ -39,6 +35,9 @@ Good Programming References
 Deep Cuts
 * [A History of Data Science: 1960 to 2012](https://myuva-my.sharepoint.com/:b:/g/personal/lpa2a_virginia_edu/EZ7EIykczFNOr7vu9Y0JsJwBXxEdwV86y5B1HRbrfCZ0Aw?e=PA6wHL)
 * [Lectures on Computing](http://galileo.phys.virginia.edu/compfac/courses/)
+
+## For when you need a pump up
+This playlist contains five videos each one exemplifying a piece of the 4+1 model of Data Science: [link](https://youtube.com/playlist?list=PLc0No4e8MMEMcsS6pL4TZ8KegtS3VLlkk)
 
 ## How to submit feedback
 I love getting feedback. Here is the preferred way to submit it.
