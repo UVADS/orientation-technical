@@ -41,10 +41,7 @@ Deep Cuts
 
 ## For when you want to kick back and watch some content
 * This playlist will help you to get to know Professor Alonzi and computer hardware better. It is a little dated, but still relevant. ([link](https://www.youtube.com/watch?v=X1ZfpZ3HSwI&list=PLc0No4e8MMEPztUFVdtazgWi7L7pWakfO&index=1))
-* This playlist provides outside perspectives on principles we consider fundamental to Data Science. ([link](https://youtube.com/playlist?list=PLc0No4e8MMEPagWbHNrEIXx6nuWg7xFdq))
-
-
-
+* This playlist provides outside perspectives on principles we consider fundamental to Data Science. ([link](https://www.youtube.com/watch?v=Sm5xF-UYgdg&list=PLc0No4e8MMEPagWbHNrEIXx6nuWg7xFdq))
 
 ## How to submit feedback
 I love getting feedback. Here is the preferred way to submit it.
