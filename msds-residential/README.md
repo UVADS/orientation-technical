@@ -40,7 +40,7 @@ Deep Cuts
 * [Lectures on Computing](http://galileo.phys.virginia.edu/compfac/courses/)
 
 ## For when you need a pump up
-This playlist contains five videos each one exemplifying a piece of the 4+1 model of Data Science: [link](https://youtube.com/playlist?list=PLc0No4e8MMEMcsS6pL4TZ8KegtS3VLlkk)
+This playlist contains five videos, each one exemplifying a piece of the Virginia model of Data Science: [link](https://youtube.com/playlist?list=PLc0No4e8MMEMcsS6pL4TZ8KegtS3VLlkk)
 
 ## How to submit feedback
 I love getting feedback. Here is the preferred way to submit it.
