@@ -39,7 +39,7 @@ Deep Cuts
 * [A History of Data Science: 1960 to 2012](https://myuva-my.sharepoint.com/:b:/g/personal/lpa2a_virginia_edu/EZ7EIykczFNOr7vu9Y0JsJwBXxEdwV86y5B1HRbrfCZ0Aw?e=PA6wHL)
 * [Lectures on Computing](http://galileo.phys.virginia.edu/compfac/courses/)
 
-## For when you need a pump up
+## For when you want to kick back and watch some content
 This playlist contains five videos, each one exemplifying a piece of the Virginia model of Data Science: [link](https://youtube.com/playlist?list=PLc0No4e8MMEMcsS6pL4TZ8KegtS3VLlkk)
 
 ## How to submit feedback
