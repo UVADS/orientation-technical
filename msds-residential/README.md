@@ -16,7 +16,7 @@
 
 ## The Checklist
 
-0. **watch** Jurassic Park [link to uva library access](https://digitalcampus-swankmp-net.proxy1.library.virginia.edu/uva296909/play/bafece83e07de665?referrer=marc)
+0. **watch** Jurassic Park ([link to uva library access](https://digitalcampus-swankmp-net.proxy1.library.virginia.edu/uva296909/play/bafece83e07de665?referrer=marc))
    * Explain two ethical challenges the characters in the movie face and what you would do in their place.
    * Discuss with your cohort strategies for identifying ethical challenges in the digital world.
 1. **complete** computer hardware survey - [link](https://forms.gle/ddkrs1CtDwxGb1a87)
