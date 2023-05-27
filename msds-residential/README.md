@@ -29,7 +29,7 @@
    * Commit to ...
       * being humble.
       * asking if someone wants to recieve feedback before giving feedback (Sometimes, people just need you to listen to them).
-   * Select one principle from this article and share it with a member of your cohort.
+   * Select one principle from this article and share it with a member of your cohort. Tell them why it resonated with you and what you will do to keep it in your mind.
 ## Recommended Texts
 Good Programming References
 * R for Data Science - ([UVA Library](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) // [free online](https://r4ds.had.co.nz/))
