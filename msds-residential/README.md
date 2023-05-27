@@ -26,7 +26,10 @@
    * Python - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/python.md)
 3. **call** someone you should call more often and them about what you are excited to learn this summer
 4. **read** [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
-
+   * Commit to ...
+      * being humble.
+      * asking if someone wants to recieve feedback before giving feedback (Sometimes, people just need you to listen to them).
+   * Select one principle from this article and share it with a member of your cohort.
 ## Recommended Texts
 Good Programming References
 * R for Data Science - ([UVA Library](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) // [free online](https://r4ds.had.co.nz/))
