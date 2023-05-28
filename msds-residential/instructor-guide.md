@@ -5,7 +5,7 @@
   * Instructor introduction
   * Instructor philosophy
 
-* Triad time #1
+* Triad time #1 (20min)
   * Form a triad
   * Play 3?s
   * Complete Computer survey together
@@ -21,12 +21,12 @@
   * Criteria
   * My role is to coach
 
-* Triad time #2
+* Triad time #2 (20min)
   * From a new traid
   * Play 3?s
   * do #2 from checklist (read blog and complete the steps after it)
 
-* Triad time #3
+* Triad time #3 (20min)
   * From a new traid
   * Play 3?s
   * BREAK: do #3, phone call, if you don't need a break
@@ -36,7 +36,7 @@
     * welcome to grad school
     * let's talk about how to know when you've done something, grad school style
 
-* Triad time #4
+* Triad time #4 (20min)
   * Form a new triad
   * Play 3?s
   * Get working on those badges
@@ -44,4 +44,8 @@
 * Instructor time
   * wrap up Q&A
   * homework - work the badges and bring your questions tomorrow
+
+-----
+
+* There is 80 min of triad time which leaves 40 min of instructor time. you have to read the room, more triad time is probably better especially for #4 (badges)
 
