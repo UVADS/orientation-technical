@@ -21,6 +21,7 @@
    * Discuss with a member of your cohort: strategies for identifying ethical challenges in the digital world.
 1. **complete** computer hardware survey - [link](https://forms.gle/RL3JY8m4RRjWesRL8)
 2. **complete** the following 3 badges:
+
    * GitHub - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md)
    * VSCode - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md)
    * Python - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/python.md)
