@@ -41,3 +41,7 @@
   * Play 3?s
   * Get working on those badges
 
+* Instructor time
+  * wrap up Q&A
+  * homework - work the badges and bring your questions tomorrow
+
