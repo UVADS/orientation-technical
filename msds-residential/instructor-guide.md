@@ -3,7 +3,7 @@
 * Welcome
   * Hello there and welcome
   * Instructor introduction
-  * Instructor philosophy
+  * Instructor teaching philosophy (ie i'm a coach)
 
 * Triad time #1 (20min)
   * Form a triad
