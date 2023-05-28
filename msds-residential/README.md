@@ -21,9 +21,12 @@
    * Discuss with a member of your cohort: strategies for identifying ethical challenges in the digital world.
 1. **complete** computer hardware survey - [link](https://forms.gle/RL3JY8m4RRjWesRL8)
 2. **complete** the following 3 badges:
-   * VSCode - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md)
    * GitHub - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md)
+   * VSCode - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md)
    * Python - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/python.md)
+
+You may work on these badges in any order and simultaneously. If you would prefer to go sequentially starting from first principles the reccomended order is GitHub --> VSCode --> Python.
+
 3. **call** someone you should call more often and them about what you are excited to learn this summer
 4. **read** [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
    * Commit to ...
