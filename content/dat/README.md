@@ -14,4 +14,4 @@ If you are looking for some data to play around with I suggest heading to Gapmin
 * Gapminder data: [link](https://www.gapminder.org/)
 * Gapminder presentation: [link](https://youtu.be/18MZmVDv7uo)
 
-![]()
+![](https://github.com/UVADS/orientation-technical/blob/main/content/images/data-viz-gap.png)
