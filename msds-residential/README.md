@@ -40,9 +40,8 @@ Deep Cuts
 * [Lectures on Computing](http://galileo.phys.virginia.edu/compfac/courses/)
 
 ## For when you want to kick back and watch some content
-* This playlist will help you to get to know Professor Alonzi and computer hardware better. It is a little dated, but still relevant. ([link](https://www.youtube.com/watch?v=X1ZfpZ3HSwI&list=PLc0No4e8MMEPztUFVdtazgWi7L7pWakfO&index=1))
-* This playlist provides perspectives from outside of UVA on principles we consider fundamental to Data Science. ([link](https://www.youtube.com/watch?v=Sm5xF-UYgdg&list=PLc0No4e8MMEPagWbHNrEIXx6nuWg7xFdq))
-* This playlist is for learning some math, but in a laid back, fun way. ([link](https://youtube.com/playlist?list=PLc0No4e8MMEOIeVQU5wUCI6571YpjbVD9))
+* This playlist will help you to get to know Professor Alonzi and computer hardware better. It is a little dated, but still relevant. This falls sqarely in what we call systems. ([link](https://www.youtube.com/watch?v=X1ZfpZ3HSwI&list=PLc0No4e8MMEPztUFVdtazgWi7L7pWakfO&index=1))
+* This playlist provides perspectives on fundamental Data Science principles from what we call Design, Value, and Analytics. ([link](https://www.youtube.com/watch?v=Sm5xF-UYgdg&list=PLc0No4e8MMEPagWbHNrEIXx6nuWg7xFdq))
 
 ## How to submit feedback
 I love getting feedback. Here is the preferred way to submit it.
