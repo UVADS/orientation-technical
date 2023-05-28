@@ -50,6 +50,7 @@ Deep Cuts
 ## For when you want to kick back and watch some content
 * This playlist will help you to get to know Professor Alonzi and computer hardware better. It is a little dated, but still relevant. This falls sqarely in what we call systems. ([link](https://www.youtube.com/watch?v=X1ZfpZ3HSwI&list=PLc0No4e8MMEPztUFVdtazgWi7L7pWakfO&index=1))
 * This playlist provides perspectives on fundamental Data Science principles from what we call Design, Value, and Analytics. ([link](https://www.youtube.com/watch?v=Sm5xF-UYgdg&list=PLc0No4e8MMEPagWbHNrEIXx6nuWg7xFdq))
+* The UVA Data Science YouTube Channel ([link](https://www.youtube.com/@uvaschoolofdatascience571/videos))
 
 ## How to submit feedback
 I love getting feedback. Here is the preferred way to submit it.
