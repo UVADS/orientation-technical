@@ -4,6 +4,8 @@
   * Hello there and welcome
   * Instructor introduction
   * Instructor teaching philosophy (ie i'm a coach)
+    * your responsibility is to set personal goals and work hard
+    * my responsibility is to coach you to achieve them
 
 * Triad time #1 (20min)
   * Form a triad
