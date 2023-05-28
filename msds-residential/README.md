@@ -18,25 +18,26 @@
 
 0. **watch** Jurassic Park ([link to free access via uva library](https://digitalcampus-swankmp-net.proxy1.library.virginia.edu/uva296909/play/bafece83e07de665?referrer=marc))
 
-* Explain two ethical challenges the characters in the movie face and what you would do in their place.
-* Discuss with a member of your cohort: strategies for identifying ethical challenges in the digital world.
+  * Explain two ethical challenges the characters in the movie face and what you would do in their place.
+  * Discuss with a member of your cohort: strategies for identifying ethical challenges in the digital world.
 
 1. **complete** computer hardware survey - [link](https://forms.gle/RL3JY8m4RRjWesRL8)
 2. **complete** the following 3 badges:
 
-* GitHub - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md)
-* VSCode - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md)
-* Python - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/python.md)
+  * GitHub - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md)
+  * VSCode - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md)
+  * Python - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/python.md)
 
 You may work on these badges in any order and simultaneously. If you would prefer to go sequentially starting from first principles the reccomended order is GitHub --> VSCode --> Python.
 
 3. **call** someone you should call more often and them about what you are excited to learn this summer
 4. **read** [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
 
-* Commit to ...
-  * being humble.
-  * asking if someone wants to recieve feedback before giving feedback (Sometimes, people just need you to listen to them).
-* Select one principle from this article and share it with a member of your cohort. Tell them why it resonated with you and what you will do to keep it in your mind.
+  * Commit to ...
+    * being humble.
+    * asking if someone wants to recieve feedback before giving feedback (Sometimes, people just need you to listen to them).
+  * Select one principle from this article and share it with a member of your cohort. Tell them why it resonated with you and what you will do to keep it in your mind.
+
 ## Recommended Reference Resources
 Programming
 * R for Data Science - ([UVA Library](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) // [free online](https://r4ds.had.co.nz/))
