@@ -30,7 +30,7 @@
       * asking if someone wants to recieve feedback before giving feedback (Sometimes, people just need you to listen to them).
     * Select one principle from this article and share it with a member of your cohort. Tell them why it resonated with you and what you will do to keep it in your mind.
 
-3. **call** someone you should call more often and them about what you are excited to learn this summer
+3. **call** someone you should call more often and tell them about what you are excited to learn this summer
 
 4. **complete** the following 3 badges:
 
