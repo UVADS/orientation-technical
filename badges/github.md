@@ -24,3 +24,8 @@
        * Team Administration
    * for each do .....
 
+# finks
+1. integration - take some news source in your life and follow the trail back to a github page explaining their data pipeline, read the readme, which news sources are better about this and which are worse
+2. learning how to learn - documentation, learn how to read and use github documentation to learn about github
+3. caring - the feelings of social media and the challenges they present
+4. 
