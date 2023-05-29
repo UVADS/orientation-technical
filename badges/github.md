@@ -34,3 +34,25 @@
       * being humble.
       * asking if someone wants to recieve feedback before giving feedback (Sometimes, people just need you to listen to them).
     * Select one principle from this article and share it with a member of your cohort. Tell them why it resonated with you and what you will do to keep it in your mind.
+
+
+Foundational knowledge
+ + Foss and licenses
+ + social media uses and dangers
+ + version control software
+ + markdown
+
+
+Application
+ + Create a GitHub account
+ + read this about why GitHub matters for resume
+ + read this about design principles for GitHub accounts
+
+ + Create a repository
+ + pick a license
+ + write a readme
+ + upload code 
+ + edit using the browser based editor
+ + share your repo
+
+ + Seek out the GitHub account for 3 faculty members you are interested in meeting
