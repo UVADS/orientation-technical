@@ -56,3 +56,10 @@ Application
  + share your repo
 
  + Seek out the GitHub account for 3 faculty members you are interested in meeting
+
+
+# Things I need to see
+* responding to code questions by saying "it's on github" / accepting "it's on github" as a good answer
+* sharing your code with a clean github link to the top of the repo
+* writing a readme that is clear and well structured. something a person can read and know how to use the code, understand the data, etc.
+* forking and pull requesting a repo is normal and not considered a burden, it energizes the person not shuts them down
