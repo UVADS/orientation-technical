@@ -28,4 +28,9 @@
 1. integration - take some news source in your life and follow the trail back to a github page explaining their data pipeline, read the readme, which news sources are better about this and which are worse
 2. learning how to learn - documentation, learn how to read and use github documentation to learn about github
 3. caring - the feelings of social media and the challenges they present
-4. 
+4. human dimension -  **read** [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
+
+    * Commit to ...
+      * being humble.
+      * asking if someone wants to recieve feedback before giving feedback (Sometimes, people just need you to listen to them).
+    * Select one principle from this article and share it with a member of your cohort. Tell them why it resonated with you and what you will do to keep it in your mind.
