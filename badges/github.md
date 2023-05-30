@@ -12,6 +12,8 @@
 
 2. **decide** for yourself if GitHub is version control software or social media. Discuss your answer with another member of your cohort. (Find several sources about the uses of GitHub and understand those use cases.)
 
+3. **goto** a github repository and click on everything. everything!
+
 3. **create** a github account. Remember that this account will present you to the professional world. Seek out and read three sources about how you can use your GitHub profile in a job interview setting. 
  
 4. **create** a GitHub repository. This repository will contain materials you gather and learn during this orientation. It will:
