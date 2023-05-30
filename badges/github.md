@@ -2,6 +2,7 @@
 
 # GitHub
 
+## Requirements
 1. **read** about:
    1.  the history of version control software. Learn about the evolution of different VCSs and they evolved in the internet and social media landscape.
    2. the specific history of git and its role in the modern technology landscape.
