@@ -1,12 +1,22 @@
 # GitHub
 
+1. **read** about:
+   a.  the history of version control software. Learn about the evolution of different VCSs and they evolved in the internet and social media landscape.
+   b. the specific history of git and its role in the modern technology landscape.
+   c.  the history of GitHub the company, their acquisition by Microsoft, and exploration of AI assissted software development. 
 
-2. **create** a github account - [link](https://github.com/join) 
+Tell a friend about what you learned and how they can use the tools in their everyday life even if they are not a programmer. Explain to them why people put code on GitHub.
+
+2. **decide** for yourself if GitHub is version control software or social media. Discuss your answer with another member of your cohort.
+
+3. **create** a github account. Remember that this account will present you to the professional world. Seek out and read three sources about how you can use your GitHub profile in a job interview setting. 
  
+4. **create** a GitHub repository. This repository will contain materials you gather and learn during this orientation. It will:
+     A. Have a README.md file - This file is the welcome page to your repository and serves to orient new arrivals. Find three sources about how to use the README effectively on a GitHub repository. Take what you like and craft your README. You can always edit it later so focus more on form than content.
+     B. Have a LICENSE - Read about common licenses used on GitHub. Read the UVA School of Data Science reccomendation on Open Science. Explore why licensing your work is important and explain that significant to another member of the cohort.
 
 # blooms
 1. **remember** to check github as a resources
-2. **understand** why people put code on github
 3. **use** store code and documentation on github (you develop on your own and use this for vcs)
 4. **use** fork and use code from others
 5. **transcend** for and PR code from others - goto https://github.com/features and look at the "Collaborative Coding" section and follow on to Pull Request, use that documentation and learn how to complete a Pull Reqeust. then select from the repositories below
