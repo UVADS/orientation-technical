@@ -1,8 +1,11 @@
 ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)
 
 # GitHub
+This badge is designed to introduce you to a critical tool in the Data Science world. GitHub is a platform used to tell the world about what you are doing, but in a way that makes the details of your work accessible. Underthe hood it is powered by git. This stack is a very popular way for Data Scientist to archive their work and share it with a wide audience.
 
-## Requirements
+As with all the badges in this series your task is to complete the requirements below.
+
+## Requirements / WHat you will do along the way
 1. **read** about:
    1.  the history of version control software. Learn about the evolution of different VCSs and they evolved in the internet and social media landscape.
    2. the specific history of git and its role in the modern technology landscape.
@@ -59,7 +62,7 @@
 
 
 
-# Things I need to see and assessments
+# Criteria / How I'll know you're learning
 
 notes from brainstorming
 
