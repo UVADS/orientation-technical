@@ -20,7 +20,7 @@
      3. Use the browser based editor to modify your files
      4. Share your repository
 
-5. **fork** a repo. make an edit and issue a pull request. Choose from one of these repos:
+5. **fork** a repo. make an edit. issue a pull request. Choose from one of these repos:
     1.  https://github.com/alonzi/star_wars_power_rankings
     2.  https://github.com/alonzi/projectEuler
 
@@ -57,13 +57,16 @@
 
 
 # Things I need to see and assessments
+
+notes from brainstorming
+
 * responding to code questions by saying "it's on github" / accepting "it's on github" as a good answer
 * sharing your code with a clean github link to the top of the repo
 * writing a readme that is clear and well structured. something a person can read and know how to use the code, understand the data, etc.
 * forking and pull requesting a repo is normal and not considered a burden, it energizes the person not shuts them down
 
-1. **remember** to check github as a resources
-3. 3. **use** store code and documentation on github (you develop on your own and use this for vcs)
-5. **transcend** for and PR code from others - goto https://github.com/features and look at the "Collaborative Coding" section and follow on to Pull Request, use that documentation and learn how to complete a Pull Reqeust. then select from the repositories below
-   * select ONE from below in increasing order of seriousness (depending on your point of view):
+1. **remember** to check github as a resource especially for software packages
+3. **use** store code and documentation on github (you develop on your own and use this for vcs)
+    1. the first reaction is to make the repo
+5. former student projects;
       * https://github.com/kipmccharen/Bayesian-Adventure-Zone
