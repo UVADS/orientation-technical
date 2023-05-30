@@ -4,6 +4,7 @@
    1.  the history of version control software. Learn about the evolution of different VCSs and they evolved in the internet and social media landscape.
    2. the specific history of git and its role in the modern technology landscape.
    3.  the history of GitHub the company, their acquisition by Microsoft, and exploration of AI assissted software development. 
+   4.  the history of Free and Open software.
 
    * Tell a friend about what you learned and how they can use the tools in their everyday life even if they are not a programmer. Explain to them why people put code on GitHub.
 
