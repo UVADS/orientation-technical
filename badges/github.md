@@ -52,18 +52,9 @@
 
 
 
-Foundational knowledge
- + Foss and licenses
- + social media uses and dangers
- + version control software
- + markdown
 
 
-
-
-
-
-# Things I need to see
+# Things I need to see and assessments
 * responding to code questions by saying "it's on github" / accepting "it's on github" as a good answer
 * sharing your code with a clean github link to the top of the repo
 * writing a readme that is clear and well structured. something a person can read and know how to use the code, understand the data, etc.
