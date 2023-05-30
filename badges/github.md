@@ -1,3 +1,5 @@
+![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)
+
 # GitHub
 
 1. **read** about:
