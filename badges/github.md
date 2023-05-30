@@ -1,9 +1,9 @@
 # GitHub
 
 1. **read** about:
-   a.  the history of version control software. Learn about the evolution of different VCSs and they evolved in the internet and social media landscape.
-   b. the specific history of git and its role in the modern technology landscape.
-   c.  the history of GitHub the company, their acquisition by Microsoft, and exploration of AI assissted software development. 
+   1.  the history of version control software. Learn about the evolution of different VCSs and they evolved in the internet and social media landscape.
+   2. the specific history of git and its role in the modern technology landscape.
+   3.  the history of GitHub the company, their acquisition by Microsoft, and exploration of AI assissted software development. 
 
 Tell a friend about what you learned and how they can use the tools in their everyday life even if they are not a programmer. Explain to them why people put code on GitHub.
 
@@ -12,8 +12,8 @@ Tell a friend about what you learned and how they can use the tools in their eve
 3. **create** a github account. Remember that this account will present you to the professional world. Seek out and read three sources about how you can use your GitHub profile in a job interview setting. 
  
 4. **create** a GitHub repository. This repository will contain materials you gather and learn during this orientation. It will:
-     A. Have a README.md file - This file is the welcome page to your repository and serves to orient new arrivals. Find three sources about how to use the README effectively on a GitHub repository. Take what you like and craft your README. You can always edit it later so focus more on form than content.
-     B. Have a LICENSE - Read about common licenses used on GitHub. Read the UVA School of Data Science reccomendation on Open Science. Explore why licensing your work is important and explain that significant to another member of the cohort.
+     1. Have a README.md file - This file is the welcome page to your repository and serves to orient new arrivals. Find three sources about how to use the README effectively on a GitHub repository. Take what you like and craft your README. You can always edit it later so focus more on form than content.
+     2. Have a LICENSE - Read about common licenses used on GitHub. Read the UVA School of Data Science reccomendation on Open Science. Explore why licensing your work is important and explain that significant to another member of the cohort.
 
 # blooms
 1. **remember** to check github as a resources
