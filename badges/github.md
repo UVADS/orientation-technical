@@ -6,7 +6,7 @@ GitHub is a social media company. Do not be fooled. It is the leading social med
 
 
 
-## Requirements / WHat you will do along the way
+## Requirements
 
 **add requirement about explaining to someone the difference between version control software, git, github, and github.com**
 
@@ -63,20 +63,3 @@ GitHub is a social media company. Do not be fooled. It is the leading social med
 
 
 
-
-
-
-# Criteria / How I'll know you're learning
-
-notes from brainstorming
-
-* responding to code questions by saying "it's on github" / accepting "it's on github" as a good answer
-* sharing your code with a clean github link to the top of the repo
-* writing a readme that is clear and well structured. something a person can read and know how to use the code, understand the data, etc.
-* forking and pull requesting a repo is normal and not considered a burden, it energizes the person not shuts them down
-
-1. **remember** to check github as a resource especially for software packages
-3. **use** store code and documentation on github (you develop on your own and use this for vcs)
-    1. the first reaction is to make the repo
-5. former student projects;
-      * https://github.com/kipmccharen/Bayesian-Adventure-Zone
