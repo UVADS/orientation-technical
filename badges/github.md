@@ -1,11 +1,15 @@
 ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)
 
 # GitHub
-This badge is designed to introduce you to a critical tool in the Data Science world. GitHub is a platform used to tell the world about what you are doing, but in a way that makes the details of your work accessible. Underthe hood it is powered by git. This stack is a very popular way for Data Scientist to archive their work and share it with a wide audience.
 
-As with all the badges in this series your task is to complete the requirements below.
+GitHub is a social media company. Do not be fooled. It is the leading social media outlet used by coders in the Data Science space. The key is to bend the social media to your purpose, not fall victim to its business model. In this badge you will work through the fundamentals of using GitHub to achieve your goals of developing and sharing your code.
+
+
 
 ## Requirements / WHat you will do along the way
+
+**add requirement about explaining to someone the difference between version control software, git, github, and github.com**
+
 1. **read** about:
    1.  the history of version control software. Learn about the evolution of different VCSs and they evolved in the internet and social media landscape.
    2. the specific history of git and its role in the modern technology landscape.
