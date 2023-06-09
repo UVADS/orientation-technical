@@ -54,8 +54,9 @@ GitHub is a social media company. Do not be fooled. It is the leading social med
  
 8. **analyze** three different GitHub repsitories along the axis of documentation. Decide for yourself which repositories have better and worse documentation and what moves you would like to incorporate in your work going forward.
 
+9. **seek** out the GitHub page for THREE faculty members you are interested in meeting. Read the page and develop several questions about the contents the spark your curiousity.
 
-10. **seek** out the GitHub page for THREE faculty members you are interested in meeting. Read the page and develop several questions about the contents the spark your curiousity.
+10. **seek** out the GitHub page for THREE alumni of the School of Data Science. Investigate one of their projects and prepare a list of questions you would ask them if the opportunity presents itself.
 
 11. **investigate** the data behind an article you are reading. For an article that you have read that contains a data visualization follow the trail back to where the data came from and how they generated their visualizations. If you find a GitHub page explore it. If not repeat this requirement.
 
