@@ -66,7 +66,7 @@ Alternatively you can submit feedback by creating an issue on the repository.
 
 # What's Next
 
-**old need to update**
+**old need to update, email program director for details**
 
 | Class | Name  | Professor |
 |-------|-------|-----------|
