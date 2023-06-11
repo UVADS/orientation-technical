@@ -2,6 +2,8 @@ Get python working is vs code
 - extensions
 - conda environment
 
+This badge has a prereq - VS Code
+
 ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/python-badge.png)
 
 
