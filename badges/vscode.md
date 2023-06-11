@@ -50,6 +50,17 @@ In this badge we will get VS Code up and running and you will work through the f
 
 
 
+5. **install** miniconda, make the 'conda' command available in your PATH in Git BASH terminal in VS Code.
+    * "Phew". That was a lot of jargon. Break it down, understand each piece and then execute.
+    * This is a rather tricky step, the way you know it works is at the end you can run the `conda` command.
+
+     `$ conda --version`
+     
+     You will then get one of two responses
+     * `bash: conda: command not found`
+     * `conda 22.11.1`
+
+
 
 
 
