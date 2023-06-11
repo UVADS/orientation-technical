@@ -24,8 +24,9 @@ In this badge we will get VS Code up and running and you will work through the f
 1. **read** about:
    1. the difference between: text editors, word processors, and integrated development environments.
    2. the specific history and differences between Visual Studio and Visual Studio Code (n.b. we will use VS Code)
-   3. the specific history of Bash (Bourne Again Shell), its syntax, and environment variables (especially PATH)
-   4. package management and specifically the package manager conda and "conda environments"
+   3. Shells, focus on the difference between a Graphical user interface (GUI) and a Command line interface (CLI)
+   4. the specific history of Bash (Bourne Again Shell), its syntax, and environment variables (especially PATH)
+   5. package management and specifically the package manager conda and "conda environments"
 
    * Tell a friend about what you learned and how they can use the tools in their everyday life even if they are not a programmer. Explain to them why people would configure their environmetn before programming. Explain the difference between: text editors, word processors, and integrated development environments.
 
@@ -39,7 +40,7 @@ In this badge we will get VS Code up and running and you will work through the f
 
 4. **connect** VS Code to GitHub.
    * Work on your cloned repo, commit a change, and push that change back up to GitHub.
-   * In this process you may have to configure your profile with something like 
+   * In this process you may have to configure your profile with a terminal command like 
     
         `$ git config --global user.name "John Doe"`
    
