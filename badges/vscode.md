@@ -9,7 +9,7 @@ https://code.visualstudio.com/docs
 
 
 
-![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)
+![](https://github.com/UVADS/orientation-technical/blob/main/content/images/vscode-badge.png)
 
 # GitHub
 
