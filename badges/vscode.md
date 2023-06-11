@@ -57,8 +57,8 @@ In this badge we will get VS Code up and running and you will work through the f
      `$ conda --version`
      
      You will then get one of two responses
-     * `bash: conda: command not found`
-     * `conda 22.11.1`
+     * not yet done: `bash: conda: command not found`
+     * done: `conda 22.11.1`
 
 
 
