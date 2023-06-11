@@ -1,6 +1,5 @@
 https://code.visualstudio.com/docs
 
-5. **install** VS code and git BASH
    **learn** vscode - the first four terminal commands - [pwd,ls,cd,history]
    **learn** the PATH environment variable (environment variables)
    **install** python extension in vscode
@@ -46,6 +45,12 @@ In this badge we will get VS Code up and running and you will work through the f
    
         `$ git config --global user.email johndoe@example.com`
    * In this process you may also have to sign into GitHub from VS Code to give permission to modify the repo on GitHub.
+
+
+
+
+
+
 
 
 2. **decide** for yourself if GitHub is version control software or social media. Discuss your answer with another member of your cohort. (Find several sources about the uses of GitHub and understand those use cases.)
