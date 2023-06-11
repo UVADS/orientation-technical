@@ -2,7 +2,7 @@
 
 # GitHub
 
-GitHub is a social media company. Do not be fooled. It is the leading social media outlet used by coders in the Data Science space. The key is to bend the social media to your purpose, not fall victim to its business model. In this badge you will develop fundamental GitHub skills so that you can achieve your career goals: **Developing and sharing your code**.
+GitHub is a social media company. Do not be fooled. It is the leading social media outlet used by coders in the Data Science space. The key is to bend the social media to your purpose, not fall victim to its business model. In this badge you will develop fundamental GitHub skills so that you can achieve your career goals. GitHub enables to you **develop and sharing your code** in a manner that demonstrates your capabilities to future employers.
 
 
 
