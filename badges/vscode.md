@@ -47,10 +47,12 @@ In this badge we will get VS Code up and running and you will work through the f
    * In this process you may also have to sign into GitHub from VS Code to give permission to modify the repo on GitHub.
 
 
+5. **explore** your computer file system using three Bash commands `pwd`, `ls`, `cd`. Compare what you find with the exploration with the documentation for Windows/MacOS/Linux as appropriate to your machine. Find another member of your cohort with a different operating system and discuss the differnences between your file systems.
+   * The `history` command is helpful for recalling earlier commands you entered.
+   * Make use of command switches to enable additional functionality. (try `ls` and `ls -a` and `ls -l` and `ls -lhrta`)
 
 
-
-5. **install** miniconda, make the 'conda' command available in your PATH in Git BASH terminal in VS Code.
+5. **install** miniconda, make the 'conda' command available in your PATH in Git BASH terminal in VS Code. Celebrate your victory with another member of your cohort and swap stories about what was tricky and what you learned.
     * "Phew". That was a lot of jargon. Break it down, understand each piece and then execute.
     * This is a rather tricky step, the way you know it works is at the end you can run the `conda` command.
 
@@ -59,6 +61,8 @@ In this badge we will get VS Code up and running and you will work through the f
      You will then get one of two responses
      * not yet done: `bash: conda: command not found`
      * done: `conda 22.11.1`
+
+    * Along the way you will deepend your understanding of environment variables and in particular the PATH variable.
 
 
 
