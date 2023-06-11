@@ -11,21 +11,39 @@ https://code.visualstudio.com/docs
 
 ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/vscode-badge.png)
 
-# GitHub
+# VS Code
 
-GitHub is a social media company. Do not be fooled. It is the leading social media outlet used by coders in the Data Science space. The key is to bend the social media to your purpose, not fall victim to its business model. In this badge you will work through the fundamentals of using GitHub to achieve your goals: **Developing and sharing your code**.
+Visual Studio Code or VS Code is a powerful tool for getting data science work done. In your career you will have many choices about which tool to use, but for now, trust us, we will start with VS Code for teaching the core skills. As you develop you can explore other tools and decide what you like the most.
+Why VS Code? Well as of 2022 according to Stack Overflow VS Code is the most popular coding environment with about three quarters of the market share!
 
+In this badge we will get VS Code up and running and you will work through the fundamentals of **getting a coding environment up and running on your laptop**. This is an **essential skill for every data scientist** to develop, but, beware, it is not easy. This requires good mental preparation and fortitude. Expect to stumble and get frustrated.
 
 
 ## Requirements
 
 1. **read** about:
-   1.  the history of version control software. Learn about the evolution of different VCSs and they evolved in the internet and social media landscape.
-   2. the specific history of git and its role in the modern technology landscape.
-   3.  the history of GitHub the company, their acquisition by Microsoft, and exploration of AI assissted software development. 
-   4.  the history of Free and Open software.
+   1. the difference between: text editors, word processors, and integrated development environments.
+   2. the specific history and differences between Visual Studio and Visual Studio Code (n.b. we will use VS Code)
+   3. the specific history of Bash (Bourne Again Shell), its syntax, and environment variables (especially PATH)
+   4. package management and specifically the package manager conda and "conda environments"
 
-   * Tell a friend about what you learned and how they can use the tools in their everyday life even if they are not a programmer. Explain to them why people put code on GitHub. Explain the difference between version control software, git, github, github.com, and one alternative to github.
+   * Tell a friend about what you learned and how they can use the tools in their everyday life even if they are not a programmer. Explain to them why people would configure their environmetn before programming. Explain the difference between: text editors, word processors, and integrated development environments.
+
+2. **install** VS Code and use the *Source Control* panel to clone a GitHub repository.
+   * If you're like me and prefer not to use the mouse, Ctrl+Shift+G is the shortcut key to open the panel.
+   * You may need to install git during this process. Go for it! You can do it!
+
+3. **configure** the default terminal in VS Code to be "Git Bash"
+   * If you're like me and prefer not to use the mouse, Ctrl+Shift+P and then enter "Terminal: Select Default Profile"
+   * This can be a very tricky step. Sometimes VS Code will have trouble finding something you installed and you have to do extra work to find it. But rest assured, this will be effort well spent, because issues such as this arise **CONSTANTLY** in Data Science work.
+
+4. **connect** VS Code to GitHub.
+   * Work on your cloned repo, commit a change, and push that change back up to GitHub.
+   * In this process you may have to configure your profile with something like 
+`$ git config --global user.name "John Doe"`
+`$ git config --global user.email johndoe@example.com`
+   * In this process you may also have to sign into GitHub from VS Code to give permission to modify the repo on GitHub.
+
 
 2. **decide** for yourself if GitHub is version control software or social media. Discuss your answer with another member of your cohort. (Find several sources about the uses of GitHub and understand those use cases.)
 
