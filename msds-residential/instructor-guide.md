@@ -37,6 +37,7 @@
   * criteria - what do we mean
     * welcome to grad school
     * let's talk about how to know when you've done something, grad school style
+    * also about how to know if you found a good source or not, i don't tell you the sources you have to seek them out and learn how to discern if they are quality
 
 * Triad time #4 (20min)
   * Form a new triad
