@@ -34,9 +34,9 @@
 
 4. **complete** the following 3 badges:
 
-    * GitHub - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md)
-    * VSCode - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md)
-    * Python - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/python.md)
+    * GitHub - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)
+    * VSCode - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/vscode-badge.png)
+    * Python - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/python.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/python-badge.png)
 
 You may work on these badges in any order and simultaneously. If you would prefer to go sequentially starting from first principles the reccomended order is: GitHub --> VSCode --> Python.
 
