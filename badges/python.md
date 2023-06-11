@@ -1,6 +1,6 @@
 Get python working is vs code
--- extensions
--- conda environment
+- extensions
+- conda environment
 
 ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/python-badge.png)
 
