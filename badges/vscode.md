@@ -1,13 +1,3 @@
-https://code.visualstudio.com/docs
-
-   **learn** vscode - the first four terminal commands - [pwd,ls,cd,history]
-   **learn** the PATH environment variable (environment variables)
-   **install** python extension in vscode
-   **install** miniconda in vs code
-   **setup** conda environment in vs code
-
-
-
 ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/vscode-badge.png)
 
 # VS Code
