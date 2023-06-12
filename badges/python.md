@@ -1,25 +1,39 @@
-Get python working is vs code
-- extensions
-- conda environment
-
-This badge has a prereq - VS Code
-
 ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/python-badge.png)
-
 
 # Python
 
-asdf
+Python is a tool well suited to Data Science work. We will treat it as such. Python is not the goal of this badge. The goal is to accomplish tasks like solving mathematical problems, data visualization, and data analysis. In meeting these requirements you will build a proficiency in python, but that is not sufficient. You must continue to use the skill and maintain the habit.
 
-
-
-# GitHub
-
-GitHub is a social media company. Do not be fooled. It is the leading social media outlet used by coders in the Data Science space. The key is to bend the social media to your purpose, not fall victim to its business model. In this badge you will work through the fundamentals of using GitHub to achieve your goals: **Developing and sharing your code**.
-
-
+Prerequisites: GitHub, VS Code
 
 ## Requirements
+
+** draft thoughts, hasn't been polised for presentation yet, take with grain of salt*
+
+1. prepare your environment
+    2. configure a new conda environment with any version of python3 you like
+    3. confirm the right python extension is running in vs code
+    4. create a github repo for your work and link it to vs code
+    5. install these packages: matplotlib, numpy, pandas
+
+2. solve problems 1,2,3 from project euler
+
+3. use a random number generator to make histograms of popular probability distributions. choose THREE from the list below
+    * Binomial
+    * Poisson
+    * Normal
+    * Uniform
+    * Chi Squared
+
+4. Visually Demonstrate that Binomial and Poisson distributions approximate the normal distribution in a limiting case by creating histograms.
+
+5. load the data from the class hardware survey into memory using pandas, manipulate that data into a binnable form, and make exploratory histographs of the features of the dataset.
+
+6. For the features you couldn't address with a histogram provide a qualitative description.
+
+
+
+
 
 1. **read** about:
    1.  the history of version control software. Learn about the evolution of different VCSs and they evolved in the internet and social media landscape.
