@@ -11,23 +11,19 @@ Prerequisites: GitHub, VS Code
 ** draft thoughts, hasn't been polised for presentation yet, take with grain of salt*
 
 1. **read** about:
-    * python history
-    * python design philosophy and features
-    * python indentation
-    * python packages
-    * VS Code extensions
-    * Random Number Generators
-    * Histograms
-    * Data Frames
+    1. python history, design philosophy and features, indentation, and packages
+    1. VS Code extensions
+    2. Random Number Generators, Histograms, and Data Frames
+    * **think** of times when these tools are appropriate and when they might not be appropriate, **share** those findings with a member of your cohort.
 
 
-1. prepare your environment
-    2. configure a new conda environment with any version of python3 you like
-    3. confirm the right python extension is running in vs code
-    4. create a github repo for your work and link it to vs code
-    5. install these packages: matplotlib, numpy, pandas
+1. **prepare** your development environment
+    2. **configure** a new conda environment with any version of python3 you like
+    3. **confirm** the right python extension is running in vs code
+    4. **create** a github repo for your work and **link** it to vs code
+    5. **install** these packages: matplotlib, numpy, pandas
 
-2. solve problems 1,2,3 from project euler. store your solution code in your github repo
+2. **solve** problems 1,2,3 from [Project Euler](https://projecteuler.net/). **store** your solution code in your github repo.
 
 3. use a random number generator to make histograms of popular probability distributions. use the numpy and matplotlib packages. choose THREE from the list below and store your resulting code in your github repo.
     * Binomial
