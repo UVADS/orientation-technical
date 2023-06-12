@@ -43,16 +43,16 @@ In this badge we will get VS Code up and running and you will work through the f
 
 
 6. **install** miniconda, make the 'conda' command available in your PATH in Git BASH terminal in VS Code. Celebrate your victory with another member of your cohort and swap stories about what was tricky and what you learned.
-    * "Phew". That was a lot of jargon. Break it down, understand each piece and then execute.
-    * This is a rather tricky step, the way you know it works is at the end you can run the `conda` command.
+    * *hint/help*: "Phew". That was a lot of jargon. Break it down, understand each piece and then execute.
+    * This is a rather tricky step, the way you know it works is at the end you can **run** the `conda` command.
 
      `$ conda --version`
      
      You will then get one of two responses
-     * not yet done: `bash: conda: command not found`
-     * done: `conda 22.11.1`
+     * `bash: conda: command not found` --> not yet done
+     * `conda 22.11.1` --> done: 
 
-    * Along the way you will deepend your understanding of environment variables and in particular the PATH variable.
+    * *hint/help*: Along the way you will deepend your understanding of environment variables and in particular the PATH variable.
 
 7. **read** about conda environments and **use** `conda` to create an environment for code development. **Brainstorm** several reasons why you would use a conda environment.
      * hint/help: documentation here --> https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
