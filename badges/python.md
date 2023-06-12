@@ -2,7 +2,7 @@
 
 # Python
 
-Python is a tool well suited to Data Science work. We will treat it as such. Python is not the goal of this badge. The goal is to accomplish tasks like solving mathematical problems, data visualization, and data analysis. In meeting these requirements you will build a proficiency in python, but that is not sufficient. You must continue to use the skill and maintain the habit.
+Python is a tool well suited to Data Science work. We will treat it as such. Python is not the goal of this badge. The goal is to accomplish tasks like solving mathematical problems, data visualization, and data analysis **using** python. In meeting these requirements you will build a proficiency in python, but that is not sufficient. You must continue to use the skill over time to build and maintain the habit.
 
 Prerequisites: GitHub, VS Code
 
