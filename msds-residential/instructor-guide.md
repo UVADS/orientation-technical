@@ -7,6 +7,8 @@
     * your responsibility is to set personal goals and work hard
     * my responsibility is to coach you to achieve them
 
+  * Some of you may have mastered parts of this orientation, here's your mission ...
+
 * Triad time #1 (20min)
   * Form a triad
   * Play 3?s
