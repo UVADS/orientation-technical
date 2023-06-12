@@ -14,7 +14,7 @@ GitHub is a social media company. Do not be fooled. It is the leading social med
    3.  the history of GitHub the company, their acquisition by Microsoft, and exploration of AI assissted software development. 
    4.  the history of Free and Open software.
 
-   * Tell a friend about what you learned and how they can use the tools in their everyday life even if they are not a programmer. Explain to them why people put code on GitHub. Explain the difference between version control software, git, github, github.com, and one alternative to github.
+   * **then tell** a friend about what you learned and how they can use the tools in their everyday life even if they are not a programmer. Explain to them why people put code on GitHub. Explain the difference between version control software, git, github, github.com, and one alternative to github.
 
 2. **decide** for yourself if GitHub is version control software or social media. Discuss your answer with another member of your cohort. (Find several sources about the uses of GitHub and understand those use cases.)
 
@@ -28,11 +28,11 @@ GitHub is a social media company. Do not be fooled. It is the leading social med
      3. Use the browser based editor to modify your files
      4. Share your repository
 
-5. **fork** a repo. make an edit. issue a pull request. Choose from one of these repos:
+5. **fork** a repo. make an edit. issue a pull request. Choose from ONE of the following repos:
     1.  https://github.com/alonzi/star_wars_power_rankings
     2.  https://github.com/alonzi/projectEuler
 
-    * For help understanding Collaborative Coding use the resources here: https://github.com/features
+    * *help/hint* For help understanding Collaborative Coding use the resources here: https://github.com/features
 
 5. **read** [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
     * Commit to ...
