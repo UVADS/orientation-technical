@@ -28,13 +28,13 @@ In this badge we will get VS Code up and running and you will work through the f
    * *hint/help*:This can be a very tricky step. Sometimes VS Code will have trouble finding something you installed and you have to do extra work to find it. But rest assured, this will be effort well spent, because issues such as this arise **CONSTANTLY** in Data Science work.
 
 4. **connect** VS Code to GitHub.
-   * Work on your cloned repo, commit a change, and push that change back up to GitHub.
-   * In this process you may have to configure your profile with a terminal command like 
+   * **Work** on your cloned repo, commit a change, and push that change back up to GitHub.
+   * In this process you **may have to configure** your profile with a terminal command like 
     
         `$ git config --global user.name "John Doe"`
    
         `$ git config --global user.email johndoe@example.com`
-   * In this process you may also have to sign into GitHub from VS Code to give permission to modify the repo on GitHub.
+   * In this process you **may also have to sign into GitHub** from VS Code to give permission to modify the repo on GitHub.
 
 
 5. **explore** your computer file system using three Bash commands `pwd`, `ls`, `cd`. Compare what you find with the exploration with the documentation for Windows/MacOS/Linux as appropriate to your machine. Find another member of your cohort with a different operating system and discuss the differnences between your file systems.
