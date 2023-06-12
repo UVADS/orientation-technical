@@ -10,8 +10,11 @@ Prerequisites: GitHub, VS Code
 
 ** draft thoughts, hasn't been polised for presentation yet, take with grain of salt*
 
-reading about python packages
-reading about python history
+1. **read** about:
+    * python history
+    * python packages
+    * python design philosophy and features
+    * python indentation
 
 
 1. prepare your environment
