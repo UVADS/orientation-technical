@@ -8,8 +8,6 @@ Prerequisites: GitHub, VS Code
 
 ## Requirements
 
-** draft thoughts, hasn't been polised for presentation yet, take with grain of salt*
-
 1. **read** about:
     1. python history, design philosophy and features, indentation, and packages
     1. VS Code extensions
