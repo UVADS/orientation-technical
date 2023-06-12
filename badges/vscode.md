@@ -55,7 +55,7 @@ In this badge we will get VS Code up and running and you will work through the f
     * *hint/help*: Along the way you will deepend your understanding of environment variables and in particular the PATH variable.
 
 7. **read** about conda environments and **use** `conda` to create an environment for code development. **Brainstorm** several reasons why you would use a conda environment.
-     * hint/help: documentation here --> https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+     * *hint/help*: documentation here --> https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
 
 8. **read** about more features of VS Code. Choose TWO from the list below and then share what you learned with another member of your cohort.
