@@ -17,7 +17,7 @@ In this badge we will get VS Code up and running and you will work through the f
    4. the specific history of Bash (Bourne Again Shell), its syntax, and environment variables (especially PATH)
    5. package management and specifically the package manager conda and "conda environments"
 
-   * Tell a friend about what you learned and how they can use the tools in their everyday life even if they are not a programmer. Explain to them why people would configure their environmetn before programming. Explain the difference between: text editors, word processors, and integrated development environments.
+   * **Tell** a friend about what you learned and how they can use the tools in their everyday life even if they are not a programmer. **Explain** to them why people would configure their environmetn before programming. **Explain** the difference between: text editors, word processors, and integrated development environments.
 
 2. **install** VS Code and use the *Source Control* panel to clone a GitHub repository.
    * If you're like me and prefer not to use the mouse, Ctrl+Shift+G is the shortcut key to open the panel.
