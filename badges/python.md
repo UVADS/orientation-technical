@@ -18,7 +18,7 @@ Prerequisites: GitHub, VS Code
 
 
 1. **prepare** your development environment
-    2. **configure** a new conda environment with any version of python3 you like
+    1. **configure** a new conda environment with any version of python3 you like
     3. **confirm** the right python extension is running in vs code
     4. **create** a github repo for your work and **link** it to vs code
     5. **install** these packages: matplotlib, numpy, pandas
