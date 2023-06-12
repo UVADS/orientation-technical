@@ -20,8 +20,8 @@ In this badge we will get VS Code up and running and you will work through the f
    * **Tell** a friend about what you learned and how they can use the tools in their everyday life even if they are not a programmer. **Explain** to them why people would configure their environmetn before programming. **Explain** the difference between: text editors, word processors, and integrated development environments.
 
 2. **install** VS Code and use the *Source Control* panel to clone a GitHub repository.
-   * If you're like me and prefer not to use the mouse, Ctrl+Shift+G is the shortcut key to open the panel.
-   * You may need to install git during this process. Go for it! You can do it!
+   * *hint/help* If you're like me and prefer not to use the mouse, Ctrl+Shift+G is the shortcut key to open the panel.
+   * You **may need to install** git during this process. Go for it! You can do it!
 
 3. **configure** the default terminal in VS Code to be "Git Bash"
    * If you're like me and prefer not to use the mouse, Ctrl+Shift+P and then enter "Terminal: Select Default Profile"
