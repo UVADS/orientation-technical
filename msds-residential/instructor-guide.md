@@ -7,14 +7,13 @@
     * your responsibility is to set personal goals and work hard
     * my responsibility is to coach you to achieve them
 
-  * Some of you may have mastered parts of this orientation, here's your mission ...
 
-* Triad time #1 (20min)
+* Triad time #1 (20min) -- Let's Collect some data
   * Form a triad
   * Play 3?s
   * Complete Computer survey together
 
-* Instructor time
+* Instructor time -- go through the P/T/C of orientation 
   * Purpose: technical foundation and tone for program
   * Task: 
     * your computer is your main too
@@ -25,12 +24,12 @@
   * Criteria
   * My role is to coach
 
-* Triad time #2 (20min)
+* Triad time #2 (20min) -- Let's talk about humans
   * From a new traid
   * Play 3?s
   * do #2 from checklist (read blog and complete the steps after it)
 
-* Triad time #3 (20min)
+* Triad time #3 (20min) -- Break time
   * From a new traid
   * Play 3?s
   * BREAK: do #3, phone call, if you don't need a break
@@ -40,6 +39,7 @@
     * welcome to grad school
     * let's talk about how to know when you've done something, grad school style
     * also about how to know if you found a good source or not, i don't tell you the sources you have to seek them out and learn how to discern if they are quality
+    * Some of you may have mastered parts of this orientation, here's your mission ...
 
 * Triad time #4 (20min)
   * Form a new triad
@@ -48,7 +48,7 @@
 
 * Instructor time
   * wrap up Q&A
-  * homework - work the badges and bring your questions tomorrow
+  * homework - work the badges and bring your questions tomorrow -- we will be self selecting small groups to work in and have a 2 hour hacking session
 
 -----
 
