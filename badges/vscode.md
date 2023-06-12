@@ -37,9 +37,9 @@ In this badge we will get VS Code up and running and you will work through the f
    * In this process you **may also have to sign into GitHub** from VS Code to give permission to modify the repo on GitHub.
 
 
-5. **explore** your computer file system using three Bash commands `pwd`, `ls`, `cd`. Compare what you find with the exploration with the documentation for Windows/MacOS/Linux as appropriate to your machine. Find another member of your cohort with a different operating system and discuss the differnences between your file systems.
-   * The `history` command is helpful for recalling earlier commands you entered.
-   * Make use of command switches to enable additional functionality. (try `ls` and `ls -a` and `ls -l` and `ls -lhrta`)
+5. **explore** your computer file system using three Bash commands `pwd`, `ls`, `cd`. **Compare** what you find with the exploration with the documentation for Windows/MacOS/Linux as appropriate to your machine. **Find** another member of your cohort with a different operating system and discuss the differnences between your file systems.
+   * *hint/help*:The `history` command is helpful for recalling earlier commands you entered.
+   * **use** of command switches to enable additional functionality. (try `ls` and `ls -a` and `ls -l` and `ls -lhrta`)
 
 
 6. **install** miniconda, make the 'conda' command available in your PATH in Git BASH terminal in VS Code. Celebrate your victory with another member of your cohort and swap stories about what was tricky and what you learned.
