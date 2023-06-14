@@ -11,6 +11,7 @@
 two teams, orange and blue
 
 round 1: Aliens built the pyramids: blue has pro, orange has con
+
 round 2: The earth is flat: blue has con, orange has pro
 
 ## Badge tree
