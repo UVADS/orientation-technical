@@ -22,17 +22,20 @@
     * Discuss with a member of your cohort: strategies for identifying ethical challenges in the digital world.
 
 1. **complete** computer hardware survey - [link](https://forms.gle/RL3JY8m4RRjWesRL8)
+    1. explore the data (see content/dat folder in this repo)
+    2. make a histogram
+    3. add it to our class presentation - [link](https://myuva-my.sharepoint.com/:p:/g/personal/lpa2a_virginia_edu/ETKMqDrwqFhLq0m6yaKXmzIBEJgBl5_WGmydSwSV28XUTA?e=R8z90H) 
 
-2. **read** [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
+3. **read** [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
 
     * Commit to ...
       * being humble.
       * asking if someone wants to recieve feedback before giving feedback (Sometimes, people just need you to listen to them).
     * Select one principle from this article and share it with a member of your cohort. Tell them why it resonated with you and what you will do to keep it in your mind.
 
-3. **call** someone you should call more often and tell them about what you are excited to learn this summer
+4. **call** someone you should call more often and tell them about what you are excited to learn this summer
 
-4. **complete** the following 3 badges:
+5. **complete** the following 3 badges:
 
     * GitHub - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)
     * VSCode - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/vscode-badge.png)
