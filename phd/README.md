@@ -7,6 +7,12 @@
     * Slide 1 Uncle argyle
     * Slide 2 MV slide - add comment about state of brain 
 
+## idea - mock debate
+two teams, orange and blue
+
+round 1: Aliens built the pyramids: blue has pro, orange has con
+round 2: The earth is flat: blue has con, orange has pro
+
 ## Badge tree
 * shows all the badges
 * shows the dependencies
