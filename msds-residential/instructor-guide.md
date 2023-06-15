@@ -1,4 +1,36 @@
 # Instructor Guide
+This document contains the inital plan (bottom) and the as enacted plan
+
+## Delivered Orientation
+### Day 1 - 2 hours - Alumni Hall big room
+1. Intro - name / goal / philsophy to learning
+2. activity 1 - data collection - hardware survey
+3. Me explain Purpose and Task
+4. activity 2 - humans - read code review for humans and discuss with table
+5. BREAK
+6. Me explain criteria - how to know when you get it, at the grad school level
+7. activity 3 - read the badges - ask questions and understand what is going on
+8. wrap up - tour of resources on the github page - assign homework
+     * HW: make a plan to finish the badges by start of classes
+     * HW: bring questions to our session tomorrow
+  
+#### Evening - I prepared the hardware survey results and uploaded them to GitHub
+
+### Day 2 - 2 hours - Hackathon - Don't forget to play music in the room once it gets going
+1. Intro - name / goal / real talk (to build a habit you need longer than a few days)
+2. Today focus on the challenge of getting your coding environment up and running on your laptop
+3. activty - make a histogram - this is loose, ideally 90% of the class time with faculty orbiting
+     * explore the hardware data set
+     * make a histogram
+     * add your slide to our presentation (name, picture, histogram, link to your github)
+4. wrap up
+     * watch the slide show - 3s per slide @ 60 slides means 3 minutes
+     * Mention the followthrough - finish the badges but keep developing the habit
+     * Mention workshop series throughout the semester
+     * Thank you and good luck
+  
+## Initial draft 
+  
 
 * Welcome
   * Hello there and welcome
