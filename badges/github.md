@@ -29,8 +29,8 @@ GitHub is a social media company. Do not be fooled. It is the leading social med
      4. Share your repository
 
 5. **fork** a repo. make an edit. issue a pull request. Choose from ONE of the following repos:
-    1.  https://github.com/alonzi/star_wars_power_rankings
-    2.  https://github.com/alonzi/projectEuler
+    1.  https://github.com/alonzi/projectEuler
+    2.  https://github.com/alonzi/star_wars_power_rankings
 
     * *help/hint* For help understanding Collaborative Coding use the resources here: https://github.com/features
 
