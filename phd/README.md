@@ -7,6 +7,14 @@
     * Slide 1 Uncle argyle
     * Slide 2 MV slide - add comment about state of brain 
 
+## active learning exercise
+3. **read** [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
+
+    * Commit to ...
+      * being humble.
+      * asking if someone wants to recieve feedback before giving feedback (Sometimes, people just need you to listen to them).
+    * Select one principle from this article and share it with a member of your cohort. Tell them why it resonated with you and what you will do to keep it in your mind.
+
 ## idea - mock debate
 two teams, orange and blue
 
