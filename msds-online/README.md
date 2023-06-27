@@ -1,16 +1,48 @@
 # Welcome to the Online MSDS Technical Orientation
-Hello there. Welcome to the technical orientation for the online MSDS program. This orientation is conducted through our learning management system UVACollab. Here is the link for the collab site: [link](https://collab.its.virginia.edu/portal/site/50e991d8-e0cf-427e-9c68-e70334d46ff6)
+Hello there. Welcome to the technical orientation for the online MSDS program.
 
-## What to expect
-This material is designed for someone to get up to a certain level of readiness across various Data Science technical areas. It consists of 5 modules and the time to complete the modules varies based on your prior experience in those areas. A good benchmark is to plan 2 hours per module for a total of 10 hours of preparation time.
+## The Checklist
+0. **watch** Jurassic Park ([link to free access via uva library](https://digitalcampus-swankmp-net.proxy1.library.virginia.edu/uva296909/play/bafece83e07de665?referrer=marc))
 
-The content is asyncronous and includes student:student and student:professor interaction via the message board system inside of collab. For any and all questions please post to the message boards first so that all students can see the question. The best case scenario is that another student can help with your question which helps to build a tighter student connection. I will be monitoring the boards and jump in as appropriate. (If there are matters of a personal/private nature please email the professor).
+    * Explain two ethical challenges the characters in the movie face and what you would do in their place.
+    * Discuss with a member of your cohort: strategies for identifying ethical challenges in the digital world.
+1. **read** [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
 
-## Topics covered
-| Module # | Topic |
-|---|---|
-| 1 | How Computers Work |
-| 2 | Version Control Software |
-| 3 | R |
-| 4 | Python |
-| 5 | MySQL |
+    * Commit to ...
+      * being humble.
+      * asking if someone wants to recieve feedback before giving feedback (Sometimes, people just need you to listen to them).
+    * Select one principle from this article and share it with your cohort. Explain why it resonated with you and what you will do to keep it in your mind.
+
+2. Complete these badges
+    * GitHub - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)
+    * JupyterLab
+    * RStudio
+
+
+
+## Recommended Reference Resources
+Programming
+* R for Data Science - ([UVA Library](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) // [free online](https://r4ds.had.co.nz/))
+* Python for Data Analysis - ([UVA library](https://learning.oreilly.com/library/view/python-for-data/9781491957653/?ar) // [online](https://wesmckinney.com/pages/book.html))
+
+Deep Cuts
+* [A History of Data Science: 1960 to 2012](https://myuva-my.sharepoint.com/:b:/g/personal/lpa2a_virginia_edu/EZ7EIykczFNOr7vu9Y0JsJwBXxEdwV86y5B1HRbrfCZ0Aw?e=PA6wHL)
+* [Lectures on Computing](http://galileo.phys.virginia.edu/compfac/courses/)
+
+## For when you want to kick back and watch some content
+* This playlist will help you to get to know Professor Alonzi and computer hardware better. It is a little dated, but still relevant. This falls sqarely in what we call systems. ([link](https://www.youtube.com/watch?v=X1ZfpZ3HSwI&list=TLGGK2JILVWuD64yNjA2MjAyMw&index=1))
+* This playlist provides perspectives on fundamental Data Science principles from what we call Design, Value, and Analytics. ([link](https://www.youtube.com/watch?v=Sm5xF-UYgdg&list=PLc0No4e8MMEPagWbHNrEIXx6nuWg7xFdq))
+* The UVA Data Science YouTube Channel also has great videos! ([link](https://www.youtube.com/watch?v=m0t9SVI4We4))
+
+
+## How to submit feedback
+I love getting feedback. Here is the preferred way to submit it.
+1. Fork this repo
+2. Work on your fork to make improvements
+3. Issue a pull request
+
+# What's Next
+| Class | Name  | Professor |
+|-------|-------|-----------|
+|  DS 5100   |Programming for Data Science | Alvarado,Rafael Candido   |
+|   STAT 6021   | Linear Models for Data Science | Woo,Yong Ming Jeffrey |
