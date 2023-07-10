@@ -1,5 +1,17 @@
 # Welcome to the PhD Technical Orientation
 
+0. Uncle Argyle and MV
+1. Active learning exercise - Code Review Guidelines for Humans
+2. Watch out for the phrase "you should know ..." ... which leads into the ... badges you should know
+
+
+
+# everything below this line is an idea
+
+
+
+
+
 ## embed youtube video of Dean/Program Director welcome
 
 ## syncronous introduction by Professor Alonzi script written out here
