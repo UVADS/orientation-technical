@@ -10,4 +10,7 @@ Draft Agenda (to lock in on 7/12)
       * asking if someone wants to recieve feedback before giving feedback (Sometimes, people just need you to listen to them).
     * Select one principle from this article and share it with a member of your cohort. Tell them why it resonated with you and what you will do to keep it in your mind.
 3. Watch out for the phrase "you should know ..." ... which leads into the ... badges you should know
+    * https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md
+    * https://github.com/UVADS/orientation-technical/blob/main/badges/python.md
+    * https://github.com/UVADS/orientation-technical/blob/main/badges/github.md
 
