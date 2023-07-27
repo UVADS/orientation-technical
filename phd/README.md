@@ -15,6 +15,8 @@ This orientation begins with a 30 minute lesson outlined below. It focuses on th
     * https://github.com/UVADS/orientation-technical/blob/main/badges/github.md
     * https://github.com/UVADS/orientation-technical/blob/main/badges/python.md
     * https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md
+    * << jupyter coming >>
+    * << rstudion/quarto/posit >>
 
 ## Tomorrow ...
 
