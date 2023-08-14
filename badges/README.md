@@ -12,11 +12,11 @@ In order to meet the technical prerequisites for a degree program a student must
 ## Skill Badges on Offer
 Here is the current list of skill badges on offer:
 
-    * https://github.com/UVADS/orientation-technical/blob/main/badges/github.md
-    * https://github.com/UVADS/orientation-technical/blob/main/badges/python.md
-    * https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md
-    * https://github.com/UVADS/orientation-technical/blob/main/badges/RStudio.md
-    * https://github.com/UVADS/orientation-technical/blob/main/badges/jupyter.md
+  * https://github.com/UVADS/orientation-technical/blob/main/badges/github.md
+  * https://github.com/UVADS/orientation-technical/blob/main/badges/python.md
+  * https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md
+  * https://github.com/UVADS/orientation-technical/blob/main/badges/RStudio.md
+  * https://github.com/UVADS/orientation-technical/blob/main/badges/jupyter.md
 
 ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/python-badge.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/vscode-badge.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/rstudio-token.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/jupyter-token.png)
 
