@@ -11,6 +11,7 @@ In order to meet the technical prerequisites for a degree program a student must
 
 ## Skill Badges on Offer
 Here is the current list of skill badges on offer:
+
     * https://github.com/UVADS/orientation-technical/blob/main/badges/github.md
     * https://github.com/UVADS/orientation-technical/blob/main/badges/python.md
     * https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md
