@@ -13,7 +13,7 @@ Hello there. Welcome to the technical orientation for the online MSDS program.
       * asking if someone wants to recieve feedback before giving feedback (Sometimes, people just need you to listen to them).
     * Select one principle from this article and share it with your cohort. Explain why it resonated with you and what you will do to keep it in your mind.
 
-4. complete computer hardware survey - link
+4. complete computer hardware survey - [link](https://forms.gle/RL3JY8m4RRjWesRL8)
 
 3. Complete these **3** badges
     * GitHub - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)
