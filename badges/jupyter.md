@@ -2,14 +2,14 @@
 
 # Jupyter
 
-Jupyter is a tool well suited to Data Science work. We will treat it as such. Jupyter is not the goal of this badge. The goal is to accomplish tasks like solving mathematical problems, data visualization, and data analysis **using** jupyter. In meeting these requirements you will build a proficiency in python, but that is not sufficient. You must continue to use the skill over time to build and maintain the habit.
+Jupyter is a tool well suited to Data Science work. We will treat it as such. Jupyter is not the goal of this badge. The goal is to accomplish tasks like solving mathematical problems, data visualization, and data analysis **using** jupyter. In meeting these requirements you will build a proficiency in jupyter, but that is not sufficient. You must continue to use the skill over time to build and maintain the habit.
 
 Prerequisites: GitHub, VS Code
 
 ## Requirements
 
 1. **read** about:
-    1. projeect jupyter history, design philosophy and features, indentation, and packages (including iPython and conda and notebooks and jupyterlab)
+    1. project jupyter history, design philosophy and features, indentation, and packages (including iPython and conda and notebooks and jupyterlab)
     2. Random Number Generators, Histograms, and Data Frames
     * **think** of times when these tools are appropriate and when they might not be appropriate, **share** those findings with a member of your cohort.
 
