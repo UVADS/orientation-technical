@@ -9,13 +9,21 @@ In order to meet the technical prerequisites for a degree program a student must
 * Online MSDS - [link](https://github.com/UVADS/orientation-technical/blob/main/msds-online/README.md)
 * PhD - [link](https://github.com/UVADS/orientation-technical/blob/main/phd/README.md)
 
+## Skill Badges on Offer
 
-## Badge Tech Tree
-![](https://github.com/UVADS/orientation-technical/blob/main/content/images/badge-tech-tree.jpeg)
+2. **case study** Watch out for the phrase "you should know ..." ... which leads into the ... badges you should know
+    * https://github.com/UVADS/orientation-technical/blob/main/badges/github.md
+    * https://github.com/UVADS/orientation-technical/blob/main/badges/python.md
+    * https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md
+    * https://github.com/UVADS/orientation-technical/blob/main/badges/RStudio.md
+    * https://github.com/UVADS/orientation-technical/blob/main/badges/jupyter.md
+
+![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/python-badge.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/vscode-badge.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/rstudio-token.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/jupyter-token.png)
 
 Todo:
 * add hardware badge
 * figure out where to put the text editor requirement (maybe everything that uses one has one for their own? like rstudio in R and vs code in pythong?)
+![](https://github.com/UVADS/orientation-technical/blob/main/content/images/badge-tech-tree.jpeg)
 
 
 ## Links to badge pages
