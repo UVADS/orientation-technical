@@ -2,23 +2,22 @@
 
 # Jupyter
 
-Python is a tool well suited to Data Science work. We will treat it as such. Python is not the goal of this badge. The goal is to accomplish tasks like solving mathematical problems, data visualization, and data analysis **using** python. In meeting these requirements you will build a proficiency in python, but that is not sufficient. You must continue to use the skill over time to build and maintain the habit.
+Jupyter is a tool well suited to Data Science work. We will treat it as such. Jupyter is not the goal of this badge. The goal is to accomplish tasks like solving mathematical problems, data visualization, and data analysis **using** jupyter. In meeting these requirements you will build a proficiency in python, but that is not sufficient. You must continue to use the skill over time to build and maintain the habit.
 
 Prerequisites: GitHub, VS Code
 
 ## Requirements
 
 1. **read** about:
-    1. python history, design philosophy and features, indentation, and packages
-    1. VS Code extensions
+    1. projeect jupyter history, design philosophy and features, indentation, and packages (including iPython and conda and notebooks and jupyterlab)
     2. Random Number Generators, Histograms, and Data Frames
     * **think** of times when these tools are appropriate and when they might not be appropriate, **share** those findings with a member of your cohort.
 
 
 2. **prepare** your development environment
-    1. **configure** a new conda environment with any version of python3 you like
-    3. **confirm** the right python extension is running in vs code
-    4. **create** a github repo for your work and **link** it to vs code
+    1. **install** JupyterLab
+    2. **confirm** the installtion is sucessful by opening a notebook and runing a Hello World program
+    4. **create** a github repo for your work and make a workflow for yourself that includes your github repository and jupyterlab environment 
     5. **install** these packages: matplotlib, numpy, pandas
 
 3. **solve** problems 1,2,3 from [Project Euler](https://projecteuler.net/). **store** your solution code in your github repo.
@@ -35,9 +34,3 @@ Prerequisites: GitHub, VS Code
 6. **load** the data from the class hardware survey into memory using pandas, manipulate that data into a binnable form, and **make** exploratory histographs of the features of the dataset. For the features you couldn't address with a histogram **provide** a qualitative description.  **Store** your data in your github repo.
 
 7. **Prepare for presentation** your findings from the class hardware data using a markdown file in your repo. **Share** your mini presentation with another member of your cohort.
-
-
-
-
-
-
