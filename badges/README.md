@@ -5,9 +5,9 @@ This readme shows all of the badges on offer in the UVADS technical orientation.
 * skills badges - these badges represent skills that students require to start the given program, e.g. the Residential MSDS Program badge would require the GitHub Skill badge
 
 In order to meet the technical prerequisites for a degree program a student must earn the relevant badge, which means completing the requiqurements on the badge page:
-* Residential MSDS - [link](msds-residential/README.md)
-* Online MSDS - [link](msds-online/README.md)
-* PhD - [link](phd/README.md)
+* Residential MSDS - [link](https://github.com/UVADS/orientation-technical/blob/main/msds-residential/README.md)
+* Online MSDS - [link](https://github.com/UVADS/orientation-technical/blob/main/msds-online/README.md)
+* PhD - [link](https://github.com/UVADS/orientation-technical/blob/main/phd/README.md)
 
 
 ## Badge Tech Tree
@@ -23,3 +23,4 @@ Todo:
 
 ## Ideas
 * ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/use-environment-meme.png)
+
