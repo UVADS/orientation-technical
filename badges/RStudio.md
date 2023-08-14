@@ -39,5 +39,5 @@ Prerequisites: GitHub
 
 
 
-##Footnotes
+## Footnotes
 * "tidy" is jargon, it refers to working with data using the tidyverse
