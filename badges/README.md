@@ -21,9 +21,3 @@ Here is the current list of skill badges on offer:
 
 We have not finalized the inter-badge dependencies but here is an initial sketch of the skill badge "tech tree"
 ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/badge-tech-tree.jpeg)
-
-
-
-## Ideas
-* ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/use-environment-meme.png)
-
