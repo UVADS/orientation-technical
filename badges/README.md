@@ -10,8 +10,7 @@ In order to meet the technical prerequisites for a degree program a student must
 * PhD - [link](https://github.com/UVADS/orientation-technical/blob/main/phd/README.md)
 
 ## Skill Badges on Offer
-
-2. **case study** Watch out for the phrase "you should know ..." ... which leads into the ... badges you should know
+Here is the current list of skill badges on offer:
     * https://github.com/UVADS/orientation-technical/blob/main/badges/github.md
     * https://github.com/UVADS/orientation-technical/blob/main/badges/python.md
     * https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md
@@ -20,14 +19,10 @@ In order to meet the technical prerequisites for a degree program a student must
 
 ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/python-badge.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/vscode-badge.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/rstudio-token.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/jupyter-token.png)
 
-Todo:
-* add hardware badge
-* figure out where to put the text editor requirement (maybe everything that uses one has one for their own? like rstudio in R and vs code in pythong?)
+We have not finalized the inter-badge dependencies but here is an initial sketch of the skill badge "tech tree"
 ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/badge-tech-tree.jpeg)
 
 
-## Links to badge pages
-* [R](https://github.com/UVADS/orientation-technical/blob/main/content/badges/R.md)
 
 ## Ideas
 * ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/use-environment-meme.png)
