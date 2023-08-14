@@ -18,6 +18,8 @@ This orientation begins with a 30 minute lesson outlined below. It focuses on th
     * https://github.com/UVADS/orientation-technical/blob/main/badges/RStudio.md
     * https://github.com/UVADS/orientation-technical/blob/main/badges/jupyter.md
 
+![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/python-badge.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/vscode-badge.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/rstudio-token.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/jupyter-token.png)
+
 ## Tomorrow ...
 
 **Homework:** As you progress through this program pay attention to our three ingredients. If things are working ask yourself "What can I do to keep those three ingredients healthy?". If things are not working as yourself, "Which ingredient needs my attention?".
