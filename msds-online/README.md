@@ -20,7 +20,9 @@ Hello there. Welcome to the technical orientation for the online MSDS program.
     * JupyterLab - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/jupyter.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/jupyter-token.png)
     * RStudio - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/RStudio.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/rstudio-token.png)
 
-
+| Badge | Link | Logo |
+|-------|------|------|
+|GitHub |[link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md)|![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)|
 
 ## Recommended Reference Resources
 Programming
