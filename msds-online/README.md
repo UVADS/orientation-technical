@@ -16,13 +16,11 @@ Hello there. Welcome to the technical orientation for the online MSDS program.
 2. **complete** computer hardware survey - [link](https://forms.gle/RL3JY8m4RRjWesRL8)
 
 3. **complete** these **3** badges
-    * GitHub - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)
-    * JupyterLab - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/jupyter.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/jupyter-token.png)
-    * RStudio - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/RStudio.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/rstudio-token.png)
-
 | Badge | Link | Logo |
 |-------|------|------|
 |GitHub |[link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md)|![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)|
+|JupyterLab|[link](https://github.com/UVADS/orientation-technical/blob/main/badges/jupyter.md)|![](https://github.com/UVADS/orientation-technical/blob/main/content/images/jupyter-token.png)|
+|RStudio|[link](https://github.com/UVADS/orientation-technical/blob/main/badges/RStudio.md)|![](https://github.com/UVADS/orientation-technical/blob/main/content/images/rstudio-token.png)|
 
 ## Recommended Reference Resources
 Programming
