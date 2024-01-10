@@ -34,7 +34,10 @@ Deep Cuts
 
 ## For when you want to kick back and watch some content
 * This playlist will help you to get to know Professor Alonzi and computer hardware better. It is a little dated, but still relevant. This falls sqarely in what we call systems. ([link](https://www.youtube.com/watch?v=X1ZfpZ3HSwI&list=TLGGK2JILVWuD64yNjA2MjAyMw&index=1))
-* This playlist provides perspectives on fundamental Data Science principles from what we call Design, Value, and Analytics. ([link](https://www.youtube.com/watch?v=Sm5xF-UYgdg&list=PLc0No4e8MMEPagWbHNrEIXx6nuWg7xFdq))
+* These videos give a flavour of the other aspects of data science:
+    * Design: [How we can find ourselves in data | Giorgia Lupi](https://youtu.be/sFIDCtRX_-o?si=mpxzo5iAFyffZBvZ)
+    * Value: [Why all world maps are wrong](https://youtu.be/kIID5FDi2JQ?si=UBsgDagRsTQRUthY)
+    * Analytics: [Bayes theorem, the geometry of changing beliefs](https://youtu.be/HZGCoVF3YvM?si=fPJqN6UEYERaNjRG)
 * The UVA Data Science YouTube Channel also has great videos! ([link](https://www.youtube.com/watch?v=m0t9SVI4We4))
 
 
