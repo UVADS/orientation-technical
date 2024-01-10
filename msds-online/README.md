@@ -30,7 +30,6 @@ Programming
 * Python for Data Analysis - ([UVA library](https://learning.oreilly.com/library/view/python-for-data/9781491957653/?ar) // [online](https://wesmckinney.com/pages/book.html))
 
 Deep Cuts
-* [A History of Data Science: 1960 to 2012](https://myuva-my.sharepoint.com/:b:/g/personal/lpa2a_virginia_edu/EZ7EIykczFNOr7vu9Y0JsJwBXxEdwV86y5B1HRbrfCZ0Aw?e=PA6wHL)
 * [Lectures on Computing](http://galileo.phys.virginia.edu/compfac/courses/)
 
 ## For when you want to kick back and watch some content
