@@ -75,3 +75,12 @@ Alternatively you can submit feedback by creating an issue on the repository.
 | STAT 6021 |Linear Models for Data Science   | Afriyie, Prince         | second 4 weeks
 
 * Monthly workshops led by Professor Alonzi on topics like Cloud Computing
+
+
+
+
+
+# ToDo
+
+* add R badge for prince
+* update dates and times
