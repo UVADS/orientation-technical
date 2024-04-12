@@ -85,3 +85,4 @@ Alternatively you can submit feedback by creating an issue on the repository.
 * add R badge for prince
 * update dates and times
 * make SQL part I badge (queries and ER diagrams)
+* group presentation where everyone makes a slide
