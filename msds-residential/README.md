@@ -1,5 +1,8 @@
 # Welcome to the Residential MSDS Technical Orientation
 
+# N.B. this site is being updated for the new cohort arriving in June
+
+
 **GOAL:** Your goal is to complete the technical orientation checklist before the start of classes.
 
 * N.B. The majority of work is done independently
