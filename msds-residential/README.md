@@ -16,7 +16,8 @@
 | Friday, June 14, 2024 | Data Science Building | 13:00-16:30 | orientation | homework |
 | Saturday, June 15, 2024 | n/a | 4 hours | homework | homework |
 | Sunday, June 16, 2024 | n/a | 4 hours | homework | homework |
-| Monday, June 17, 2024 | Data Science Building Room 305 | 09:00-11:15 | start of classes | homework |
+| Monday, June 17, 2024 | Data Science Building Room 305 | 09:00-11:15 | class | homework |
+| Tuesday, June 18, 2024 | Data Science Building Room 305 | 13:00-15:45 | class | homework |
 
 * "The great thing about weekends in gradschool is that you don't have to go to class before starting your homework"
 
