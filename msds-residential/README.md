@@ -10,13 +10,15 @@
 * N.B. Put in a good faith effort and then ask for help!
 
 ## Schedule
-| Date | Place | Time | Activity |
-|----------------------|----------|---------------|-|
-| Thursday, June 13, 2024 | Data Science Building | 13:00-17:00 | orientation |
-| Friday, June 14, 2024 | Data Science Building | 13:00-16:30 | orientation |
-| Saturday, June 15, 2024 | n/a | 4 hours | homework |
-| Sunday, June 16, 2024 | n/a | 4 hours | homework |
-| Monday, June 17, 2024 | Data Science Building Room 305 | 09:00-11:15 | start of classes |
+| Date | Place | Time | Activity | Evening |
+|----------------------|----------|---------------|-|-|
+| Thursday, June 13, 2024 | Data Science Building | 13:00-17:00 | orientation | homework | 
+| Friday, June 14, 2024 | Data Science Building | 13:00-16:30 | orientation | homework |
+| Saturday, June 15, 2024 | n/a | 4 hours | homework | homework |
+| Sunday, June 16, 2024 | n/a | 4 hours | homework | homework |
+| Monday, June 17, 2024 | Data Science Building Room 305 | 09:00-11:15 | start of classes | homework |
+
+* "The great thing about weekends in gradschool is that you don't have to go to class before starting your homework"
 
 ## The Checklist
 
