@@ -54,6 +54,8 @@ You may complete these items in any order
 
 8. **complete** the following 4 badges:
 
+   You may work on these badges in any order and simultaneously. If you would prefer to go sequentially starting from first principles the recommended order is: GitHub --> VSCode --> Python.
+
 | Badge | Link | Logo |
 |-------|------|------|
 | GitHub|[link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md)| ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)|
@@ -61,7 +63,6 @@ You may complete these items in any order
 |Python | [link](https://github.com/UVADS/orientation-technical/blob/main/badges/python.md) | ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/python-badge.png)|
 |R/Rstudio|  [link](https://github.com/UVADS/orientation-technical/blob/main/badges/RStudio.md) | ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/rstudio-token.png)|
 
-You may work on these badges in any order and simultaneously. If you would prefer to go sequentially starting from first principles the recommended order is: GitHub --> VSCode --> Python.
 
 6. Summer Professor's Special Requests. There are items your upcoming professors have asked you to pay particular attention to. (* indicates difficulty)
    * Professor Kropko
