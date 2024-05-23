@@ -38,6 +38,7 @@
     * Select one principle from this article and share it with a member of your cohort. Tell them why it resonated with you and what you will do to keep it in your mind.
 
 3. **Make** your main orientation deliverable
+
 Our main deliverable is a slideshow that serves as a facebook for our cohort. We will use the data from the computer survey.
     * explore the data - [link](https://myuva-my.sharepoint.com/:x:/g/personal/lpa2a_virginia_edu/EaYgPuweO6ZEp-_ZCOWog_UBKtd5dbV6BP46WCtzbxQTpw?e=NrqFd6)
     * make a histogram - using the tools you have learned over the orientation make a histogram representing the information contained in our dataset 
