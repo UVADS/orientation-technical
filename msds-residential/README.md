@@ -46,6 +46,19 @@
 
 You may work on these badges in any order and simultaneously. If you would prefer to go sequentially starting from first principles the recommended order is: GitHub --> VSCode --> Python.
 
+5. Summer Professor's Special Requests
+* Professor Kropko
+   * pip / pip install
+   * you must test, don't just assume it works (e.g. run import numpy afterwards to see if it is working)
+   * Notebooks
+* Professor Alvarado
+   * The git/github ecosystem and how it relates to files on the cloud and your laptop
+   * CLI
+   * Local v Remote
+   * PATH/working directory (aka Where's my file)
+   * Clear understanding of the python install
+   * Notebooks
+* Professor Afriyie - The R Badge
 
 ## Recommended Reference Resources
 Programming
