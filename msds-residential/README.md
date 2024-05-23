@@ -103,8 +103,6 @@ Alternatively you can submit feedback by creating an issue on the repository.
 # ToDo
 
 * add R badge for prince
-* update dates and times
-* make SQL part I badge (queries and ER diagrams)
 * group presentation where everyone makes a slide
 * make clear instructions/rubric for the slide in the presentation
 * fix link to badge images
