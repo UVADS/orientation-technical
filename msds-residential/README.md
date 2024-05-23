@@ -50,19 +50,19 @@
 
 You may work on these badges in any order and simultaneously. If you would prefer to go sequentially starting from first principles the recommended order is: GitHub --> VSCode --> Python.
 
-5. Summer Professor's Special Requests (* indicates difficulty)
-* Professor Kropko
-   * pip / pip install [***]
-   * you must test, don't just assume it works (e.g. run import numpy afterwards to see if it is working) [*]
-   * Notebooks [*]
-* Professor Alvarado
-   * The git/github ecosystem and how it relates to files on the cloud and your laptop [**]
-   * CLI [**]
-   * Local v Remote [**]
-   * PATH/working directory (aka Where's my file) [**]
-   * Clear understanding of the python install [***]
-   * Notebooks [*]
-* Professor Afriyie - The R Badge [*]
+5. Summer Professor's Special Requests. There are items your upcoming professors have asked you to pay particular attention to. (* indicates difficulty)
+   * Professor Kropko
+      * pip / pip install [***] (python badge)
+      * you must test, don't just assume it works (e.g. run import numpy afterwards to see if it is working) [*]
+      * Notebooks [*] (jupyter badge)
+   * Professor Alvarado
+      * The git/github ecosystem and how it relates to files on the cloud and your laptop [**] (github badge)
+      * CLI [**] (VSCode badge)
+      * Local v Remote [**] (github badge)
+      * PATH/working directory (aka Where's my file) [**] (VSCode badge)
+      * Clear understanding of the python install [***] (python badge)
+      * Notebooks [*] (jupyter badge)
+   * Professor Afriyie - The R Badge [*]
 
 ## Recommended Reference Resources
 Programming
@@ -108,3 +108,5 @@ Alternatively you can submit feedback by creating an issue on the repository.
 * group presentation where everyone makes a slide
 * make clear instructions/rubric for the slide in the presentation
 * fix link to badge images
+* pip v conda in python badge
+* put local v remote in github badge
