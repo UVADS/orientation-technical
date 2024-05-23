@@ -22,6 +22,7 @@
 * "The great thing about weekends in gradschool is that you don't have to go to class before starting your homework"
 
 ## The Checklist
+You may complete these items in any order
 
 0. **watch** Jurassic Park ([link to free access via uva library](https://digitalcampus-swankmp-net.proxy1.library.virginia.edu/uva296909/play/bafece83e07de665?referrer=marc))
 
