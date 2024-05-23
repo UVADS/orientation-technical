@@ -12,10 +12,11 @@
 ## Schedule
 | Date | Place | Time | Activity |
 |----------------------|----------|---------------|-|
-| Tuesday, June 13, 2023 | Alumni Hall | 13:00-15:00 | Session 1 |
-| Tuesdays, June 13, 2023 | Your home | evening | Homework |
-| Wednesday, June 14, 2023 | Chemistry Building, Room 217 | 10:00-12:00 | Session 2 |
-| Monday, June 17, 2023 | | | start of classes |
+| Thursday, June 13, 2024 | Data Science Building | 13:00-17:00 | Session 1 |
+| Friday, June 14, 2024 | Data Science Building | 13:00-16:30 | Homework |
+| Saturday, June 15, 2024 | n/a | 4 hours | homework |
+| Sunday, June 16, 2024 | n/a | 4 hours | homework |
+| Monday, June 17, 2024 | Room 305 | 09:00-11:15 | start of classes |
 
 ## The Checklist
 
