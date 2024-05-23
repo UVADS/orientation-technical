@@ -57,11 +57,9 @@ You may complete these items in any order
 | Badge | Link | Logo |
 |-------|------|------|
 | GitHub|[link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md)| ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)|
-
-    * GitHub - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)
-    * VSCode - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/vscode-badge.png)
-    * Python - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/python.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/python-badge.png)
-    * R/Rstudio - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/RStudio.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/rstudio-token.png)
+|VSCode|  [link](https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md) | ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/vscode-badge.png)|
+|Python | [link](https://github.com/UVADS/orientation-technical/blob/main/badges/python.md) | ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/python-badge.png)|
+|R/Rstudio|  [link](https://github.com/UVADS/orientation-technical/blob/main/badges/RStudio.md) | ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/rstudio-token.png)|
 
 You may work on these badges in any order and simultaneously. If you would prefer to go sequentially starting from first principles the recommended order is: GitHub --> VSCode --> Python.
 
