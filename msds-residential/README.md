@@ -42,7 +42,7 @@
 
 3. **call** someone you should call more often and tell them about what you are excited to learn this summer
 
-4. **complete** the following 3 badges:
+4. **complete** the following 4 badges:
 
     * GitHub - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)
     * VSCode - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/vscode-badge.png)
