@@ -54,6 +54,10 @@ You may complete these items in any order
 
 8. **complete** the following 4 badges:
 
+| Badge | Link | Logo |
+|-------|------|------|
+| GitHub|[link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md)| ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)|
+
     * GitHub - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)
     * VSCode - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/vscode-badge.png)
     * Python - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/python.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/python-badge.png)
