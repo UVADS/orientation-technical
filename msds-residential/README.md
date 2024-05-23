@@ -29,10 +29,7 @@
     * Discuss with a member of your cohort: strategies for identifying ethical challenges in the digital world.
 
 1. **complete** computer hardware survey - [link](https://forms.gle/z5abzLzQNCfxoTPY7)
-    1. explore the data - [link](https://myuva-my.sharepoint.com/:x:/g/personal/lpa2a_virginia_edu/EaYgPuweO6ZEp-_ZCOWog_UBKtd5dbV6BP46WCtzbxQTpw?e=NrqFd6)
-    2. make a histogram and store the 
-    3. add it to our class presentation - [link](https://myuva-my.sharepoint.com/:p:/g/personal/lpa2a_virginia_edu/EdRujYxJ1zdBhbB4UI9K7kgBy9Lwpyo6rBhPUnW6AN4hCA?e=bLChpY) 
-
+    
 2. **read** [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
 
     * Commit to ...
@@ -40,9 +37,15 @@
       * asking if someone wants to recieve feedback before giving feedback (Sometimes, people just need you to listen to them).
     * Select one principle from this article and share it with a member of your cohort. Tell them why it resonated with you and what you will do to keep it in your mind.
 
-3. **call** someone you should call more often and tell them about what you are excited to learn this summer
+3. **Make** your main orientation deliverable
 
-4. **complete** the following 4 badges:
+    1. explore the data - [link](https://myuva-my.sharepoint.com/:x:/g/personal/lpa2a_virginia_edu/EaYgPuweO6ZEp-_ZCOWog_UBKtd5dbV6BP46WCtzbxQTpw?e=NrqFd6)
+    2. make a histogram and store the 
+    3. add it to our class presentation - [link](https://myuva-my.sharepoint.com/:p:/g/personal/lpa2a_virginia_edu/EdRujYxJ1zdBhbB4UI9K7kgBy9Lwpyo6rBhPUnW6AN4hCA?e=bLChpY) 
+
+7. **call** someone you should call more often and tell them about what you are excited to learn this summer
+
+8. **complete** the following 4 badges:
 
     * GitHub - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png)
     * VSCode - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md) - ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/vscode-badge.png)
@@ -51,7 +54,7 @@
 
 You may work on these badges in any order and simultaneously. If you would prefer to go sequentially starting from first principles the recommended order is: GitHub --> VSCode --> Python.
 
-5. Summer Professor's Special Requests. There are items your upcoming professors have asked you to pay particular attention to. (* indicates difficulty)
+6. Summer Professor's Special Requests. There are items your upcoming professors have asked you to pay particular attention to. (* indicates difficulty)
    * Professor Kropko
       * pip / pip install [***] (python badge)
       * you must test, don't just assume it works (e.g. run import numpy afterwards to see if it is working) [*]
