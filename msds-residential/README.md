@@ -25,9 +25,9 @@
     * Discuss with a member of your cohort: strategies for identifying ethical challenges in the digital world.
 
 1. **complete** computer hardware survey - [link](https://forms.gle/z5abzLzQNCfxoTPY7)
-    1. explore the data (see content/dat folder in this repo)
+    1. explore the data - [link]()
     2. make a histogram
-    3. add it to our class presentation - [link](https://myuva-my.sharepoint.com/:p:/g/personal/lpa2a_virginia_edu/ETKMqDrwqFhLq0m6yaKXmzIBEJgBl5_WGmydSwSV28XUTA?e=R8z90H) 
+    3. add it to our class presentation - [link](https://myuva-my.sharepoint.com/:p:/g/personal/lpa2a_virginia_edu/EdRujYxJ1zdBhbB4UI9K7kgBy9Lwpyo6rBhPUnW6AN4hCA?e=bLChpY) 
 
 2. **read** [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
 
