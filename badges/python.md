@@ -20,6 +20,9 @@ Prerequisites: GitHub, VS Code
     3. **confirm** the right python extension is running in vs code
     4. **create** a github repo for your work and **link** it to vs code
     5. **install** these packages: matplotlib, numpy, pandas
+        * ALERT! This can be a tricky step. There are two main programs pip and conda (Professor Kropko prefers pip).
+        * ALERT ALERT! Often there are multiple versions of python on a machine. This can lead to mystifying behavior.
+        * Do not wait long if you are having trouble on this step. Ask a friend!  
 
 3. **solve** problems 1,2,3 from [Project Euler](https://projecteuler.net/). **store** your solution code in your github repo.
 
