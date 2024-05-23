@@ -59,7 +59,7 @@ You may work on these badges in any order and simultaneously. If you would prefe
    * Professor Alvarado
       * The git/github ecosystem and how it relates to files on the cloud and your laptop [**] (github badge)
       * CLI [**] (VSCode badge)
-      * Local v Remote [**] (github badge)
+      * Local v Remote [**] (VSCode badge)
       * PATH/working directory (aka Where's my file) [**] (VSCode badge)
       * Clear understanding of the python install [***] (python badge)
       * Notebooks [*] (jupyter badge)
