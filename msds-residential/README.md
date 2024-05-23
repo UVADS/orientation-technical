@@ -49,7 +49,7 @@ You may work on these badges in any order and simultaneously. If you would prefe
 
 ## Recommended Reference Resources
 Programming
-* R for Data Science - ([UVA Library](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) // [free online](https://r4ds.had.co.nz/))
+* R for Data Science - ([UVA Library](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) // [free online](https://r4ds.hadley.nz/))
 * Python for Data Analysis - ([UVA library](https://learning.oreilly.com/library/view/python-for-data/9781491957653/?ar) // [online](https://wesmckinney.com/pages/book.html))
 
 Deep Cuts
