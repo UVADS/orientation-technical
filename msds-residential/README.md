@@ -61,6 +61,9 @@ You may complete these items in any order
 
 
 6. Summer Professor's Special Requests. There are items your upcoming professors have asked you to pay particular attention to. (* indicates difficulty)
+
+   Think of this section as a test. When you read this list ask yourself if you are prepared to teach each item to someone.
+
    * Professor Kropko
       * pip / pip install [***] (python badge)
       * you must test, don't just assume it works (e.g. run import numpy afterwards to see if it is working) [*]
