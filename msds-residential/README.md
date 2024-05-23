@@ -16,7 +16,7 @@
 | Friday, June 14, 2024 | Data Science Building | 13:00-16:30 | Homework |
 | Saturday, June 15, 2024 | n/a | 4 hours | homework |
 | Sunday, June 16, 2024 | n/a | 4 hours | homework |
-| Monday, June 17, 2024 | Room 305 | 09:00-11:15 | start of classes |
+| Monday, June 17, 2024 | Data Science Building Room 305 | 09:00-11:15 | start of classes |
 
 ## The Checklist
 
