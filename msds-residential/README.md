@@ -4,7 +4,6 @@
 
 * N.B. The majority of work is done independently
 * N.B. Classes start June 17 (you have the weekend).
-* N.B. Put in a good faith effort and then ask for help!
 
 ## Schedule
 | Date | Place | Time | Activity | Evening |
