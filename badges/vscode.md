@@ -29,6 +29,9 @@ In this badge we will get VS Code up and running and you will work through the f
 
 4. **connect** VS Code to GitHub.
    * **Work** on your cloned repo, commit a change, and push that change back up to GitHub.
+      * hint: use `git clone`
+      * This step is tricky. You will edit files "locally" on your machine. But you won't see the changes reflected on GitHub "remote" until you do `git push`
+   
    * In this process you **may have to configure** your profile with a terminal command like 
     
         `$ git config --global user.name "John Doe"`
