@@ -6,7 +6,7 @@
 **GOAL:** Your goal is to complete the technical orientation checklist before the start of classes.
 
 * N.B. The majority of work is done independently
-* N.B. Classes start June 20 (you have the weekend).
+* N.B. Classes start June 17 (you have the weekend).
 * N.B. Put in a good faith effort and then ask for help!
 
 ## Schedule
