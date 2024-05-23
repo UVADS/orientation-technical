@@ -104,4 +104,3 @@ Alternatively you can submit feedback by creating an issue on the repository.
 # ToDo
 
 * make clear instructions/rubric for the slide in the presentation
-* put local v remote in github badge
