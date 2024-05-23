@@ -38,10 +38,14 @@
     * Select one principle from this article and share it with a member of your cohort. Tell them why it resonated with you and what you will do to keep it in your mind.
 
 3. **Make** your main orientation deliverable
-
-    1. explore the data - [link](https://myuva-my.sharepoint.com/:x:/g/personal/lpa2a_virginia_edu/EaYgPuweO6ZEp-_ZCOWog_UBKtd5dbV6BP46WCtzbxQTpw?e=NrqFd6)
-    2. make a histogram and store the 
-    3. add it to our class presentation - [link](https://myuva-my.sharepoint.com/:p:/g/personal/lpa2a_virginia_edu/EdRujYxJ1zdBhbB4UI9K7kgBy9Lwpyo6rBhPUnW6AN4hCA?e=bLChpY) 
+Our main deliverable is a slideshow that serves as a facebook for our cohort. We will use the data from the computer survey.
+    * explore the data - [link](https://myuva-my.sharepoint.com/:x:/g/personal/lpa2a_virginia_edu/EaYgPuweO6ZEp-_ZCOWog_UBKtd5dbV6BP46WCtzbxQTpw?e=NrqFd6)
+    * make a histogram - using the tools you have learned over the orientation make a histogram representing the information contained in our dataset 
+    * create your slide in the presentation - [link](https://myuva-my.sharepoint.com/:p:/g/personal/lpa2a_virginia_edu/EdRujYxJ1zdBhbB4UI9K7kgBy9Lwpyo6rBhPUnW6AN4hCA?e=bLChpY)
+       * Your Name
+       * A picture of you
+       * Your histogram
+       * Link to the github repo with the code for making your histogram
 
 7. **call** someone you should call more often and tell them about what you are excited to learn this summer
 
