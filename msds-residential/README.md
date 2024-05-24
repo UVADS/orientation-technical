@@ -8,8 +8,8 @@
 ## Schedule
 | Date | Place | Time | Activity | Evening |
 |----------------------|----------|---------------|-|-|
-| Thursday, June 13, 2024 | Data Science Building 305 | 13:00-17:00 | orientation | homework | 
-| Friday, June 14, 2024 | Data Science Building 305 | 13:00-16:30 | orientation | homework |
+| Thursday, June 13, 2024 | Data Science Building Room 305 | 13:00-17:00 | orientation | homework | 
+| Friday, June 14, 2024 | Data Science Building Room 305 | 13:00-16:30 | orientation | homework |
 | Saturday, June 15, 2024 | n/a | 4 hours | homework | homework |
 | Sunday, June 16, 2024 | n/a | 4 hours | homework | homework |
 | Monday, June 17, 2024 | Data Science Building Room 305 | 09:00-11:15 | class | homework |
