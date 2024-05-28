@@ -42,7 +42,7 @@ You may complete these items in any order
     * make a histogram - using the tools you have learned over the orientation make a histogram representing the information contained in our dataset 
     * create your slide in the presentation - [link](https://myuva-my.sharepoint.com/:p:/g/personal/lpa2a_virginia_edu/EdRujYxJ1zdBhbB4UI9K7kgBy9Lwpyo6rBhPUnW6AN4hCA?e=bLChpY)
        * Your Name
-       * A picture of you
+       * A picture of you showing some part of your life/personality that isn't related to data science
        * Your histogram
        * Link to the github repo with the code for making your histogram
 
