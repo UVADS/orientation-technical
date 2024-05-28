@@ -107,4 +107,4 @@ Alternatively you can submit feedback by creating an issue on the repository.
 | DS 6001   |Practice and App of Data Science | Jonathan Kropko | full 8 weeks
 | STAT 6021 |Linear Models for Data Science   | Prince  Afriyie | second 4 weeks
 
-* Monthly workshops led by Professor Alonzi on topics like Cloud Computing
+Professor Alonzi will also be hosting monthly workshops on topics like Cloud Computing.
