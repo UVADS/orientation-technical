@@ -103,8 +103,8 @@ Alternatively you can submit feedback by creating an issue on the repository.
 # What's Next
 | Class | Name  | Professor |
 |-------|-------|-----------|
-| DS 5100   |Programming for Data Science     | Alvarado,Rafael Candido | first 4 weeks
-| DS 6001   |Practice and App of Data Science | Kropko,Jonathan Michael | full 8 weeks
-| STAT 6021 |Linear Models for Data Science   | Afriyie, Prince         | second 4 weeks
+| DS 5100   |Programming for Data Science     | Rafael Alvarado | first 4 weeks
+| DS 6001   |Practice and App of Data Science | Jonathan Kropko | full 8 weeks
+| STAT 6021 |Linear Models for Data Science   | Prince  Afriyie | second 4 weeks
 
 * Monthly workshops led by Professor Alonzi on topics like Cloud Computing
