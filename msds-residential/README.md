@@ -85,11 +85,13 @@ You may complete these items in any order
 |  | Mini-Lecture | VS Code |
 |  | Mini-Lecture | The checklist | 
 |  | Wrap Up | HW Goal | 
+|----------------------|----------|---------------|
 | Day 2 | Warm Up | What If? | 
 |  | Topic 1 | Python | 
 |  | Topic 2 | R |
 |  | Topic 3 | Class Deliverable Work | 
 |  | Finale  | Present Class Deliverable | 
+|----------------------|----------|---------------|
 
 
 | Day 2 | Data Science Building Room 305 | 09:00-11:15, 13:00-15:45 | class | homework |
