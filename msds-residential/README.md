@@ -78,6 +78,8 @@ You may complete these items in any order
    * Professor Afriyie - The R Badge [*]
 
 ## Schedule 
+This orientation takes place over two days. The main modality is the mini-lecture followed by working period. During the working period the instructors move about the room and coach students individually or in small groups.
+
 | Day | Activity | Topic |
 |----------------------|----------|---------------|
 | Day 1 | Kick off | The Inner Game of Data Science | 
