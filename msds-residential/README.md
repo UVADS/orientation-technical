@@ -87,9 +87,9 @@ You may complete these items in any order
 |  | Wrap Up | HW Goal | 
 |----------------------|----------|---------------|
 | Day 2 | Warm Up | What If? | 
-|  | Topic 1 | Python | 
-|  | Topic 2 | R |
-|  | Topic 3 | Class Deliverable Work | 
+|  | Mini-Lecture | Python | 
+|  | Mini-Lecture | R |
+|  | Mini-Lecture | Class Deliverable Work | 
 |  | Finale  | Present Class Deliverable | 
 |----------------------|----------|---------------|
 
