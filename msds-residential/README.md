@@ -77,6 +77,23 @@ You may complete these items in any order
       * Notebooks [*] (jupyter badge)
    * Professor Afriyie - The R Badge [*]
 
+## Schedule 
+| Day | Activity | Topic |
+|----------------------|----------|---------------|
+| Day 1 | Kick off | The Inner Game of Data Science | 
+|  | Mini-Lecture | GitHub | 
+|  | Mini-Lecture | VS Code |
+|  | Mini-Lecture | The checklist | 
+|  | Wrap Up | HW Goal | 
+| Day 2 | Warm Up | What If? | 
+|  | Topic 1 | Python | 
+|  | Topic 2 | R |
+|  | Topic 3 | Class Deliverable Work | 
+|  | Finale  | Present Class Deliverable | 
+
+
+| Day 2 | Data Science Building Room 305 | 09:00-11:15, 13:00-15:45 | class | homework |
+
 ## Recommended Reference Resources
 Programming
 * R for Data Science - ([UVA Library](https://learning.oreilly.com/library/view/r-for-data/9781491910382/?ar) // [free online](https://r4ds.hadley.nz/))
