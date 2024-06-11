@@ -90,7 +90,7 @@ This orientation takes place over two days. The main modality is the mini-lectur
 |----------------------|----------|---------------|
 | Day 2 | Warm Up | What If? | 
 |  | Mini-Lecture | Python | 
-|  | Mini-Lecture | R |
+|  | Mini-Lecture | R/RStudio |
 |  | Mini-Lecture | Class Deliverable Work | 
 |  | Finale  | Present Class Deliverable | 
 |----------------------|----------|---------------|
