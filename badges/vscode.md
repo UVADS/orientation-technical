@@ -53,7 +53,7 @@ In this badge we will get VS Code up and running and you will work through the f
      
      You will then get one of two responses
      * `bash: conda: command not found` --> not yet done
-     * `conda 22.11.1` --> done: 
+     * `conda 22.11.1` --> done (n.b. your conda version may vary) 
 
     * *hint/help*: Along the way you will deepend your understanding of environment variables and in particular the PATH variable.
 
