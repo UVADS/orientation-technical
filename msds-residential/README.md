@@ -93,7 +93,6 @@ This orientation takes place over two days. The main modality is the mini-lectur
 |  | Mini-Lecture | R/RStudio |
 |  | Mini-Lecture | Make Class Facebook | 
 |  | Finale  | Present Facebook | 
-|----------------------|----------|---------------|
 
 
 
