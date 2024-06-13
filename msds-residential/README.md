@@ -6,14 +6,14 @@
 * N.B. Classes start June 17 (you have the weekend).
 
 ## Schedule
-| Date | Place | Time | Activity | Evening |
-|----------------------|----------|---------------|-|-|
-| Thursday, June 13, 2024 | Data Science Building Room 305 | 13:00-17:00 | orientation | homework | 
-| Friday, June 14, 2024 | Data Science Building Room 305 | 13:00-16:30 | orientation | homework |
-| Saturday, June 15, 2024 | n/a | 4 hours | homework | homework |
-| Sunday, June 16, 2024 | n/a | 4 hours | homework | homework |
-| Monday, June 17, 2024 | Data Science Building Room 305 | 09:00-11:15 | class | homework |
-| Tuesday, June 18, 2024 | Data Science Building Room 305 | 09:00-11:15, 13:00-15:45 | class | homework |
+| Date | Place | Time | Activity | Evening | Materials |
+|----------------------|----------|---------------|-|-|-|
+| Thursday, June 13, 2024 | Data Science Building Room 305 | 13:00-17:00 | orientation | homework | slides |
+| Friday, June 14, 2024 | Data Science Building Room 205 | 13:00-16:30 | orientation | homework | slides| 
+| Saturday, June 15, 2024 | n/a | 4 hours | homework | homework ||
+| Sunday, June 16, 2024 | n/a | 4 hours | homework | homework ||
+| Monday, June 17, 2024 | Data Science Building Room 305 | 09:00-11:15 | class | homework | |
+| Tuesday, June 18, 2024 | Data Science Building Room 305 & 205 | 09:00-11:15, 13:00-15:45 | class | homework | |
 
 * "The great thing about weekends in gradschool is that you don't have to go to class before starting your homework"
 
