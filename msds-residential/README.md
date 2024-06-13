@@ -96,7 +96,6 @@ This orientation takes place over two days. The main modality is the mini-lectur
 |----------------------|----------|---------------|
 
 
-| Day 2 | Data Science Building Room 305 | 09:00-11:15, 13:00-15:45 | class | homework |
 
 ## Recommended Reference Resources
 Programming
