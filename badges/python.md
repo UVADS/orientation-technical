@@ -35,7 +35,7 @@ Prerequisites: GitHub, VS Code
 
 5. **Visually Demonstrate** (use histograms) to show that the Binomial and Normal distributions converge in the large *N* limit. **Store** the resulting histograms in your github repo. **Make** a mini-presentation **using a markdown file** in your github repo explaining the proof.
 
-6. **load** the data from the class hardware survey into memory using pandas, manipulate that data into a binnable form, and **make** exploratory histographs of the features of the dataset. For the features you couldn't address with a histogram **provide** a qualitative description.  **Store** your data in your github repo.
+6. **load** the data from the class hardware survey into memory using pandas, manipulate that data into a binnable form, and **make** exploratory histograms of the features of the dataset. For the features you couldn't address with a histogram **provide** a qualitative description.  **Store** your data in your github repo.
 
 7. **Prepare for presentation** your findings from the class hardware data using a markdown file in your repo. **Share** your mini presentation with another member of your cohort.
 
