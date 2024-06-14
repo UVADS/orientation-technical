@@ -38,7 +38,7 @@ You may complete these items in any order
 
    Our main deliverable is a slideshow that serves as a facebook for our cohort. We will use the data from the computer survey.
    
-    * explore the data - [link](https://myuva-my.sharepoint.com/:x:/g/personal/lpa2a_virginia_edu/EaYgPuweO6ZEp-_ZCOWog_UBKtd5dbV6BP46WCtzbxQTpw?e=NrqFd6)
+    * explore the data - [link](https://myuva-my.sharepoint.com/:x:/g/personal/lpa2a_virginia_edu/EaYgPuweO6ZEp-_ZCOWog_UBKtd5dbV6BP46WCtzbxQTpw?e=Vhcq1g)
     * make a histogram - using the tools you have learned over the orientation make a histogram representing the information contained in our dataset 
     * create your slide in the presentation - [link](https://myuva-my.sharepoint.com/:p:/g/personal/lpa2a_virginia_edu/EdRujYxJ1zdBhbB4UI9K7kgBy9Lwpyo6rBhPUnW6AN4hCA?e=bLChpY)
        * Your Name
