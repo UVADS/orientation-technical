@@ -9,7 +9,7 @@
 | Date | Place | Time | Activity | Evening | Materials |
 |----------------------|----------|---------------|-|-|-|
 | Thursday, June 13, 2024 | Data Science, Room 305 | 13:00-17:00 | orientation | homework | [slides](https://myuva-my.sharepoint.com/:p:/g/personal/lpa2a_virginia_edu/ETpPw3RRp89Fh78x3KR-k3QBEaUfmFPngawy7HuZRhTmMw?e=ZWyspi) |
-| Friday, June 14, 2024 | Data Science, Room 205 | 13:00-17:00 | orientation | homework | slides| 
+| Friday, June 14, 2024 | Data Science, Room 205 | 13:00-17:00 | orientation | homework | [slides](https://myuva-my.sharepoint.com/:p:/g/personal/lpa2a_virginia_edu/ETpPw3RRp89Fh78x3KR-k3QBEaUfmFPngawy7HuZRhTmMw?e=ZWyspi)| 
 | Saturday, June 15, 2024 | n/a | 4 hours | homework | homework ||
 | Sunday, June 16, 2024 | n/a | 4 hours | homework | homework ||
 | Monday, June 17, 2024 | Data Science, Room 305 | 09:00-11:15 | class | homework | |
