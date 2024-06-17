@@ -127,3 +127,7 @@ Alternatively you can submit feedback by creating an issue on the repository.
 | STAT 6021 |Linear Models for Data Science   | Prince  Afriyie | second 4 weeks
 
 Professor Alonzi will also be hosting monthly workshops on topics like Cloud Computing.
+
+
+#ToDo
+* add section about documentation and why not ChatGPT (also push to online an phd
