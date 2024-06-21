@@ -111,7 +111,7 @@ Deep Cuts
     * Design: [How we can find ourselves in data | Giorgia Lupi](https://youtu.be/sFIDCtRX_-o?si=mpxzo5iAFyffZBvZ)
     * Value: [Why all world maps are wrong](https://youtu.be/kIID5FDi2JQ?si=UBsgDagRsTQRUthY)
     * Analytics: [Bayes theorem, the geometry of changing beliefs](https://youtu.be/HZGCoVF3YvM?si=fPJqN6UEYERaNjRG)
-    * Value: [How not to be ignorant about the world | Hans and Ola Rosling](https://www.youtube.com/watch_videos?video_ids=Sm5xF-UYgdg,UG_X_7g63rY,IYRhCZ0vvFQ,PFDu9oVAE-g,18MZmVDv7uo,jG7vhMMXagQ,sFIDCtRX_-o,HZGCoVF3YvM)
+    * Practice: [How not to be ignorant about the world | Hans and Ola Rosling](https://www.youtube.com/watch_videos?video_ids=Sm5xF-UYgdg,UG_X_7g63rY,IYRhCZ0vvFQ,PFDu9oVAE-g,18MZmVDv7uo,jG7vhMMXagQ,sFIDCtRX_-o,HZGCoVF3YvM)
 * The UVA Data Science YouTube Channel also has great videos! ([link](https://www.youtube.com/watch?v=m0t9SVI4We4))
 
 
