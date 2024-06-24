@@ -50,5 +50,5 @@ I love getting feedback. Here is the preferred way to submit it.
 # What's Next
 | Class | Name  | Professor |
 |-------|-------|-----------|
-|  DS 5100   |Programming for Data Science | Alvarado,Rafael Candido   |
-|   STAT 6021   | Linear Models for Data Science | Woo,Yong Ming Jeffrey |
+|  DS 5100   |Programming for Data Science | Rafael Alvarado  |
+|   STAT 6021   | Linear Models for Data Science | Jeffrey Woo |
