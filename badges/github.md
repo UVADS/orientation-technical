@@ -18,7 +18,7 @@ GitHub is a social media company. Do not be fooled. It is the leading social med
 
 2. **decide** for yourself if GitHub is version control software or social media. Discuss your answer with another member of your cohort. (Find several sources about the uses of GitHub and understand those use cases.)
 
-3. **goto** a github repository and click on everything. everything!
+3. **go to** a github repository and click on everything. everything!
 
 3. **create** a github account. Remember that this account will present you to the professional world. Seek out and read three sources about how you can use your GitHub profile in a job interview setting. 
  
