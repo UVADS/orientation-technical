@@ -135,3 +135,4 @@ Professor Alonzi will also be hosting monthly workshops on topics like Cloud Com
 
 #ToDo
 * add section about documentation and why not ChatGPT (also push to online an phd
+* add bash (see email Royal Collins, Sadie (smr2h) on Note for next MSDS Res Bootcamp on 7/10)
