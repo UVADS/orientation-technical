@@ -33,7 +33,7 @@ Deep Cuts
 * [Lectures on Computing](http://galileo.phys.virginia.edu/compfac/courses/)
 
 ## For when you want to kick back and watch some content
-* This playlist will help you to get to know Professor Alonzi and computer hardware better. It is a little dated, but still relevant. This falls sqarely in what we call systems. ([link](https://www.youtube.com/watch?v=X1ZfpZ3HSwI&list=TLGGK2JILVWuD64yNjA2MjAyMw&index=1))
+* This playlist will help you to get to know Professor Alonzi and computer hardware better. It is a little dated, but still relevant. This falls sqarely in what we call systems. ([link](https://www.youtube.com/watch_videos?video_ids=X1ZfpZ3HSwI,WU4t3PHhfks,BRu1qMgSy0g,1Iop9dgnY-M,KK4OKZzkLBA,Ry1QMUyq9lA,Dg8_gTOdnlY,sNb0t9AVd5s,n0TUIQbOi7A,k9hm8S4iCdQ))
 * These videos give a flavour of the other aspects of data science:
     * Design: [How we can find ourselves in data | Giorgia Lupi](https://youtu.be/sFIDCtRX_-o?si=mpxzo5iAFyffZBvZ)
     * Value: [Why all world maps are wrong](https://youtu.be/kIID5FDi2JQ?si=UBsgDagRsTQRUthY)
