@@ -56,12 +56,14 @@ Integration
 
 ## Definitions
 * Table
+    * Row - tuple or record
+    * Column - attribute or field
 * Schema
 * Query
 * View
 * Procedure
 * Primary Key
-* Foreign key
+* Foreign key - primary key from another table
 
 ## spreadsheet vs database
 
@@ -82,7 +84,18 @@ Integration
 # Part II
 **Objective: Create an individual plan for you to practice your HPC skills**
 
-This part is just an exercise. Individually you will explore your github account for a project that you can scale up with HPC. Then you will make a plan for scaling it up. At the end you will leave with a new github repository and a set to tasks to accomplish to put your new HPC knowledge into practice. By working this plan over time you will build proficiency with HPC.
+Step A - bake the cake from scratch
+1. Choose a topic you know well
+2. Create an ER-diagram for that topic (make the Entity-relationship model)
+3. Create the Schema
+4. Choose platform
+5. Create the data base
+6. Populate and use the data base
+
+Step B - hop on a moving train
+1. Find a database in production
+2. Find out a tack that needs doin
+3. Get it done
 
 # Wrap up
 1. Please think of one thing you liked and one thing you would change about this workshop. And a few sentences about why.
