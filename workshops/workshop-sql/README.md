@@ -95,9 +95,9 @@ This part is just an exercise. Individually you will explore your github account
 ![](../workshop-gnu-linux/swanson-please.png)
 
 # Resources
-* Fun Lecture - ![Introduction to NoSQL • Martin Fowler • GOTO 2012](https://youtu.be/qI_g07C_Q5I?si=pEkFdkTYquHfcv85)
-* Good Book - ![Learning SQL by Alan Beaulieu from O'Reilly](https://search.lib.virginia.edu/sources/uva_library/items/u11457927)
-* SQL Practice Platform - ![Cloud Beaver](Tool: https://demo.cloudbeaver.io)
+* Fun Lecture - [Introduction to NoSQL • Martin Fowler • GOTO 2012](https://youtu.be/qI_g07C_Q5I?si=pEkFdkTYquHfcv85)
+* Good Book - [Learning SQL by Alan Beaulieu from O'Reilly](https://search.lib.virginia.edu/sources/uva_library/items/u11457927)
+* SQL Practice Platform - [Cloud Beaver](https://demo.cloudbeaver.io)
 
 # Footnotes
 [1] 
