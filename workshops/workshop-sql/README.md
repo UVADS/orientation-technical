@@ -20,13 +20,17 @@
 ## Preamble
 ![](sql-meme.png)
 
-**You have to build solutions for all computers. Not just your personal machine.**
+**You have to have some moves. But you really need to be able to talk to the nerd in the corder.**
 
 # Part I - The Data Scientist Minimum
-## What is HPC
-HPC = **H**igh-**p**erformance **C**omputing
+## What is SQL
+SQL = **S**tructured-**Q**uery-**L**anguage
 
-## OK but what ... **is** ... HPC
+pronounced S-Q-L; less commonly "sequel"; now, sometimes "squirrle" [citation needed]
+
+## OK but what ... **is** ... SQL
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ resume here
 
 **Exercise**: Read some technobabble and break it down together:
 
