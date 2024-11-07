@@ -51,7 +51,7 @@ select first_name, last_name from customer LIMIT 10;
 
 # ~!~!~!~!~!! resume here !!~!~!~!~!~!~
 
-## Why HPC?
+## Why SQL? (from a problem solving standpoint)
 1. Set it and forget it (jobs run in batch mode) --> I don't need to leave my laptop open
 2. Run many jobs at the same time --> I don't need to buy a thousan laptops
 3. The need for speed --> I don't need to buy an expensive fancy laptop
