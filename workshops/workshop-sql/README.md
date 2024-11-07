@@ -103,8 +103,3 @@ Step B - hop on a moving train
 * Fun Lecture - [Introduction to NoSQL • Martin Fowler • GOTO 2012](https://youtu.be/qI_g07C_Q5I?si=pEkFdkTYquHfcv85)
 * Good Book - [Learning SQL by Alan Beaulieu from O'Reilly](https://search.lib.virginia.edu/sources/uva_library/items/u11457927)
 * SQL Practice Platform - [Cloud Beaver](https://demo.cloudbeaver.io)
-
-# Footnotes
-[1] 
-
-[2] 
