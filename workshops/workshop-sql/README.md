@@ -94,13 +94,12 @@ This part is just an exercise. Individually you will explore your github account
 2. Then make a pull request and add them to this repo in the folder workshop-gnu-linux/feedback.
 ![](../workshop-gnu-linux/swanson-please.png)
 
+# Resources
+* Fun Lecture - ![Introduction to NoSQL • Martin Fowler • GOTO 2012](https://youtu.be/qI_g07C_Q5I?si=pEkFdkTYquHfcv85)
+* Good Book - ![Learning SQL by Alan Beaulieu from O'Reilly](https://search.lib.virginia.edu/sources/uva_library/items/u11457927)
+* SQL Practice Platform - ![Cloud Beaver](Tool: https://demo.cloudbeaver.io)
 
 # Footnotes
-[1] https://www.top500.org/news/ornls-frontier-first-to-break-the-exaflop-ceiling/
-[2] https://www.kotzendes-einhorn.de/blog/wp-content/uploads/2016/02/121Gigawatts.gif
-[3] https://www.rc.virginia.edu/userinfo/rivanna/overview/
-[4] https://media.giphy.com/media/26AHLNr8en8J3ovOo/giphy.gif
-[5] cas7kvf
-[6] https://cdn.sanity.io/images/z2aip6ei/production/2d6e54d6b6ba1cd2867e9f1c9b5d75f788d04284-2560x1060.jpg
+[1] 
 
-
+[2] 
