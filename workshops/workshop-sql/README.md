@@ -1,11 +1,11 @@
-# HPC Workshop
+# SQL Workshop
 **Executive Summary** This document contains the materials for the UVADS workshop on SQL by Professor Alonzi. 
 
 ## Outline
 2. Introduction
 3. Preamble
-4. The Data Scientist Minimum for HPC
-5. Your first HPC project
+4. The Data Scientist Minimum for SQL
+5. Your first SQL project
 
 
 ## Introduction
