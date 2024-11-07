@@ -26,11 +26,11 @@
 ## What is SQL
 SQL = **S**tructured-**Q**uery-**L**anguage
 
-pronounced S-Q-L; less commonly "sequel"; now, sometimes "squirrle" [citation needed]
+pronounced S-Q-L; less commonly "sequel"; now, sometimes "squirrel" [citation needed]
 
 ## OK but what ... **is** ... SQL
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ resume here
+# ~!~!~!~!~!! resume here !!~!~!~!~!~!~
 
 **Exercise**: Read some technobabble and break it down together:
 
