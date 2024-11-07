@@ -58,9 +58,8 @@ Integration
     * Row - tuple or record
     * Column - attribute or field
 * Schema
-* Query
-* View
-* Procedure
+* Query --> View
+* Procedure aka `CALL procedure(...)`
 * Primary Key
 * Foreign key - primary key from another table
 
