@@ -52,27 +52,32 @@ select first_name, last_name from customer LIMIT 10;
 # ~!~!~!~!~!! resume here !!~!~!~!~!~!~
 
 ## Why SQL? (from a problem solving standpoint)
-1. Set it and forget it (jobs run in batch mode) --> I don't need to leave my laptop open
-2. Run many jobs at the same time --> I don't need to buy a thousan laptops
-3. The need for speed --> I don't need to buy an expensive fancy laptop
+Integration
 
-![](https://media.giphy.com/media/26AHLNr8en8J3ovOo/giphy.gif)[4]
-![](2022-09-30-cas7kvf.png)[5]
+## Definitions
+* Table
+* Schema
+* Query
+* View
+* Procedure
+* Primary Key
+* Foreign key
 
-## Exercise
-![](deer.jpg)[6]
-1. Logon to rivanna
-2. Submit a batch job of "hello world", have the computer say its name
-3. Submit 100 batch jobs of "hello world", have the computers say their name
+## spreadsheet vs database
 
-**Hint: Documentation [here](https://www.rc.virginia.edu/userinfo/rivanna/slurm/) and [here](https://slurm.schedmd.com/documentation.html)**
+## Impedance Mismatch
 
-**Hint: use `allocations` to find an allocation**
+## CRUD and other commands
 
-## Exercise
-1. Logon to rivanna
-2. Upload some code you have already written
-3. Submit a batch job to run the code
+| | | |
+|-|-|-|
+|C|reate|`insert`|
+|R|ead|`select`|
+|U|pdate|`update`|
+|D|elete|`drop`|
+
+* `use`, `show`, `describe`, `limit`, `where`
+
 
 # Part II
 **Objective: Create an individual plan for you to practice your HPC skills**
