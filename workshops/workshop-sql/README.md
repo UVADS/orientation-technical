@@ -51,7 +51,9 @@ select first_name, last_name from customer LIMIT 10;
 
 
 ## Why SQL? (from a problem solving standpoint)
-Integration
+
+1. Spreadsheet vs Database
+2. Integration
 
 ## Definitions
 * Schema
@@ -62,10 +64,6 @@ Integration
 * Foreign key - primary key from another table
 * Query --> View
 * Procedure aka `CALL procedure(...)`
-
-## spreadsheet vs database
-
-## Impedance Mismatch
 
 ## CRUD and other commands
 
@@ -78,6 +76,7 @@ Integration
 
 * `use`, `show`, `describe`, `limit`, `where`
 
+## Impedance Mismatch
 
 # Part II
 **Objective: Create an individual plan for you to practice your HPC skills**
