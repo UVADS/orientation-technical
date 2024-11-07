@@ -1,27 +1,24 @@
 # HPC Workshop
-**Executive Summary** This document contains the materials for the UVA residential MSDS workshop on HPC. It is a companion to the initial orientation given prior to the start of classes in June. This workshop is part of a series designed to help students with the world larger than their ocwn laptop. This workshop focuses on traditional High Performance Computing. It is offered on November 1, 2022 and again in the spring semester 2023.
+**Executive Summary** This document contains the materials for the UVADS workshop on SQL by Professor Alonzi. 
 
 ## Outline
-1. Warm up
 2. Introduction
 3. Preamble
 4. The Data Scientist Minimum for HPC
 5. Your first HPC project
 
-## Warm up
-Write a python program to generate 100 numbers from the standard normal distribution.
 
 ## Introduction
 1. `whois` lpa2a
 2. Goals for today
-    * Define and Motivate HPC
+    * Define and Motivate SQL
     * Prt I: Present the Data Scientist Minimum
-    * Part II: Make individual plans for building HPC proficiency
+    * Part II: Make individual plans for building SQL proficiency
     * _Secret goal: But really, I just want you to ask questions_
 
 
 ## Preamble
-![](hpc-preamble.png)
+![](sql-meme.png)
 
 **You have to build solutions for all computers. Not just your personal machine.**
 
