@@ -35,8 +35,8 @@ The language you use to get data out of a relationtional database (RDB)
 ## OK but what ... **is** ... RDB?
 
 Let's just take a look.
-1. Whiteboard
-2. On your computers
+1. Whiteboard - the relational model
+2. On your computers - explore an example
 
 ```
 use sakila;
@@ -46,6 +46,8 @@ select * from customer LIMIT 10;
 select first_name, last_name from customer LIMIT 10;
 ```
 
+3. Whiteboard - The RDB diagram
+4. On your computers - explore an example
 
 # ~!~!~!~!~!! resume here !!~!~!~!~!~!~
 
