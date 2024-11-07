@@ -49,7 +49,6 @@ select first_name, last_name from customer LIMIT 10;
 3. Whiteboard - The RDB diagram
 4. On your computers - explore an example
 
-# ~!~!~!~!~!! resume here !!~!~!~!~!~!~
 
 ## Why SQL? (from a problem solving standpoint)
 Integration
