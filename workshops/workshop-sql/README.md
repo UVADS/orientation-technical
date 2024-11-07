@@ -23,43 +23,24 @@
 **You have to have some moves. But you really need to be able to talk to the nerd in the corder.**
 
 # Part I - The Data Scientist Minimum
-## What is SQL
+## What is SQL?
 SQL = **S**tructured-**Q**uery-**L**anguage
 
 pronounced S-Q-L; less commonly "sequel"; now, sometimes "squirrel" [citation needed]
 
-## OK but what ... **is** ... SQL
+## OK but what ... **is** ... SQL?
+
+The language you use to get data out of a relationtional database (RDB)
+
+## OK but what ... **is** ... RDB?
+
+Let's just take a look.
+1. Whiteboard
+2. On your computers
+
+
 
 # ~!~!~!~!~!! resume here !!~!~!~!~!~!~
-
-**Exercise**: Read some technobabble and break it down together:
-
-"The 59th edition of the TOP500 revealed the Frontier system to be the first true exascale machine with an HPL score of 1.102 Exaflop/s.
-
-The No. 1 spot is now held by the Frontier system at Oak Ridge National Laboratory (ORNL) in the US. Based on the latest HPE Cray EX235a architecture and equipped with AMD EPYC 64C 2GHz processors, the system has 8,730,112 total cores, a power efficiency rating of 52.23 gigaflops/watt, and relies on gigabit ethernet for data transfer." [1]
-
-![](https://www.kotzendes-einhorn.de/blog/wp-content/uploads/2016/02/121Gigawatts.gif)[2]
-
-### How many pieces of jargon can you find?
-1. Top500
-2. HPL score
-3. Exaflop/s
-4. HPE Cray EX235a archituecture
-5. AMD EPYC 64C 2GHz processors
-6. 8,730,112 cores
-7. 52.23 gigaflops/watt
-8. gigabit ethernet
-
-**Exercise:** Divide these up and do a little research in pairs, then report results.
-
-## Repeat the exercise but with the local UVA HPC resource
-
-All quotes below are from: https://www.rc.virginia.edu/userinfo/rivanna/overview/
-1. "Currently the Rivanna supercomputer has 603 nodes with over 20476 cores and 8PB of various storage."
-2. "Users may submit multiple jobs or job arrays, but the maximum aggregate cpu cores allowed for a single user’s running jobs is 1000."
-3. "Rivanna is a managed resource; users must submit jobs to queues controlled by a resource manager, also known as a queueing system. The manager in use on Rivanna is Slurm. "
-4. "How can I make my Jupyter notebook from JupyterLab to run as a batch job on Rivanna?"
-
 
 ## Why HPC?
 1. Set it and forget it (jobs run in batch mode) --> I don't need to leave my laptop open
