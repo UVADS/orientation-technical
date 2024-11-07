@@ -5,7 +5,7 @@
 1. Introduction
 3. Preamble
 4. The Data Scientist Minimum for SQL
-5. Your first SQL project
+5. Your first SQL projects
 
 
 ## Introduction
