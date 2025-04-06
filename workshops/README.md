@@ -5,3 +5,4 @@
 4. Version Control
 5. AWS 101
 6. Linux 101
+7. AI Coding
