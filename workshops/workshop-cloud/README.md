@@ -74,3 +74,7 @@ Easy to say and understand ... hard to do.
 ## Super secret instrutor notes
 * [link](https://eservices-uva.awsapps.com/start)
 * sa-lpa2a@myuva.onmicrosoft.com
+
+
+# Bonus Material
+![](https://github.com/UVADS/orientation-technical/blob/afb60154b7dabd15c238375042aaaedff1126538/workshops/workshop-cloud/turbot.png)
