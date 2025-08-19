@@ -5,10 +5,11 @@ Hello there. Welcome to your one stop shop for technical orientation materials. 
 
 # Step 1
 * Read this article: [The Virginia Model of Data Science](https://arxiv.org/abs/2311.07631) (and optionally [Data Science from 1963 to 2012](https://arxiv.org/abs/2311.03292))
-* Optional - Watch this video about laptops (it is intended for those who have yet to purchase a laptop): [Computer Buying Guide](https://www.youtube.com/watch?v=k9hm8S4iCdQ)
+* Optional - Watch this video about laptops (it is intended for those who have yet to purchase a laptop): [Computer Buying Guide](https://youtu.be/VE5TSJSfLXc?si=pmF3K_u8EmPH_Y1z)
 
 # Step 2 - Find your program below and get started!
 * Residential MSDS - [link](msds-residential/README.md)
 * Online MSDS - [link](msds-online/README.md)
 * PhD - [link](phd/README.md)
+
 
