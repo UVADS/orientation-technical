@@ -6,3 +6,4 @@
 5. AWS 101
 6. Linux 101
 7. AI Coding
+8. Local Computing (combined MSDS/PhD technical orientation)
