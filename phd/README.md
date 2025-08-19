@@ -1,7 +1,10 @@
 # Welcome to the PhD Technical Orientation
 This orientation begins with a 30 minute lesson outlined below. It focuses on the main technical tool you will use everyday of this program, you brain. There will be additional technical training during the semester in the Tuesday 11:00 seminar slot. But for now, we focus on you.
 
-## Today
+
+
+
+## 
 0. **mini-lecture** How research works. [slides](https://myuva-my.sharepoint.com/:p:/g/personal/lpa2a_virginia_edu/ETZajUzzjuJCmjWDVZGKrrUBfaEcXjXGlrimSRM1f2jozw?e=bCdJ9l)
 
 1. **read and discuss** [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/)
@@ -20,6 +23,3 @@ This orientation begins with a 30 minute lesson outlined below. It focuses on th
 
 ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/github-badge.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/python-badge.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/vscode-badge.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/rstudio-token.png) ![](https://github.com/UVADS/orientation-technical/blob/main/content/images/jupyter-token.png)
 
-## Tomorrow ...
-
-**Homework:** As you progress through this program pay attention to our three ingredients. If things are working ask yourself "What can I do to keep those three ingredients healthy?". If things are not working as yourself, "Which ingredient needs my attention?".
