@@ -27,7 +27,7 @@ In this badge we will get VS Code up and running and you will work through the f
    * *hint/help*: If you're like me and prefer not to use the mouse, Ctrl+Shift+P and then enter "Terminal: Select Default Profile"
    * *hint/help*:This can be a very tricky step. Sometimes VS Code will have trouble finding something you installed and you have to do extra work to find it. But rest assured, this will be effort well spent, because issues such as this arise **CONSTANTLY** in Data Science work.
 
-4. **connect** VS Code to GitHub.
+4. **connect** VS Code to GitHub. (if you are unfamilar with git/GitHub see [link](https://github.com/UVADS/orientation-technical/blob/main/badges/github.md))
    * **Work** on your cloned repo, commit a change, and push that change back up to GitHub.
       * hint: use `git clone`
       * This step is tricky. You will edit files "locally" on your machine. But you won't see the changes reflected on GitHub "remote" until you do `git push`
