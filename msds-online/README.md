@@ -12,7 +12,7 @@ This orientation has two parts. A synchronous introduction on 8/20 at 20:00 East
 ## Homework
 
 1. Complete the VS Code badge - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md)
-    a. Add AI if you like - e.g. [link](https://code.visualstudio.com/docs/copilot/setup)   
+2. Add AI - [link](https://code.visualstudio.com/docs/copilot/setup)   
 3. Create and execute a hello world program using an .ipynb file.
 
 
