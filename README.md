@@ -4,7 +4,6 @@ Hello there. Welcome to your one stop shop for technical orientation materials. 
 ![](content/images/alonzi.png) ![](content/images/huck.png)
 
 # Step 1
-* Watch this video: [5 THINGS I WISH I KNEW Before Starting Data Science by Nicholas Renotte](https://youtu.be/B5emClQf_I4)
 * Read this article: [The Virginia Model of Data Science](https://arxiv.org/abs/2311.07631) (and optionally [Data Science from 1963 to 2012](https://arxiv.org/abs/2311.03292))
 * Optional - Watch this video about laptops (it is intended for those who have yet to purchase a laptop): [Computer Buying Guide](https://www.youtube.com/watch?v=k9hm8S4iCdQ)
 
