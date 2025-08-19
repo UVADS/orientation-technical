@@ -8,8 +8,8 @@ Hello there. Welcome to your one stop shop for technical orientation materials. 
 * Optional - Watch this video about laptops (it is intended for those who have yet to purchase a laptop): [Computer Buying Guide](https://youtu.be/VE5TSJSfLXc?si=pmF3K_u8EmPH_Y1z)
 
 # Step 2 - Find your program below and get started!
-* Residential MSDS - [link](https://github.com/UVADS/orientation-technical/tree/main/workshops/local-computing)#(msds-residential/README.md)
+* Residential MSDS - [link](https://github.com/UVADS/orientation-technical/tree/main/workshops/local-computing) 
 * Online MSDS - [link](msds-online/README.md)
-* PhD - [link](https://github.com/UVADS/orientation-technical/tree/main/workshops/local-computing)#(phd/README.md)
+* PhD - [link](https://github.com/UVADS/orientation-technical/tree/main/workshops/local-computing)
 
 
