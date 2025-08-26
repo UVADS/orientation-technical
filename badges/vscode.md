@@ -17,7 +17,7 @@ In this badge we will get VS Code up and running and you will work through the f
    4. the specific history of Bash (Bourne Again Shell), its syntax, and environment variables (especially PATH)
    5. package management and specifically the package manager conda and "conda environments"
 
-   * **Tell** a friend about what you learned and how they can use the tools in their everyday life even if they are not a programmer. **Explain** to them why people would configure their environmetn before programming. **Explain** the difference between: text editors, word processors, and integrated development environments.
+   * **Tell** a friend about what you learned and how they can use the tools in their everyday life even if they are not a programmer. **Explain** to them why people would configure their environment before programming. **Explain** the difference between: text editors, word processors, and integrated development environments.
 
 2. **install** VS Code and use the *Source Control* panel to clone a GitHub repository.
    * *hint/help*: If you're like me and prefer not to use the mouse, Ctrl+Shift+G is the shortcut key to open the panel.
@@ -40,7 +40,7 @@ In this badge we will get VS Code up and running and you will work through the f
    * In this process you **may also have to sign into GitHub** from VS Code to give permission to modify the repo on GitHub.
 
 
-5. **explore** your computer file system using three Bash commands `pwd`, `ls`, `cd`. **Compare** what you find with the exploration with the documentation for Windows/MacOS/Linux as appropriate to your machine. **Find** another member of your cohort with a different operating system and discuss the differnences between your file systems.
+5. **explore** your computer file system using three Bash commands `pwd`, `ls`, `cd`. **Compare** what you find with the exploration with the documentation for Windows/MacOS/Linux as appropriate to your machine. **Find** another member of your cohort with a different operating system and discuss the differences between your file systems.
    * *hint/help*:The `history` command is helpful for recalling earlier commands you entered.
    * **use** of command switches to enable additional functionality. (try `ls` and `ls -a` and `ls -l` and `ls -lhrta`)
 
