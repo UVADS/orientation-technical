@@ -18,3 +18,6 @@
 4. Asyncronous Coding
     * From Professor Magee
     * [https://jules.google/](https://jules.google/)
+
+# References
+1. Generative AI for Data Science 101: Coding Without Learning to Code by Bien and Mukherjee from the Journal of Statistics and Data Science Education
