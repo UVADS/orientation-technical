@@ -11,4 +11,4 @@
 HPC = **H**igh-**p**erformance **C**omputing
 
 ### Motivation Example from DS 4002
-![](2022-09-30-cas7kvf.png)[5]
+![](2022-09-30-cas7kvf.png)
