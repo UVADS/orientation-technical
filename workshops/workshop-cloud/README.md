@@ -78,3 +78,7 @@ Easy to say and understand ... hard to do.
 
 # Bonus Material
 ![](https://github.com/UVADS/orientation-technical/blob/afb60154b7dabd15c238375042aaaedff1126538/workshops/workshop-cloud/turbot.png)
+
+
+# from professor magee
+https://aws.github.io/chalice/
