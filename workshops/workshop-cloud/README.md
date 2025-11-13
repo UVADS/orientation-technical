@@ -89,3 +89,6 @@ https://aws.github.io/chalice/
 * [https://aws.amazon.com/ec2/pricing/on-demand/](https://aws.amazon.com/ec2/pricing/on-demand/)
 
 * [https://aws.amazon.com/ec2/instance-types/p5/](https://aws.amazon.com/ec2/instance-types/p5/)
+
+
+![](cloudcraft.png)
