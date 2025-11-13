@@ -82,3 +82,8 @@ Easy to say and understand ... hard to do.
 
 # from professor magee
 https://aws.github.io/chalice/
+
+
+## AWS Pricing
+
+[https://aws.amazon.com/ec2/pricing/on-demand/](https://aws.amazon.com/ec2/pricing/on-demand/)
