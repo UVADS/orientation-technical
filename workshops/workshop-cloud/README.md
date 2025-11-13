@@ -16,9 +16,9 @@ Not ".. well it's what I knew" but "I needed to accomplish B so I chose A becaus
    * UVA red tape for static accesible IP   
 3. Scalable
 | |Power|Monthly Bill|# Homes|
-|-|-----|------------|-------|
-|Typical Household|1kW|$150|1|
-|Data Center|1GW|$100,000,000|10^6|
+|-----------------|---|------------|----|
+|Typical Household|1kW|$150        |1   |
+|Data Center      |1GW|$100,000,000|10^6|
    
 4. Severless (focus)
    * lambda and "planned computation"
