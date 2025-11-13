@@ -15,6 +15,7 @@ Not ".. well it's what I knew" but "I needed to accomplish B so I chose A becaus
 2. Accesible
    * UVA red tape for static accesible IP   
 3. Scalable
+
 | |Power|Monthly Bill|# Homes|
 |-----------------|---|------------|----|
 |Typical Household|1kW|$150        |1   |
