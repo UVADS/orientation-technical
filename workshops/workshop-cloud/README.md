@@ -1,94 +1,71 @@
 # Cloud Workshop
+This workshop was delivered in the Capital One Hub on 2025-11-13
 
-## Warm Up
-Look up and record these metrics for your laptop
-* CPU Cycle Rate (in GHz)
-* CPU Number of Cores (int)
-* RAM (in GB)
-* Hard Drive Size (in GB)
-* GPU
+# Outline
+1. Motivation
+2. $$$
+3. Event-driven computing
 
-## Welcome & Introduction
-1. `whois lpa2a` (aka who is the instructor)
-2. `cat .plan` (aka goals for today)
-    * Define and Motivate Cloud
-    * Part I: Present the Data Scientist Minimum
-    * Part II: Make individual plans for building cloud proficiency
-    * Secret goal: But really, I just want you to ask questions
+# Motivation
+Not ".. well it's what I knew" but "I needed to accomplish B so I chose A because C"
 
-## Preamble
-![](aws-preamble.png)[0]
-### "There are real computers on the ground"
-
-## A quick note
-We are going to talk about cloud computing but we will talk in the AWS vernacular.
-
-## Exercise 0 - click on everything here - [https://app.cloudcraft.co/](https://app.cloudcraft.co/)
-
-## A few building blocks (mini-lecture)
-* s3 - Simple Storage Service ![](s3.png)
-* ec2 - Elastic Compute Cloud ![](ec2.png)
-![](lego-brick.png)[1]
-
-## Exercise 1 - Spec your Laptop using cloudcraft
-
-## Exercise 2 - Spec two more machines using cloudcraft
+## Why Cloud?
+1. Financial (focus)
+   * rent vs. own
+2. Accesible
+   * UVA red tape for static accesible IP   
+3. Scalable
+| |Power|Monthly Bill|# Homes|
+|-|-----|------------|-------|
+|Typical Household|1kW|$150|1|
+|Data Center|1GW|$100,000,000|10^6|
+   
+4. Severless (focus)
+   * lambda and "planned computation"
+  
+# Financial
 ![](2022-09-30-schuster-catherine.png)
+Play around with this tool - [https://app.cloudcraft.co/](https://app.cloudcraft.co/)
+| time | machine | specs | Example AWS | price/unit | total price |
+|------|---------|-------|-------------|------------|-------------|
+|4 days|laptop|8GB, 2 cores|t3.large|8¢/hr|768¢|
+|7 hours|HPC|358GB, 40cores|m4.10Xlarge|200¢/hr|1,400¢|
+|16 min| HPC w/GPU| + H200 |p5.4xlarge|688¢/hr|172¢|
 
-## Exercise 3 - Do a price comparison using cloudcraft budget
-
-## Why use the cloud (mini-lecture)
-1. Scale - typical US home:100A :: typical AWS data center:2,500,000A
-2. Prototyping - own:rent :: your laptop:AWS
-3. Reproducibility - GUI:CLI :: your laptop:AWS
-
-## Exercise 4 -  read this file [https://github.com/boto/boto3/blob/develop/README.rst](https://github.com/boto/boto3/blob/develop/README.rst)
-
-## A few more building blocks (mini-lecture if time)
-* iam ![](iam.png)
-* lambda ![](lambda.png)
-
-# Break
-
-## Event-driven computing (mini-lecture)
-![](ellie-wonder.png)[2]
-* AWS is for planned computation, not spontaneous exploration or memory manipulation
-
-## The Method
-Easy to say and understand ... hard to do.
-![](ellie2.png)[2]
+## AWS Pricing
+* [https://aws.amazon.com/ec2/pricing/on-demand/](https://aws.amazon.com/ec2/pricing/on-demand/)
+* [https://aws.amazon.com/ec2/instance-types/p5/](https://aws.amazon.com/ec2/instance-types/p5/)
+![](cloudcraft.png)
 
 
-## Your first prototype
+## Programmatically with boto
+* [https://github.com/boto/boto3/blob/develop/README.rst](https://github.com/boto/boto3/blob/develop/README.rst)
+* PSA - don't put your keys in your code or on github
+
+# Serverless
+This is a different paradigm of computing than most people start with.
+
+Instead of read_csv(...) --> df.(...) --> model.train(df) --> etc.
+
+An event happens --> run this lambda function (or more)
+
+## Check out Chalice
+[https://aws.github.io/chalice/](https://aws.github.io/chalice/)
+
+
+
+
+# Next Steps
+If you want to build your proficiency...
 1. Create an event stream
 2. Catch those events via an API
 3. Store those events in s3
 4. Perform analytics with lambda
 5. Share results
 
-# References
-[0] The internet, author unknown
-[1] By Cmglee - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14829196
-[2] Jurassic Park
-
-## Super secret instrutor notes
-* [link](https://eservices-uva.awsapps.com/start)
-* sa-lpa2a@myuva.onmicrosoft.com
-
 
 # Bonus Material
 ![](https://github.com/UVADS/orientation-technical/blob/afb60154b7dabd15c238375042aaaedff1126538/workshops/workshop-cloud/turbot.png)
 
 
-# from professor magee
-https://aws.github.io/chalice/
 
-
-## AWS Pricing
-
-* [https://aws.amazon.com/ec2/pricing/on-demand/](https://aws.amazon.com/ec2/pricing/on-demand/)
-
-* [https://aws.amazon.com/ec2/instance-types/p5/](https://aws.amazon.com/ec2/instance-types/p5/)
-
-
-![](cloudcraft.png)
