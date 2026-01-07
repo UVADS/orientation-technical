@@ -7,10 +7,10 @@ This orientation has two parts. A synchronous introduction on 1/7 at 20:00 Easte
 1. Introduction
 2. Motivation
 3. Mission
-4. Q&A
+4. Tour of Resources
+5. Q&A
 
 ## Homework
-
 1. Complete the VS Code badge - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md)
 2. Add AI - [link](https://code.visualstudio.com/docs/copilot/setup)   
 3. Create and execute a hello world program using an .ipynb file.
