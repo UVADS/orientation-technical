@@ -1,7 +1,7 @@
 # Welcome to the Online MSDS Technical Orientation
 Hello there. Welcome to the technical orientation for the online MSDS program.
 
-This orientation has two parts. A synchronous introduction on 8/20 at 20:00 Eastern time with Professor Alonzi and homework to complete before classes begin.
+This orientation has two parts. A synchronous introduction on 1/7 at 20:00 Eastern time with Professor Alonzi and homework to complete before classes begin.
 
 ## Outline for synchrounous session
 1. Introduction
