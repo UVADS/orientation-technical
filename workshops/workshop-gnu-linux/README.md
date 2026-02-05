@@ -11,34 +11,19 @@
 
 [Watch this video about learning](https://youtu.be/SP7dbl0rJS0?t=205)
 
-## Move to class notes
-1. `whois` lpa2a - particle physicist who eat sleeped and breathed scientific computing at the global scale
+## Charts
 
-2. Philosophy - its a habit
-    * today: introduce you to the equipment
-    * today: introduce you to a coach
-    * today: create a workout plan
-    * tomorow: hit the gym
-
-3. motivate why
-    * The challenge is double
-        1. people don't come from this world anymore (modality)
-        2. you don't need its power until you do
-
-4. define
-
-5. the minimum
-
-6. The workout plan
+![](os-usage-top500.png)
+![](World_Wide_Smartphone_Sales.png)
 
 
+## GUI vs CLI
 
-## Motivation -- Why GNU/Linux? -- Simply put: it is the only relevant operating system
-  * ![](World_Wide_Smartphone_Sales.png) [5]
-  * ![](Operating_systems_used_on_top_500_supercomputers.svg) Top500 supercomputers [2]
   * One exception: Playing video games, which is >95% windows
-  * Yes desktop/laptops are 75% windows, but smartphones are more common (60% to 40%).
+  * Yes desktop/laptops are 75% windows. 
   * Put another way: `conda install numpy`
+
+
 
 ### What is GNU/Linux
 
@@ -50,11 +35,16 @@
   * Put another way: GNU is the chocolate and Linux is the Peanut Butter
 
 
+
+
+
+
 # Part I - Data Scientist GNU/Linux Minimum
 
 ## History [12]
 ![](Unix_timeline.en.svg) 
 ## Open Software [13]
+![](xerox-9700.png)
 * The four freedoms (use, change, share, share changes)
 * "copyleft": copyright the software and use it to ensure the freedoms
 * The GPL: GNU General Public License
@@ -64,6 +54,8 @@
 ![](linux-culture1.jpg)
 
 ![](linux-culture2.jpg)
+
+![](dependency_2x.png)
 
 ## Exercise
 1. Get bash running on your machine
@@ -79,11 +71,11 @@
     * **use** a terminal text editor - choose one [vi,nano,emacs,etc.]
 5. Repeat this exercise but on Rivanna side by side with your local machine
     * hint `ssh rivanna.hpc.virginia.edu`
-5. Exercise -- Send me an SMS or email from the command line
-    * my email: lpa2a@virginia.edu
-    * my sms: [[phone number]]@msg.fi.google.com
+5. Exercise -- Send an SMS or email from the command line
+    * email: lpa2a@virginia.edu
+    * sms: [[phone number]]@msg.fi.google.com (for google fi, @vtext.com for verizon, etc.)
 
-# Break - reconvene at ...
+
 
 # Part II - building the habit
 
