@@ -1,13 +1,14 @@
 # GNU/Linux Workshop
-**Executive Summary:** This document contains the materials for the UVA residential MSDS workshop on GNU/Linux. It is a compainion to the initial orientation given prior to the start of study. This workshop is part of a series designed to help students with the world larger than their own laptop. A world of high-performance computing and of cloud computing, a world dominated by GNU/Linux.
+**Executive Summary:** This document contains the materials for the UVADS graduate Tech Stack on GNU/Linux. It is a compainion to the initial orientation given prior to the start of classes. This workshop is part of a series designed to help students with the world larger than their own laptop. A world of high-performance computing and of cloud computing, a world dominated by **GNU/Linux**.
 
 ## Plan for Today
-1. The GNU/Linux minimum (for Data Scientists)
-2. break
+1. Why GNU/Linux
+2. The Data Scientist Minimum
 3. How to build the GNU/Linux habit
 
 ## Preamble
-![](baby-george.png)[22](https://youtu.be/SP7dbl0rJS0?t=205)
+![](baby-george.png)
+[Watch this video about learning](https://youtu.be/SP7dbl0rJS0?t=205)
 
 ## Introduction
 1. `whois` lpa2a
