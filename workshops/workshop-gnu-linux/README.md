@@ -25,7 +25,7 @@
 
 
 
-### What is GNU/Linux
+## What is GNU/Linux
 
   * GNU = "GNU's not Unix", software suite in need of a kernel under GPL [6]
   * Unix = an operating system, not necessarially under open license
@@ -45,6 +45,9 @@
 ![](Unix_timeline.en.svg) 
 ## Open Software [13]
 ![](xerox-9700.png)
+
+The Xerox 9700
+
 * The four freedoms (use, change, share, share changes)
 * "copyleft": copyright the software and use it to ensure the freedoms
 * The GPL: GNU General Public License
@@ -56,6 +59,10 @@
 ![](linux-culture2.jpg)
 
 ![](dependency_2x.png)
+
+
+# Part II - building the habit
+
 
 ## Exercise
 1. Get bash running on your machine
@@ -77,7 +84,6 @@
 
 
 
-# Part II - building the habit
 
 ## Installation Demo (not included -- directions here [link](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview))
 * package management
