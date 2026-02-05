@@ -8,6 +8,7 @@
 
 ## Preamble
 ![](baby-george.png)
+
 [Watch this video about learning](https://youtu.be/SP7dbl0rJS0?t=205)
 
 ## Introduction
