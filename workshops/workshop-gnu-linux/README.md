@@ -11,18 +11,26 @@
 
 [Watch this video about learning](https://youtu.be/SP7dbl0rJS0?t=205)
 
-## Introduction
-1. `whois` lpa2a
-2. Goals for today
-    * Define GNU/Linux
-    * Establish the Data Scientist minimum (part I)
-    * Give you a plan to build the habit (part II)
-    * But really I just want you all to ask questions
-3. GNU/Linux is a habit
+## Move to class notes
+1. `whois` lpa2a - particle physicist who eat sleeped and breathed scientific computing at the global scale
+
+2. Philosophy - its a habit
     * today: introduce you to the equipment
     * today: introduce you to a coach
     * today: create a workout plan
     * tomorow: hit the gym
+
+3. motivate why
+    * The challenge is double
+        1. people don't come from this world anymore (modality)
+        2. you don't need its power until you do
+
+4. define
+
+5. the minimum
+
+6. The workout plan
+
 
 
 ## Motivation -- Why GNU/Linux? -- Simply put: it is the only relevant operating system
