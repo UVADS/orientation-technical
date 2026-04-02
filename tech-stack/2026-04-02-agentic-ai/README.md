@@ -53,7 +53,7 @@ we are going to talk about the progress to the current paradigm of ***Agentic co
 | GitHub Copilot | GitHub / Microsoft | IDE assistant  | 2021 Q2 |
 | Code Llama | Meta | Open model (self-hosted) | 2023 Q3 |
 
-Sources for release quarters.[^survey-tools]
+
 
 ### Jargon 
 | Term | Definition |
@@ -65,7 +65,7 @@ Sources for release quarters.[^survey-tools]
 | SKILL.md | a small instruction set to define behavior for an agent |
 | "Rules" | higher level than skills (e.g. in cursor `.cursor/rules/*.mdc`) |
 
-Sources and older vocabulary.[^survey-jargon]
+
 
 > [!TIP]
 > How to keep your head straight? Practice with **definition comparisons**.
@@ -156,9 +156,5 @@ Agentic systems (e.g. Claude Code)
 
 
 ***E.G. from me - publication quality plots***
-
-[^survey-tools]: [Tools (release quarter)](sources.md#tools-release-quarter) in `sources.md`.
-
-[^survey-jargon]: [Jargon](sources.md#jargon) in `sources.md`. Older / general terms: [`zold/legacy-jargon.md`](zold/legacy-jargon.md).
 
 [^nvidia-lex]: [Jensen Huang: NVIDIA — The $4 Trillion Company & the AI Revolution — Lex Fridman Podcast #494](https://www.youtube.com/watch?v=vif8NQcjVf0)
