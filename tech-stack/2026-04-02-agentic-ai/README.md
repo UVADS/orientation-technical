@@ -146,7 +146,7 @@ Agentic systems (e.g. Claude Code)
 </p>
 
 
-Homework
+### Homework
 1. Pick a workflow (repetitive, draining, delegatable)
 2. Write out the steps
 3. Determine the 80% that's routine
