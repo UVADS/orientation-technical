@@ -6,4 +6,4 @@ My first session was spent building a prompt for the AI coach who will coach me 
 
 ## Session 2 - Evaluating GitHub and Skilljar resources
 * **GitHub** - https://github.com/anthropics/courses - notebooks you follow along through
-* **Skilljar** - https://anthropic.skilljar.com/claude-code-in-action - HR style training videos with quizzies and follow along resources
+* **Skilljar** - https://anthropic.skilljar.com/claude-code-in-action - HR style training videos with quizzies and follow along resources - [screenshots](claude-code-slides)
