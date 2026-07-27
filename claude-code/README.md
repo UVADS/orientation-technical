@@ -13,4 +13,4 @@
 * :octocat: [https://github.com/anthropics/cwc-long-running-agents](https://github.com/anthropics/cwc-long-running-agents)
 
 ## Notes to be incorporated
-![](claude-notes)
+![](claude-notes.jpg)
