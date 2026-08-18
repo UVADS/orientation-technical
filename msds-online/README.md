@@ -12,12 +12,18 @@ This orientation has two parts.
 4. Explain optional "workout"
 5. Q&A
 
+## GitHub and Research Computing
+* GitHub - [https://github.com/UVADS/orientation-technical/](https://github.com/UVADS/orientation-technical/)
+* Research Computing - [https://rc.virginia.edu/](https://rc.virginia.edu/)
+
+---
+
 ## Optional "Workout"
 * Getting started coding with AI
     1. Complete the VS Code badge - [link](https://github.com/UVADS/orientation-technical/blob/main/badges/vscode.md)
-    2. Add AI
-        * [link](https://code.visualstudio.com/docs/copilot/setup)
-        * [link](https://code.claude.com/docs/en/vs-code)
+    2. Add AI (your choice, here are two options)
+        * [Copilot](https://code.visualstudio.com/docs/copilot/setup)
+        * [Claude code](https://code.claude.com/docs/en/vs-code)
     3. Create and execute a hello world program using an .ipynb file.
 
 * Coding with Github workflow
