@@ -10,7 +10,7 @@ Hello there. Welcome to your one stop shop for technical orientation materials. 
 # Step 2 - Find your program below and get started!
 * BSDS - [link](bsds)
 * Residential MSDS - [link](https://github.com/UVADS/orientation-technical/tree/main/workshops/local-computing) 
-* Online MSDS - [link](msds-online/README.md)
+* Online MSDS - [link](msds-online)
 * PhD - [link](https://github.com/UVADS/orientation-technical/tree/main/workshops/local-computing)
 
 
