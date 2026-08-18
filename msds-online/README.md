@@ -8,7 +8,7 @@ This orientation has two parts.
 ## Outline for synchronous session
 1. Introduction
 2. GitHub and Research Computing
-3. Getting Help and Teams ®
+3. Getting Help and Teams®
 4. Explain optional "workout"
 5. Q&A
 
@@ -18,7 +18,7 @@ This orientation has two parts.
 
 ## Getting Help and Teams®
 * [Getting yourself unstuck](https://jkropko.github.io/surfing-the-data-pipeline/ch1.html)
-* Teams - [link to channel](https://teams.microsoft.com/l/channel/19%3AALnL3gE_8JjRp3Hhsr3D9aX9sofZHov86B-xQSJ78I01%40thread.tacv2/Fall%202026%20Technical%20Resources%20Orientation%20MSDS-O?groupId=7ad78f61-7cd5-4e03-8edd-e4266a70cbc8&tenantId=7b3480c7-3707-4873-8b77-e216733a65ac&ngc=true&allowXTenantAccess=true)
+* Teams® - [link to channel](https://teams.microsoft.com/l/channel/19%3AALnL3gE_8JjRp3Hhsr3D9aX9sofZHov86B-xQSJ78I01%40thread.tacv2/Fall%202026%20Technical%20Resources%20Orientation%20MSDS-O?groupId=7ad78f61-7cd5-4e03-8edd-e4266a70cbc8&tenantId=7b3480c7-3707-4873-8b77-e216733a65ac&ngc=true&allowXTenantAccess=true)
 ---
 
 ## Optional "Workout"
