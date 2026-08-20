@@ -4,6 +4,7 @@
 ## The Goal
 You will be able to do this
 ![](vs-code-with-claude-code.png)
+That is to say, configure VS Code with Claude Code and learn how to connect the harness to any model via an API.
 
 ## In-person Session Outline
 1. Hello and Welcome
