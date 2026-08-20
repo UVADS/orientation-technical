@@ -3,7 +3,7 @@
 
 ## The Goal
 You will be able to do this
-![](vs-code-with-claude-code)
+![](vs-code-with-claude-code.png)
 
 ## In-person Session Outline
 1. Hello and Welcome
