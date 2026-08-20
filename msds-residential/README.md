@@ -1,5 +1,5 @@
 # Welcome to Technical Orientation
-** Executive Summary: ** This readme contains the materials for the technical orientation for incoming MSDS-R and PhD students. It includes the outline, links to resources, and details on assigned work. This orientation begins with a one hour in-person session and continues with individual homework competed before classes begin.
+**Executive Summary:** This readme contains the materials for the technical orientation for incoming MSDS-R and PhD students. It includes the outline, links to resources, and details on assigned work. This orientation begins with a one hour in-person session and continues with individual homework competed before classes begin.
 
 ## The Goal
 You will be able to do this
