@@ -35,16 +35,10 @@
 
 **The main point is that the context is gathered two ways, from the user and the environment**
 
-https://claude.com/blog/building-agents-with-the-claude-agent-sdk
 
 ## Jargon
 
 ![](agent-equation.png)
-
-
-.claude folder
-
-commands and `/`
 
 | Generic term | Claude version | Meaning | Motivation / When to use |
 |---|---|---|---|
@@ -52,13 +46,23 @@ commands and `/`
 | Agent | Claude Code |||
 | Harness | Claude Agent SDK (was Claude Code SDK Jan-Sep 2025)| | |
 | Coding Agent | Claude Code | agentic coding solution | originally built to support developer productivity at Anthropic |
+
+
+![](when-context.png) -- https://code.claude.com/docs/en/features-overview
+
+| Generic term | Claude version | Meaning | Motivation / When to use |
 | Context ||||
 | | Auto Memory|||
 | Workspace | Project |||
 
 
 
+![https://code.claude.com/docs/en/memory](context-scope.png)
+
+
+| Generic term | Claude version | Meaning | Motivation / When to use |
 | Skill | | ||
+| Command | `/` |||
 | CLAUDE.md ||||
 
 | Model Context Protocol (MCP) | |standardized integrations to external services|e.g. search slack messages|
@@ -72,8 +76,6 @@ CLAUDE.md files (aka AGENTS.md)
 Automatic learning (aka Auto memory)
 
 
-![](when-context.png) -- https://code.claude.com/docs/en/features-overview
-![](context-scope.png) -- https://code.claude.com/docs/en/memory
 
 ## Skills
 
@@ -144,3 +146,5 @@ https://code.claude.com/docs/en/features-overview
 https://claude.com/blog/building-agents-with-the-claude-agent-sdk
 
 https://martinfowler.com/articles/harness-engineering.html
+
+https://claude.com/blog/building-agents-with-the-claude-agent-sdk
