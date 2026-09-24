@@ -20,6 +20,9 @@
 
 
 # lorem ipsum
+![](agentic-loop.png)
+![](agent-workflow.png)
+![](when-context.png)
 
 ## Jargon
 "Claude Code is an agentic assistant"
