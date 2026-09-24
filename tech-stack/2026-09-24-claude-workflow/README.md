@@ -47,33 +47,34 @@
 | Harness | Claude Agent SDK (was Claude Code SDK Jan-Sep 2025)| | |
 | Coding Agent | Claude Code | agentic coding solution | originally built to support developer productivity at Anthropic |
 
+### Context
 
-![https://code.claude.com/docs/en/features-overview](when-context.png)
+How Claude remembers your project - https://code.claude.com/docs/en/memory
+CLAUDE.md files (aka AGENTS.md)
+Automatic learning (aka Auto memory)
+
+
+![https://code.claude.com/docs/en/memory](context-scope.png)
 
 | Generic term | Claude version | Meaning | Motivation / When to use |
+|---|---|---|---|
 | Context ||||
 | | Auto Memory|||
 | Workspace | Project |||
 
 
-
-![https://code.claude.com/docs/en/memory](context-scope.png)
+### Extensions
+![https://code.claude.com/docs/en/features-overview](when-context.png)
 
 
 | Generic term | Claude version | Meaning | Motivation / When to use |
+|---|---|---|---|
 | Skill | | ||
 | Command | `/` |||
 | CLAUDE.md ||||
 
 | Model Context Protocol (MCP) | |standardized integrations to external services|e.g. search slack messages|
 
-## Agent Harness
-
-
-## Context
-How Claude remembers your project - https://code.claude.com/docs/en/memory
-CLAUDE.md files (aka AGENTS.md)
-Automatic learning (aka Auto memory)
 
 
 
@@ -84,7 +85,6 @@ Automatic learning (aka Auto memory)
 2. repeated instructions (instead of pasting the same multi-step prompt into chat every time)
 3. something you keep re-explaining to Claude
 4. a section of CLAUDE.md that's grown into a "how to do X" procedure (as opposed to information/facts)
-5. 
 
 ![](bryan-wright-code-hierarchy.png)
 
