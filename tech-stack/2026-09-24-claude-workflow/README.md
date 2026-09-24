@@ -34,12 +34,7 @@ https://claude.com/blog/building-agents-with-the-claude-agent-sdk
 
 ## Jargon
 
-$$
-\begin{aligned}
-\text{Agent} &= \text{Model} + \text{Harness} \\
-\text{Claude Code} &= \text{Claude} + \text{Claude Agent SDK}
-\end{aligned}
-$$
+![](agent-equiation.png)
 
 Claude Agent SDK
 
