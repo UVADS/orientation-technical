@@ -11,8 +11,9 @@
 
 .claude folder
 
+commands and `/`
+
 ## something
-![](bryan-wright-code-hierarchy.png)
 
 ## Context
 How Claude remembers your project
@@ -20,6 +21,19 @@ CLAUDE.md files (aka AGENTS.md)
 
 
 ## Skills
+
+1. you could just put it all into CLAUDE.md but, that costs, and isn't agile and connected to / commands
+
+2. repeated instructions (instead of pasting the same multi-step prompt into chat every time)
+3. something you keep re-explaining to Claude
+4. a section of CLAUDE.md that's grown into a "how to do X" procedure (as opposed to information/facts)
+5. 
+
+![](bryan-wright-code-hierarchy.png)
+
+
+> [!NOTE]
+> Since a skill's body only loads when invoked, it costs nothing until used, unlike always-loaded CLAUDE.md content.
 
 > [!NOTE]
 > "A skill is a markdown file"
@@ -67,6 +81,8 @@ https://www.anthropic.com/engineering/building-effective-agents   [2024]
 https://code.claude.com/docs/en/features-overview
 
 https://code.claude.com/docs/en/how-claude-code-works
+
+https://code.claude.com/docs/en/features-overview
 
 
 
