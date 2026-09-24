@@ -1,6 +1,6 @@
-# lorem ipsum
+# Using Claude Code
 
-## Goal for Today
+## Preamble
 ![](luke-training.png)
 ![](luke-battle.jpg)
 
