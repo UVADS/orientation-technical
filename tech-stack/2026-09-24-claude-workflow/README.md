@@ -29,7 +29,6 @@
 
 
 
-![](when-context.png)
 
 ## Jargon
 "Claude Code is an agentic assistant"
@@ -42,6 +41,9 @@ commands and `/`
 How Claude remembers your project
 CLAUDE.md files (aka AGENTS.md)
 
+
+![](when-context.png) -- https://code.claude.com/docs/en/features-overview
+![](context-scope.png) -- https://code.claude.com/docs/en/memory
 
 ## Skills
 
