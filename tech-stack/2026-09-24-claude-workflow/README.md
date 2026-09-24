@@ -89,7 +89,7 @@ You could just put it all into CLAUDE.md but ... that costs
 * something you keep re-explaining to Claude
 * a section of CLAUDE.md that's grown into a "how to do X" procedure (as opposed to a Dragnet)
 
-![](bryan-wright-code-hierarchy.png)
+![https://discovery.phys.virginia.edu/compfac/courses/sysadmin1/](bryan-wright-code-hierarchy.png)
 
 
 > [!NOTE]
