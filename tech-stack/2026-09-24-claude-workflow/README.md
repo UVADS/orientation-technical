@@ -11,9 +11,14 @@
 ## Specific Goals
 **1. Show you the gym equipment**
 * AI Workflow / Agentic Loop
+    * Using the loop as designed
+    * Avoiding Deskilling/Never-skilling
+    * Understanding what you are telling the loop to do
+    * Claude: "which is exactly how feynmf's auto-layout works internally"
 * Review AI Coding Terminology 
-* Contex
-* Skills
+* Extensions 
+    * Contex (CLAUDE.md)
+    * Skills (SKILL.md)
 
 **2. Give you a workout plan**
 * Definition Practice
@@ -36,9 +41,6 @@ https://claude.com/blog/building-agents-with-the-claude-agent-sdk
 
 ![](agent-equation.png)
 
-Claude Agent SDK
-
-"Claude Code is an agentic assistant"
 
 .claude folder
 
@@ -49,16 +51,17 @@ commands and `/`
 | Model | Claude |||
 | Agent | Claude Code |||
 | Harness | Claude Agent SDK (was Claude Code SDK Jan-Sep 2025)| | |
-
-
 | Coding Agent | Claude Code | agentic coding solution | originally built to support developer productivity at Anthropic |
-| Skill | | ||
 | Context ||||
+| | Auto Memory|||
+| Workspace | Project |||
+
+
+
+| Skill | | ||
 | CLAUDE.md ||||
-| | Project |||
-| Token | |||
-| Usage Limits | |||
-| Model Context Protocol (MCP) | |tandardized integrations to external services|e.g. search slack messages|
+
+| Model Context Protocol (MCP) | |standardized integrations to external services|e.g. search slack messages|
 
 ## Agent Harness
 
