@@ -50,8 +50,8 @@
 ### Context
 
 How Claude remembers your project - https://code.claude.com/docs/en/memory
-CLAUDE.md files (aka AGENTS.md)
-Automatic learning (aka Auto memory)
+* Automatic learning (aka Auto memory)
+* CLAUDE.md files (aka AGENTS.md)
 
 
 ![https://code.claude.com/docs/en/memory](context-scope.png)
@@ -72,7 +72,6 @@ Automatic learning (aka Auto memory)
 | Skill | | ||
 | Command | `/` |||
 | CLAUDE.md ||||
-
 | Model Context Protocol (MCP) | |standardized integrations to external services|e.g. search slack messages|
 
 
@@ -100,17 +99,19 @@ Automatic learning (aka Auto memory)
 "Skills extend Claude’s knowledge with information specific to your project, team, or domain. Claude applies them automatically when relevant, or you can invoke them directly"
 
 
-.claude/skills/api-conventions/SKILL.md
-```---
-name: api-conventions
-description: REST API design conventions for our services
----
-# API Conventions
-- Use kebab-case for URL paths
-- Use camelCase for JSON properties
-- Always include pagination for list endpoints
-- Version APIs in the URL path (/v1/, /v2/)
-```
+> [!Note]
+>
+> .claude/skills/api-conventions/SKILL.md
+> ```---
+> name: api-conventions
+> description: REST API design conventions for our services
+> ---
+> # API Conventions
+> - Use kebab-case for URL paths
+> - Use camelCase for JSON properties
+> - Always include pagination for list endpoints
+> - Version APIs in the URL path (/v1/, /v2/)
+> ```
 
 
 
