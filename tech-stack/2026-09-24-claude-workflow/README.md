@@ -76,33 +76,28 @@ How Claude remembers your project
 | Model Context Protocol (MCP) | "connectors" |standardized integrations to external services|e.g. search slack messages|
 
 
-
-
 ## Skills
 
 ### When and Why
 You could just put it all into CLAUDE.md but ... that costs 
 
-> [!NOTE] Skills only load on use
+> [!NOTE] 
+> Skills only load on use
 
-, and isn't agile and connected to / commands
-
-2. repeated instructions (instead of pasting the same multi-step prompt into chat every time)
-3. something you keep re-explaining to Claude
-4. a section of CLAUDE.md that's grown into a "how to do X" procedure (as opposed to information/facts)
+#### Look for
+* repeated instructions (instead of pasting the same multi-step prompt into chat every time)
+* something you keep re-explaining to Claude
+* a section of CLAUDE.md that's grown into a "how to do X" procedure (as opposed to a Dragnet)
 
 ![](bryan-wright-code-hierarchy.png)
 
 
 > [!NOTE]
-> Since a skill's body only loads when invoked, it costs nothing until used, unlike always-loaded CLAUDE.md content.
-
-> [!NOTE]
 > "A skill is a markdown file"
 
-"a skill is a markdown file"
 
-"Skills extend Claude’s knowledge with information specific to your project, team, or domain. Claude applies them automatically when relevant, or you can invoke them directly"
+> ![NOTE]
+> "Skills extend Claude’s knowledge with information specific to your project, team, or domain. Claude applies them automatically when relevant, or you can invoke them directly"
 
 ### Anatomy
 * File path
