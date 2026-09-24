@@ -99,7 +99,16 @@ How Claude remembers your project
 
 "Skills extend Claude’s knowledge with information specific to your project, team, or domain. Claude applies them automatically when relevant, or you can invoke them directly"
 
+### Anatomy
+* File path
+    * User: `.claude/skills/<skill-name>/SKILL.md`
+    * Project: `<project>/.claude/skills/<skill-name>/SKILL.md` 
+* YAML
+    * name
+    * description
+* Markdown
 
+#### Example 1
 > [!Note]
 >
 > .claude/skills/api-conventions/SKILL.md
@@ -114,7 +123,8 @@ How Claude remembers your project
 > - Version APIs in the URL path (/v1/, /v2/)
 > ```
 
-
+#### Example 2
+https://github.com/UVADS/ai-tools-skills-agents/blob/main/skills/python-vscode-setup/SKILL.md
 
 
 ## Workout Plan
