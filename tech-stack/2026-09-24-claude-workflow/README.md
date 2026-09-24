@@ -49,7 +49,7 @@
 
 ### Context
 
-How Claude remembers your project - https://code.claude.com/docs/en/memory
+How Claude remembers your project
 * Automatic learning (aka Auto memory)
 * CLAUDE.md files (aka AGENTS.md)
 
@@ -145,29 +145,12 @@ Given two related terms, explain what's different in a sentence or two. Example 
 
 
 # References
+* Google search for memes and ECON 1170 chart
 * Berzin & Topol, Preserving clinical skills in the age of AI assistance, The Lancet, 18 Oct 2025 (406:1719, PMID 41109709)
+* https://martinfowler.com/articles/harness-engineering.html
 * https://discovery.phys.virginia.edu/~bkw1a/
-
-
-
-
-
-https://www.anthropic.com/engineering/building-effective-agents   [2024]
-
-https://code.claude.com/docs/en/features-overview
-
-https://code.claude.com/docs/en/how-claude-code-works
-
-https://code.claude.com/docs/en/features-overview
-
-
-
-https://claude.com/blog/building-agents-with-the-claude-agent-sdk
-
-https://martinfowler.com/articles/harness-engineering.html
-
-https://claude.com/blog/building-agents-with-the-claude-agent-sdk
-
-https://code.claude.com/docs/en/features-overview
-
-https://code.claude.com/docs/en/memory
+* https://www.anthropic.com/engineering/building-effective-agents
+* https://claude.com/blog/building-agents-with-the-claude-agent-sdk
+* https://code.claude.com/docs/en/how-claude-code-works
+* https://code.claude.com/docs/en/features-overview
+* https://code.claude.com/docs/en/memory
