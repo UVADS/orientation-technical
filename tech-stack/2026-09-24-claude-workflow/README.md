@@ -19,7 +19,7 @@
 * Coding Practice
 
 
-# lorem ipsum
+# The Agent Loop
 
 ### Jan 2025 - before Claude Code
 ![](agent-workflow.png)
@@ -28,9 +28,12 @@
 ![](agentic-loop.png)
 
 
-
+https://claude.com/blog/building-agents-with-the-claude-agent-sdk
 
 ## Jargon
+
+Claude Agent SDK
+
 "Claude Code is an agentic assistant"
 
 .claude folder
