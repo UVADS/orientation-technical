@@ -28,6 +28,7 @@
 ### Sep 2026 - after Claude code
 ![](agentic-loop.png)
 
+**The main point is that the context is gathered two ways, from the user and the environment**
 
 https://claude.com/blog/building-agents-with-the-claude-agent-sdk
 
@@ -41,9 +42,24 @@ Claude Agent SDK
 
 commands and `/`
 
+| Generic term | Claude version | Meaning | Motivation / When to use |
+|---|---|---|---|
+| Model | |||
+| Agent | |||
+| Coding Agent | Claude Code | agentic coding solution | originally built to support developer productivity at Anthropic |
+| Harness | Claude Code SDK | | |
+| Skill | | ||
+| Context ||||
+| CLAUDE.md ||||
+| | Project |||
+| Token | |||
+| Usage Limits | |||
+| Model Context Protocol (MCP) | |tandardized integrations to external services|e.g. search slack messages|
+
 ## Context
-How Claude remembers your project
+How Claude remembers your project - https://code.claude.com/docs/en/memory
 CLAUDE.md files (aka AGENTS.md)
+Automatic learning (aka Auto memory)
 
 
 ![](when-context.png) -- https://code.claude.com/docs/en/features-overview
@@ -115,3 +131,4 @@ https://code.claude.com/docs/en/features-overview
 
 
 
+https://claude.com/blog/building-agents-with-the-claude-agent-sdk
