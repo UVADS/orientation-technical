@@ -48,7 +48,7 @@
 | Coding Agent | Claude Code | agentic coding solution | originally built to support developer productivity at Anthropic |
 
 
-![](when-context.png) -- https://code.claude.com/docs/en/features-overview
+![https://code.claude.com/docs/en/features-overview](when-context.png)
 
 | Generic term | Claude version | Meaning | Motivation / When to use |
 | Context ||||
@@ -148,3 +148,7 @@ https://claude.com/blog/building-agents-with-the-claude-agent-sdk
 https://martinfowler.com/articles/harness-engineering.html
 
 https://claude.com/blog/building-agents-with-the-claude-agent-sdk
+
+https://code.claude.com/docs/en/features-overview
+
+https://code.claude.com/docs/en/memory
