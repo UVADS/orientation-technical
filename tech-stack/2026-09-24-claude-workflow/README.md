@@ -34,6 +34,8 @@ https://claude.com/blog/building-agents-with-the-claude-agent-sdk
 
 ## Jargon
 
+<embed src="agent-equation.pdf" type="application/pdf" width="100%" height="600px">
+
 Claude Agent SDK
 
 "Claude Code is an agentic assistant"
@@ -44,10 +46,12 @@ commands and `/`
 
 | Generic term | Claude version | Meaning | Motivation / When to use |
 |---|---|---|---|
-| Model | |||
-| Agent | |||
+| Model | Claude |||
+| Agent | Claude Code |||
+| Harness | Claude Agent SDK (was Claude Code SDK Jan-Sep 2025)| | |
+
+
 | Coding Agent | Claude Code | agentic coding solution | originally built to support developer productivity at Anthropic |
-| Harness | Claude Code SDK | | |
 | Skill | | ||
 | Context ||||
 | CLAUDE.md ||||
@@ -55,6 +59,9 @@ commands and `/`
 | Token | |||
 | Usage Limits | |||
 | Model Context Protocol (MCP) | |tandardized integrations to external services|e.g. search slack messages|
+
+## Agent Harness
+
 
 ## Context
 How Claude remembers your project - https://code.claude.com/docs/en/memory
@@ -132,3 +139,5 @@ https://code.claude.com/docs/en/features-overview
 
 
 https://claude.com/blog/building-agents-with-the-claude-agent-sdk
+
+https://martinfowler.com/articles/harness-engineering.html
