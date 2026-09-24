@@ -120,10 +120,27 @@ How Claude remembers your project - https://code.claude.com/docs/en/memory
 ## Workout Plan
 
 ### Definition practice
+Given two related terms, explain what's different in a sentence or two. Example pairs:
+
+- **Model vs. Harness** — the "brain" vs. the "body." Claude is the model; Claude Code is one harness that puts tools around it.
+- **Skill vs. MCP/Connector** — Skill packages *how* to do something (instructions); MCP/Connector reaches *outside data* Claude wouldn't otherwise have.
+- **CLAUDE.md vs. System prompt** — both are standing instructions, but CLAUDE.md is yours to write and edit; the system prompt is set by Anthropic/the app, invisible to you.
+- **Chat vs. Agent** — same underlying model, different interaction mode: one-shot Q&A vs. a loop that plans, acts, and checks its own work.
+- **Project vs. Artifact** — Project is the persistent container (files, context, spans many chats); Artifact is one saved output that comes out of it.
+- **Agentic coding vs. Autonomous agent** — agentic coding is the style of workflow (multi-step, repo-wide); autonomous agent is the system carrying it out with minimal prompting.
+
 
 ### Coding Practice
-* Work the docs: Complete [Step 3-8](https://code.claude.com/docs/en/quickstart#step-3-start-your-first-session) (we did 1 and 2 in orientation)
+* Work the docs: Complete [Step 3-8: Your first session](https://code.claude.com/docs/en/quickstart#step-3-start-your-first-session) (we did 1 and 2 in orientation)
 * Work the docs: Complete [Create your first skill](https://code.claude.com/docs/en/skills#create-your-first-skill)
+* Make a useful skill:
+    * Write your own skill that sets up the scoffolding for a new python project:
+        * e.g. initialize a git repo, create the virtual environment, etc.
+        * e.g. https://github.com/UVADS/ai-tools-skills-agents/blob/main/skills/python-vscode-setup/SKILL.md
+    * Write your own skill that profiles datasets:
+        * Takes a unnormalized flat file
+        * Uses DuckDB or pandas to report row counts, inferred types, null rates, cardinality, date ranges, and suspicious values
+        * Proposed schema and a list of cleaning decisions
 
 
 
