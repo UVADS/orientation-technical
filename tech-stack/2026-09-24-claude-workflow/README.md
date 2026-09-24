@@ -34,7 +34,7 @@ https://claude.com/blog/building-agents-with-the-claude-agent-sdk
 
 ## Jargon
 
-![](agent-equiation.png)
+![](agent-equation.png)
 
 Claude Agent SDK
 
