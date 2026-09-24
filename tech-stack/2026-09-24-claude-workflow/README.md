@@ -20,8 +20,15 @@
 
 
 # lorem ipsum
-![](agentic-loop.png)
+
+### Jan 2025 - before Claude Code
 ![](agent-workflow.png)
+
+### Sep 2026 - after Claude code
+![](agentic-loop.png)
+
+
+
 ![](when-context.png)
 
 ## Jargon
