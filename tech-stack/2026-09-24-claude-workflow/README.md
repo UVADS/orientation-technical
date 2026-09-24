@@ -92,6 +92,7 @@ description: REST API design conventions for our services
 ### Definition practice
 
 ### Coding Practice
+* Work the docs: Complete [Step 3-8](https://code.claude.com/docs/en/quickstart#step-3-start-your-first-session) (we did 1 and 2 in orientation)
 * Work the docs: Complete [Create your first skill](https://code.claude.com/docs/en/skills#create-your-first-skill)
 
 
