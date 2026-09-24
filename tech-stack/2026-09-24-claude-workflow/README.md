@@ -1,8 +1,8 @@
 # lorem ipsum
 
 ## Goal for Today
-![](luke-training)
-![](luke-battle)
+![](luke-training.png)
+![](luke-battle.jpg)
 
 ## Motivation
 ![](brown-tests.png)
