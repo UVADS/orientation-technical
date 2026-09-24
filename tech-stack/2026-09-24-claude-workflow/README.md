@@ -61,6 +61,7 @@ How Claude remembers your project - https://code.claude.com/docs/en/memory
 | Context | n/a |||
 | Workspace | Project |Context Boundary||
 | Persistent/Agent/Long-term/Cross-session Memory | Auto Memory|Persistent instructions|loaded as context at start of conversation|
+| Agents.md | CLAUDE.md |instructions you write to give Claude persistent context||
 
 
 ### Extensions
@@ -71,8 +72,8 @@ How Claude remembers your project - https://code.claude.com/docs/en/memory
 |---|---|---|---|
 | Skill | Skill |reusable knowledge and invocable workflows|repeated tasks|
 | Command | `/` |shortcut to trigger an action|e.g. `/model` to switch model|
-| CLAUDE.md ||||
-| Model Context Protocol (MCP) | |standardized integrations to external services|e.g. search slack messages|
+| Agents.md | CLAUDE.md |instructions you write to give Claude persistent context||
+| Model Context Protocol (MCP) | "connectors" |standardized integrations to external services|e.g. search slack messages|
 
 
 
