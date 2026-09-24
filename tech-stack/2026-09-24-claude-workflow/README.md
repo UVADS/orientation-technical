@@ -10,6 +10,7 @@
 
 ## Specific Goals
 **1. Show you the gym equipment**
+* AI Workflow / Agentic Loop
 * Review AI Coding Terminology 
 * Contex
 * Skills
@@ -92,11 +93,6 @@ description: REST API design conventions for our services
 
 ### Coding Practice
 * Work the docs: Complete [Create your first skill](https://code.claude.com/docs/en/skills#create-your-first-skill)
-
-
-samirgrovermd.substack.com/p/neverskilling
-
-
 
 
 
