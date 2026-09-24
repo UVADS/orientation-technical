@@ -80,7 +80,12 @@ How Claude remembers your project
 
 ## Skills
 
-1. you could just put it all into CLAUDE.md but, that costs, and isn't agile and connected to / commands
+### When and Why
+You could just put it all into CLAUDE.md but ... that costs 
+
+> [!NOTE] Skills only load on use
+
+, and isn't agile and connected to / commands
 
 2. repeated instructions (instead of pasting the same multi-step prompt into chat every time)
 3. something you keep re-explaining to Claude
@@ -103,10 +108,10 @@ How Claude remembers your project
 * File path
     * User: `.claude/skills/<skill-name>/SKILL.md`
     * Project: `<project>/.claude/skills/<skill-name>/SKILL.md` 
-* YAML
+* YAML (always loaded into context)
     * name
     * description
-* Markdown
+* Markdown (loaded into context on use)
 
 #### Example 1
 > [!Note]
