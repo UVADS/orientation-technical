@@ -1,10 +1,25 @@
 # lorem ipsum
 
+## Goal for Today
+![](luke-training)
+![](luke-battle)
+
 ## Motivation
 ![](brown-tests.png)
 ![](deskill-lancet.png)
 
+## Specific Goals
+**1. Show you the gym equipment**
+* Review AI Coding Terminology 
+* Contex
+* Skills
 
+**2. Give you a workout plan**
+* Definition Practice
+* Coding Practice
+
+
+# lorem ipsum
 
 ## Jargon
 "Claude Code is an agentic assistant"
@@ -12,8 +27,6 @@
 .claude folder
 
 commands and `/`
-
-## something
 
 ## Context
 How Claude remembers your project
@@ -55,7 +68,6 @@ description: REST API design conventions for our services
 - Version APIs in the URL path (/v1/, /v2/)
 ```
 
-## MCP
 
 
 
@@ -68,7 +80,12 @@ description: REST API design conventions for our services
 
 
 samirgrovermd.substack.com/p/neverskilling
-## References
+
+
+
+
+
+# References
 * Berzin & Topol, Preserving clinical skills in the age of AI assistance, The Lancet, 18 Oct 2025 (406:1719, PMID 41109709)
 * https://discovery.phys.virginia.edu/~bkw1a/
 
