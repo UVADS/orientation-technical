@@ -40,11 +40,11 @@
 
 ![](agent-equation.png)
 
-| Generic term | Claude version | Meaning | Motivation / When to use |
+| Generic term | Claude version | Meaning | Note |
 |---|---|---|---|
-| Model | Claude |||
-| Agent | Claude Code |||
-| Harness | Claude Agent SDK (was Claude Code SDK Jan-Sep 2025)| | |
+| Model | Claude |LLM|Token Prediction|
+| Agent | Claude Code |(see equation)||
+| Harness | Claude Agent SDK (was Claude Code SDK Jan-Sep 2025)| Manages the Loop| |
 | Coding Agent | Claude Code | agentic coding solution | originally built to support developer productivity at Anthropic |
 
 ### Context
@@ -58,9 +58,9 @@ How Claude remembers your project - https://code.claude.com/docs/en/memory
 
 | Generic term | Claude version | Meaning | Motivation / When to use |
 |---|---|---|---|
-| Context ||||
-| | Auto Memory|||
-| Workspace | Project |||
+| Context | n/a |||
+| Workspace | Project |Context Boundary||
+| Persistent/Agent/Long-term/Cross-session Memory | Auto Memory|Persistent instructions|loaded as context at start of conversation|
 
 
 ### Extensions
@@ -69,8 +69,8 @@ How Claude remembers your project - https://code.claude.com/docs/en/memory
 
 | Generic term | Claude version | Meaning | Motivation / When to use |
 |---|---|---|---|
-| Skill | | ||
-| Command | `/` |||
+| Skill | Skill |reusable knowledge and invocable workflows|repeated tasks|
+| Command | `/` |shortcut to trigger an action|e.g. `/model` to switch model|
 | CLAUDE.md ||||
 | Model Context Protocol (MCP) | |standardized integrations to external services|e.g. search slack messages|
 
