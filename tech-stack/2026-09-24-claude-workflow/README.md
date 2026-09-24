@@ -96,7 +96,7 @@ You could just put it all into CLAUDE.md but ... that costs
 > "A skill is a markdown file"
 
 
-> ![NOTE]
+> [!NOTE]
 > "Skills extend Claude’s knowledge with information specific to your project, team, or domain. Claude applies them automatically when relevant, or you can invoke them directly"
 
 ### Anatomy
@@ -112,7 +112,8 @@ You could just put it all into CLAUDE.md but ... that costs
 > [!Note]
 >
 > .claude/skills/api-conventions/SKILL.md
-> ```---
+> ```
+> ---
 > name: api-conventions
 > description: REST API design conventions for our services
 > ---
