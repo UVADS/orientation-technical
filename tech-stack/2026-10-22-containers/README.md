@@ -67,6 +67,18 @@ example from https://github.com/mfriedel/DS6021_F26 https://github.com/mfriedel/
 
 
 ## Enter Docker
+
+Jargon
+* Docker - software
+* Docker, Inc. - company
+* Docker Account - something you need to access .....
+* Docker Hub - where the goods are at
+* Docker Desktop - the app on your machine you use to control it all
+
+
+
+
+
 <img src="docker-architecture.webp" width="100%">
 
 ### Jargon
@@ -78,7 +90,7 @@ example from https://github.com/mfriedel/DS6021_F26 https://github.com/mfriedel/
 
 
 
-### Tasty Metaphor
+### Tasty Metaphor - Image v Container
 <img src="bacon.jpg" width="100%">
 
 
@@ -86,29 +98,10 @@ example from https://github.com/mfriedel/DS6021_F26 https://github.com/mfriedel/
 
 
 
-<img src="Docker_Logo.svg.webp" width="50%">
-
-<img src="Kubernetes_logo_without_workmark.svg.webp" width="50%">
 
 
 
 
-Docker Desktop App
-Docker Account
-
-
-## Container Sequence
-https://docs.docker.com/get-started/docker-overview/
-https://uvads.github.io/container-basics/
-[dotScale 2013 - Solomon Hykes - Why we built Docker](https://www.youtube.com/watch?v=3N3n9FzebAA)
-
-### Images v Containers
-
-metaphor Image:Recipie::Container:Food
-
-Exploring Docker Desktop
-images -> layers (use joke and compare to dockerfile)
-containers -> files (use welcome to docker and compare to unix file system)
 
 # How to practice
 1. Work the docs "Getting Started" -- [https://www.docker.com/trainings/](https://www.docker.com/trainings/)
@@ -137,19 +130,10 @@ containers -> files (use welcome to docker and compare to unix file system)
 
 
 
-# everything below here will go away before tlak time
-------- jargon to make sure we cover
-
-Docker "Docker distributes applications in images." ~docs.docker.com
+# If we have time
 Kubernetes. -"Docker is a container runtime technology that allows you to build, test, and deploy applications faster than traditional methods. It packages software into standardized units called containers with everything the software needs to run—including libraries, system tools, and code. Kubernetes is a container orchestration tool that allows you to scale your container systems so you can manage, coordinate and schedule containers at a vast scale." ~ [aws.amazon.com](https://aws.amazon.com/compare/the-difference-between-kubernetes-and-docker/)
-Docker, Inc.
-Docker Hub
-Dockerfile
-Docker Desktop
-Solomon Hykes
 
+<img src="Docker_Logo.svg.webp" width="50%">
 
-
-
-
+<img src="Kubernetes_logo_without_workmark.svg.webp" width="50%">
 
