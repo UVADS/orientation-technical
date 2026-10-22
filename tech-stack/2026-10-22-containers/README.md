@@ -37,6 +37,13 @@ https://docs.docker.com/get-started/docker-overview/
 https://uvads.github.io/container-basics/
 [dotScale 2013 - Solomon Hykes - Why we built Docker](https://www.youtube.com/watch?v=3N3n9FzebAA)
 
+### Images v Containers
+
+metaphor Image:Recipie::Container:Food
+
+Exploring Docker Desktop
+images -> layers (use joke and compare to dockerfile)
+containers -> files (use welcome to docker and compare to unix file system)
 
 # How to practice
 1. Work the docs "Getting Started" -- [https://www.docker.com/trainings/](https://www.docker.com/trainings/)
