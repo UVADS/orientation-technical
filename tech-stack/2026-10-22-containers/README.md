@@ -37,10 +37,17 @@ https://uvads.github.io/container-basics/
     * Share that image
   
 
+# References
+1. What is Docker - https://docs.docker.com/get-started/docker-overview/
+2. Build and share a containerized application - https://docs.docker.com/get-started/tutorials/run-an-app/
+3. Containers in Data Science - https://uvads.github.io/container-basics/
+4. [dotScale 2013 - Solomon Hykes - Why we built Docker](https://www.youtube.com/watch?v=3N3n9FzebAA)
 
 
 
-------- jargon
+
+# everything below here will go away before tlak time
+------- jargon to make sure we cover
 
 Docker "Docker distributes applications in images." ~docs.docker.com
 Kubernetes. -"Docker is a container runtime technology that allows you to build, test, and deploy applications faster than traditional methods. It packages software into standardized units called containers with everything the software needs to run—including libraries, system tools, and code. Kubernetes is a container orchestration tool that allows you to scale your container systems so you can manage, coordinate and schedule containers at a vast scale." ~ [aws.amazon.com](https://aws.amazon.com/compare/the-difference-between-kubernetes-and-docker/)
@@ -59,3 +66,7 @@ virtualization - turn a physical resource into multiple logical resources
 virtual environment - uses the same kernel
 container - os-level virtualization
 virtual machine - running a separate kernel in a logical allocation
+
+
+
+
