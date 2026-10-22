@@ -2,6 +2,7 @@
 ## Motivation
 ## Goals
 ## CONTENT
+![](Docker_Logo.svg.webp)
 ## Workout Plan
 ## References
 
