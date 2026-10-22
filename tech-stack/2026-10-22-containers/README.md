@@ -66,15 +66,25 @@ example from https://github.com/mfriedel/DS6021_F26 https://github.com/mfriedel/
 
 
 
-### High level schematic
+## Enter Docker
 <img src="docker-architecture.webp" width="100%">
+
+### Jargon
+* image
+* container "A container is a running instance of an image." ~docs.docker.com
+* layer
+* Dockerfile
+
+
+
 
 ### Tasty Metaphor
 <img src="bacon.jpg" width="100%">
 
-### Applications
-1. Devcontainers
-2. Local Databases
+
+
+
+
 
 <img src="Docker_Logo.svg.webp" width="50%">
 
@@ -138,10 +148,6 @@ Dockerfile
 Docker Desktop
 Solomon Hykes
 
-image
-container "A container is a running instance of an image." ~docs.docker.com
-layer
-Dockerfile
 
 
 
