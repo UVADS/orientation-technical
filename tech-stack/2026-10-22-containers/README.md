@@ -4,6 +4,8 @@
 <img src="s3.png" width="50%">
 <img src="s4.png" width="50%">
 
+<img src="hykes.png" width="50%">
+
 ## Motivation
 
 <img src="hpc-preamble.png" width="50%">
