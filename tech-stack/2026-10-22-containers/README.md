@@ -32,7 +32,7 @@ https://uvads.github.io/container-basics/
 ------- jargon
 
 Docker "Docker distributes applications in images." ~docs.docker.com
-Kubernetes
+Kubernetes. -"Docker is a container runtime technology that allows you to build, test, and deploy applications faster than traditional methods. It packages software into standardized units called containers with everything the software needs to run—including libraries, system tools, and code. Kubernetes is a container orchestration tool that allows you to scale your container systems so you can manage, coordinate and schedule containers at a vast scale." ~ [aws.amazon.com](https://aws.amazon.com/compare/the-difference-between-kubernetes-and-docker/)
 Docker, Inc.
 Docker Hub
 Dockerfile
@@ -44,5 +44,7 @@ container "A container is a running instance of an image." ~docs.docker.com
 layer
 Dockerfile
 
-virtualization
-virtual environment
+virtualization - turn a physical resource into multiple logical resources
+virtual environment - uses the same kernel
+container - os-level virtualization
+virtual machine - running a separate kernel in a logical allocation
