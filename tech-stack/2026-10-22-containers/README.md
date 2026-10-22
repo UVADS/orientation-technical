@@ -2,6 +2,9 @@
 Docker Desktop App
 Docker Account
 
+## Environments
+https://github.com/mfriedel/DS6021_F26
+
 ## Container Sequence
 https://docs.docker.com/get-started/docker-overview/
 https://uvads.github.io/container-basics/
