@@ -1,10 +1,9 @@
 ## Preamble
 ## Motivation
-![](hpc-preamble.png)
+<img src="hpc-preamble.png" width="50%">
 ## Goals
 ## CONTENT
-![](Docker_Logo.svg.webp)
-![](Kubernetes_logo_without_workmark.svg.webp)
+<img src="Docker_Logo.svg.webp" width="50%">
 <img src="Kubernetes_logo_without_workmark.svg.webp" width="50%">
 ## Workout Plan
 ## References
