@@ -48,9 +48,9 @@ example from https://github.com/mfriedel/DS6021_F26 https://github.com/mfriedel/
 
 |                                                  | Technology              | Common name | Isolates       |
 |--------------------------------------------------|-------------------------|-------------|----------------|
-| <img src="uv" width="40" alt="uv">         | Virtual environment     | venv        | Packages       |
+| <img src="uv.png" width="40" alt="uv">         | Virtual environment     | venv        | Packages       |
 | <img src="Docker_Logo.svg.webp" width="40" alt="Docker"> | OS-level virtualization | Container   | + User space   |
-| <img src="vmw" width="40" alt="VMware"> | Virtual machine         | VM          | + Kernel space |
+| <img src="vmw.webp" width="40" alt="VMware"> | Virtual machine         | VM          | + Kernel space |
 
 ## But for multiple applications Enter Docker
 ### High level schematic
