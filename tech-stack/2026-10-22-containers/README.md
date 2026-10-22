@@ -4,21 +4,38 @@
 <img src="s3.png" width="50%">
 <img src="s4.png" width="50%">
 
-<img src="hykes.png" width="50%">
+<!-- <img src="hykes.png" width="50%"> -->
+
+## Goal
+**Today:** Recognize when to use a container
+* Jargon
+* Examples
+
+**Tomorrow:** Practice, Practice, Practice
+* Tutorial
+* Workout Plan
+
 
 ## Motivation
 
 <img src="hpc-preamble.png" width="50%">
 
+<!--
 another example is when you want to work but you don't have your machine so the configuration isn't the way you like it
 
 another example is how i use cloud tools because they behave the same on every machine because they don't run local (problem of latency)
 
 example from https://github.com/mfriedel/DS6021_F26 https://github.com/mfriedel/DS6021_F26#python-environment-setup -- this section is all about getting requirements.txt to work but ....... the problem can be bigger ...... the concept of containers lets us package up one level ...... os level virtualization
+-->
 
-## Goals
+### Environment Example DS 6021
+https://github.com/mfriedel/DS6021_F26
+
+
+
+
 ## CONTENT
-
+### jargon
 ### Applications
 1. Devcontainers
 2. Local Databases
@@ -27,16 +44,12 @@ example from https://github.com/mfriedel/DS6021_F26 https://github.com/mfriedel/
 
 <img src="Kubernetes_logo_without_workmark.svg.webp" width="50%">
 
-## Workout Plan
-## References
 
 
 
 Docker Desktop App
 Docker Account
 
-## Environments
-https://github.com/mfriedel/DS6021_F26
 
 ## Container Sequence
 https://docs.docker.com/get-started/docker-overview/
