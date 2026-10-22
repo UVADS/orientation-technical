@@ -34,9 +34,11 @@ example from https://github.com/mfriedel/DS6021_F26 https://github.com/mfriedel/
 
 
 
-## CONTENT
-### jargon
+## Enter Docker
+### High level schematic
 <img src="docker-architecture.webp" width="100%">
+
+### Tasty Metaphor
 <img src="bacon.jpg" width="100%">
 
 ### Applications
