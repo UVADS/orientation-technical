@@ -1,3 +1,11 @@
+## Preamble
+## Motivation
+## Goals
+## CONTENT
+## Workout Plan
+## References
+
+
 
 Docker Desktop App
 Docker Account
