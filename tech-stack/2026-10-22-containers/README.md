@@ -10,6 +10,12 @@
 
 <img src="hpc-preamble.png" width="50%">
 
+another example is when you want to work but you don't have your machine so the configuration isn't the way you like it
+
+another example is how i use cloud tools because they behave the same on every machine because they don't run local (problem of latency)
+
+example from https://github.com/mfriedel/DS6021_F26 https://github.com/mfriedel/DS6021_F26#python-environment-setup -- this section is all about getting requirements.txt to work but ....... the problem can be bigger ...... the concept of containers lets us package up one level ...... os level virtualization
+
 ## Goals
 ## CONTENT
 
