@@ -5,6 +5,7 @@
 ## CONTENT
 ![](Docker_Logo.svg.webp)
 ![](Kubernetes_logo_without_workmark.svg.webp)
+<img src="Kubernetes_logo_without_workmark.svg.webp" width="50%">
 ## Workout Plan
 ## References
 
