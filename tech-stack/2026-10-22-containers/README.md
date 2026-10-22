@@ -28,13 +28,14 @@ another example is how i use cloud tools because they behave the same on every m
 example from https://github.com/mfriedel/DS6021_F26 https://github.com/mfriedel/DS6021_F26#python-environment-setup -- this section is all about getting requirements.txt to work but ....... the problem can be bigger ...... the concept of containers lets us package up one level ...... os level virtualization
 -->
 
+### If all you're worried about it python
 ### Environment Example DS 6021
 [https://github.com/mfriedel/DS6021_F26#python-environment-setup](https://github.com/mfriedel/DS6021_F26#python-environment-setup)
 
 
 
 
-## Enter Docker
+## But for multiple applications Enter Docker
 ### High level schematic
 <img src="docker-architecture.webp" width="100%">
 
