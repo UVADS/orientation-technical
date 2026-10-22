@@ -29,7 +29,7 @@ example from https://github.com/mfriedel/DS6021_F26 https://github.com/mfriedel/
 -->
 
 ### Environment Example DS 6021
-https://github.com/mfriedel/DS6021_F26
+[https://github.com/mfriedel/DS6021_F26#python-environment-setup](https://github.com/mfriedel/DS6021_F26#python-environment-setup)
 
 
 
