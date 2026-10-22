@@ -42,13 +42,30 @@ example from https://github.com/mfriedel/DS6021_F26 https://github.com/mfriedel/
 ## Jargon - Virtualization
 * virtualization - turn a physical resource into multiple logical resources - progressive isolation
 
-|                                                  | Technology              | Common name | Isolates       | Weight |
+|                                                  | Technology              | Generic Term | Isolates       | Weight |
 |--------------------------------------------------|-------------------------|-------------|----------------|--------|
 | <img src="uv.png" width="40" alt="uv">         | Virtual environment     | venv        | Packages       | Light (MBs)|
 | <img src="Docker_Logo.svg.webp" width="40" alt="Docker"> | OS-level virtualization | Container   | + User space   | Medium (10s of MBs)|
 | <img src="vmw.webp" width="40" alt="VMware"> | Virtual machine         | VM          | + Kernel space | Heavy (GBs) |
 
-## But for multiple applications Enter Docker
+* select the level you need based on the job
+
+## Example - A Local Database
+
+* Without Containers
+    1. Download and install
+    2. Initialize
+    3. Start the server
+    4. Configure environment variables
+    5. Set up user/pass situation
+    6. Connect
+
+* With containers
+    1. docker run -d --name redis -p 6379:6379 redis:latest
+    2. connect (redis-cli -h 127.0.0.1 -p 6379)
+
+
+
 ### High level schematic
 <img src="docker-architecture.webp" width="100%">
 
