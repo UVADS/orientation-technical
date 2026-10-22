@@ -6,6 +6,10 @@
 ## Goals
 ## CONTENT
 
+### Applications
+1. Devcontainers
+2. Local Databases
+
 <img src="Docker_Logo.svg.webp" width="50%">
 
 <img src="Kubernetes_logo_without_workmark.svg.webp" width="50%">
