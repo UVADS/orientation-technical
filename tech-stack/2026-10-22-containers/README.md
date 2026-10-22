@@ -36,6 +36,8 @@ https://github.com/mfriedel/DS6021_F26
 
 ## CONTENT
 ### jargon
+<img src="docker-architecture.webp" width="50%">
+
 ### Applications
 1. Devcontainers
 2. Local Databases
