@@ -41,16 +41,12 @@ example from https://github.com/mfriedel/DS6021_F26 https://github.com/mfriedel/
 
 ## Jargon - Virtualization
 * virtualization - turn a physical resource into multiple logical resources - progressive isolation
-    * virtual environment - "venv" - isolates packages
-    * os-level virtualization - "container" - + user space
-    * virtual machine - "VM" - + kernel space
 
-
-|                                                  | Technology              | Common name | Isolates       |
-|--------------------------------------------------|-------------------------|-------------|----------------|
-| <img src="uv.png" width="40" alt="uv">         | Virtual environment     | venv        | Packages       |
-| <img src="Docker_Logo.svg.webp" width="40" alt="Docker"> | OS-level virtualization | Container   | + User space   |
-| <img src="vmw.webp" width="40" alt="VMware"> | Virtual machine         | VM          | + Kernel space |
+|                                                  | Technology              | Common name | Isolates       | Weight |
+|--------------------------------------------------|-------------------------|-------------|----------------|--------|
+| <img src="uv.png" width="40" alt="uv">         | Virtual environment     | venv        | Packages       | Light (MBs)|
+| <img src="Docker_Logo.svg.webp" width="40" alt="Docker"> | OS-level virtualization | Container   | + User space   | Medium (10s of MBs)|
+| <img src="vmw.webp" width="40" alt="VMware"> | Virtual machine         | VM          | + Kernel space | Heavy (GBs) |
 
 ## But for multiple applications Enter Docker
 ### High level schematic
