@@ -35,11 +35,22 @@ another example is how i use cloud tools because they behave the same on every m
 example from https://github.com/mfriedel/DS6021_F26 https://github.com/mfriedel/DS6021_F26#python-environment-setup -- this section is all about getting requirements.txt to work but ....... the problem can be bigger ...... the concept of containers lets us package up one level ...... os level virtualization
 -->
 
-### If all you're worried about it python ... a virtual environment is enough
+### If all you're worried about it python ... a virtual environment is usually enough
 ### Example DS 6021 - [https://github.com/mfriedel/DS6021_F26#python-environment-setup](https://github.com/mfriedel/DS6021_F26#python-environment-setup)
 
 
+## Jargon - Virtualization
+* virtualization - turn a physical resource into multiple logical resources - progressive isolation
+    * virtual environment - "venv" - isolates packages
+    * os-level virtualization - "container" - + user space
+    * virtual machine - "VM" - + kernel space
 
+
+|                                                  | Technology              | Common name | Isolates       |
+|--------------------------------------------------|-------------------------|-------------|----------------|
+| <img src="uv" width="40" alt="uv">         | Virtual environment     | venv        | Packages       |
+| <img src="Docker_Logo.svg.webp" width="40" alt="Docker"> | OS-level virtualization | Container   | + User space   |
+| <img src="vmw" width="40" alt="VMware"> | Virtual machine         | VM          | + Kernel space |
 
 ## But for multiple applications Enter Docker
 ### High level schematic
@@ -119,10 +130,6 @@ container "A container is a running instance of an image." ~docs.docker.com
 layer
 Dockerfile
 
-virtualization - turn a physical resource into multiple logical resources
-virtual environment - uses the same kernel
-container - os-level virtualization
-virtual machine - running a separate kernel in a logical allocation
 
 
 
