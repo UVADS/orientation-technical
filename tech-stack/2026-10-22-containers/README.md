@@ -1,3 +1,11 @@
+# Containers and Environments
+<img src="hpc-preamble.png" width="50%">
+
+
+
+
+
+
 ## Preamble
 <img src="s1.png" width="50%">
 <img src="s2.png" width="50%">
@@ -18,7 +26,6 @@
 
 ## Motivation
 
-<img src="hpc-preamble.png" width="50%">
 
 <!--
 another example is when you want to work but you don't have your machine so the configuration isn't the way you like it
@@ -28,9 +35,8 @@ another example is how i use cloud tools because they behave the same on every m
 example from https://github.com/mfriedel/DS6021_F26 https://github.com/mfriedel/DS6021_F26#python-environment-setup -- this section is all about getting requirements.txt to work but ....... the problem can be bigger ...... the concept of containers lets us package up one level ...... os level virtualization
 -->
 
-### If all you're worried about it python
-### Environment Example DS 6021
-[https://github.com/mfriedel/DS6021_F26#python-environment-setup](https://github.com/mfriedel/DS6021_F26#python-environment-setup)
+### If all you're worried about it python ... a virtual environment is enough
+### Example DS 6021 - [https://github.com/mfriedel/DS6021_F26#python-environment-setup](https://github.com/mfriedel/DS6021_F26#python-environment-setup)
 
 
 
