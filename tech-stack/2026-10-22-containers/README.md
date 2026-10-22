@@ -37,6 +37,7 @@ https://github.com/mfriedel/DS6021_F26
 ## CONTENT
 ### jargon
 <img src="docker-architecture.webp" width="100%">
+<img src="bacon.jpg" width="100%">
 
 ### Applications
 1. Devcontainers
