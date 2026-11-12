@@ -10,13 +10,13 @@
 
 ## Goal
 **Today:** The on-ramp
-* History
+* History and Motivation
 * Motivation
 * Jargon
 * Under the hood
 * GitHub is social media
 * The standard workflow
-* Live demo
+* Live demo and Q&A
 
 **"Tomorrow":** Practice, Practice, Practice
 * [GitHub badge](../../badges/github.md)
@@ -34,7 +34,7 @@
 ### Timeline
 | Year | Event | Motivation |
 |---|---|---|
-| **2005** | Linus Torvalds writes git | necessity and philosophy [ai take](wg)|
+| **2005** | Linus Torvalds writes git | necessity and philosophy [ai take](wg.md)|
 | **2008** | GitHub launches | add social layer to git |
 | **2012** | 100M$ Series A raise (first external funds) | :eyes: |
 | **2018** | Microsoft buys GitHub for $7.5B | :eyes:     :eyes: |
@@ -101,18 +101,19 @@ flowchart TB
 
 ### Core git commands
 
-| Command | What it does | Dangerous |
-|---|---|---|
-| `git clone` | make a local copy of a repo | no |
-| `git status` | state of the repository | No |
-| `git add` | stage changes | No |
-| `git commit` | save changes (in repo) | No |
-| `git push` | synch changes to remote | Yes |
-| `git pull` | synch changes from repote | Yes |
+| Command | What it does | 
+|---|---|
+| `git clone` | make a local copy of a repo | 
+| `git status` | state of the repository | 
+| `git add` | stage changes | 
+| `git commit` | save changes (in repo) | 
+| `git push` | synch changes to remote | 
+| `git pull` | synch changes from repote | 
 
 ### Major Workflow Challenges
-1. The so-called **triple save**
+1. The so-called **"triple save"**
 2. Local v remote
+3. social media trap .....
 
 ## GitHub is Social Media
 
@@ -120,7 +121,7 @@ flowchart TB
 2. You give that tech company a ton of info and let it crawl all over your computer
 3. Whenever you want to tell your "friends" about something you send them a GitHub instead of calling them
 4. You share source code .... instead of pictures of avocado toast.
-5. If you're really good at GitHub it can help you get a job. (This parralel one hurts my soul)
+5. If you're really good at GitHub it can help you get a job. (This parallel hurts my soul)
 
 
 **Put yourself on high alert.** All the pitfalls of social media lurk just under the surface.
@@ -133,7 +134,7 @@ flowchart TB
 * **Blue box** - pinned repositories, what you choose to highlight
 * **Red box** - the commit graph - **WARNING!!!**
 
-#### Data science side exercise for the student on your own time
+#### [on your own time] Data science exercise 
 <img src="../../content/images/petes-commits.png" width="70%" alt="A commit graph">
 
 1. What questions **can** we answer from this data?
