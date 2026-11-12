@@ -85,18 +85,7 @@ Understanding the relationship between git and GitHub
 * **git** sends messages back and forth at your command.
 * **git** maintains two independed repositories (local and remote)
 
-```mermaid
-flowchart LR
-    subgraph local [Your computer - git]
-        W[Working directory] -->|git add| S[Staging area]
-        S -->|git commit| L[Local repo]
-    end
-    subgraph cloud [The cloud - GitHub]
-        R[(Remote repo)]
-    end
-    L -->|git push| R
-    R -->|git pull| W
-```
+
 ```mermaid
 flowchart TB
     subgraph local [Your computer - git]
@@ -122,21 +111,30 @@ flowchart TB
 | `git push` | synch changes to remote | Yes |
 | `git pull` | synch changes from repote | Yes |
 
-A challenge is the so-called **triple save**
+### Major Workflow Challenges
+1. The so-called **triple save**
+2. Local v remote
 
 ## GitHub is Social Media
+
+1. You make a profile with a tech company that got venture capital funding and made a multi billion dollar exit
+2. You give that tech company a ton of info and let it crawl all over your computer
+3. Whenever you want to tell your "friends" about something you send them a GitHub instead of calling them
+4. You share source code .... instead of pictures of avocado toast.
+5. If you're really good at GitHub it can help you get a job. (This parralel one hurts my soul)
+
 
 **Put yourself on high alert.** All the pitfalls of social media lurk just under the surface.
 
 ### Let's look at a profile
 <!-- https://github.com/UVADS/orientation-technical/blob/main/workshops/zzold/lessons/arXiv/lesson-github.md -->
-<img src="../../content/images/developer-profile-markedup.png" width="60%" alt="A GitHub profile, marked up">
+<img src="../../content/images/developer-profile-markedup.png" width="80%" alt="A GitHub profile, marked up">
 
 * **Black box** - contact info
 * **Blue box** - pinned repositories, what you choose to highlight
 * **Red box** - the commit graph - **WARNING!!!**
 
-### Data science thinking time - the commit graph
+#### Data science side exercise for the student on your own time
 <img src="../../content/images/petes-commits.png" width="70%" alt="A commit graph">
 
 1. What questions **can** we answer from this data?
@@ -144,9 +142,8 @@ A challenge is the so-called **triple save**
 3. What additional data would move a question from 2 to 1?
 
 ### Bend it to your purpose
-* **Portfolio** - pin your best work, write the README
-* **Networking** - follow faculty, alumni, projects you use
-* **Shields up** - profiles can discourage and intimidate. Have a friend to talk to.
+* **Portfolio** - pin your best work, think about the point of view
+* **Networking** - follow faculty, alumni; put on resume / business cards 
 
 
 ## The Standard Workflow
@@ -155,14 +152,14 @@ You are a data scientist. This is the loop you will see every day.
 
 ![](workflow-simple.png)
 
-| Step | What you do | Whose word |
+| Step | | jargon |
 |---|---|---|
-| 1. **Fork** | Not your repo? Make your own copy first | GitHub |
-| 2. **Branch** | Step off of main | git |
-| 3. **Commit** | Save points | git |
-| 4. **Pull request** | Ask to come back | GitHub |
-| 5. **Review** | A human (or an agent) looks | GitHub |
-| 6. **Merge** | Back on main | git |
+| 1. **Fork** | developer makes a copy | GitHub |
+| 2. **Branch** | dev makes new line | git |
+| 3. **Commit** | dev devs | git |
+| 4. **Pull request** | dev announces start of conversation | GitHub |
+| 5. **Review** | dev and owner discuss |  |
+| 6. **Merge** | owner pulls in changes | git |
 
 * Your own repo? Skip step 1.
 
