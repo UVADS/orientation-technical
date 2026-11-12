@@ -130,7 +130,8 @@ pie showData
 
 **Put yourself on high alert.** All the pitfalls of social media lurk just under the surface.
 
-### Let's look at a profile - [github.com/alonzi](https://github.com/alonzi)
+### Let's look at a profile
+<!-- https://github.com/UVADS/orientation-technical/blob/main/workshops/zzold/lessons/arXiv/lesson-github.md -->
 <img src="../../content/images/developer-profile-markedup.png" width="60%" alt="A GitHub profile, marked up">
 
 * **Black box** - contact info
