@@ -160,42 +160,29 @@ You are a data scientist. This is the loop you will see every day.
 | 5 |**Review** | dev and owner discuss |  |
 | 6 |**Merge** | owner pulls in changes | git |
 
-### A more complicated graphic
+### Example repository state
 ![](workflow-complex.png)
 
-## Live Demo
-* README
-* Commits and history
-* Blame
-* Branches
-* Issues
-* Pull requests
-* Edit a file in the browser &rarr; commit &rarr; PR
-* Insights
+## Live Demo  and Q&A
+* Tool around the GitHub website
+* Tool around the terminal interface
 
 
 ## Homework
-<a href="../../badges/github.md"><img src="../../content/images/github-badge.png" alt="GitHub badge"></a>
+
 
 
 **"Tomorrow":** Practice, Practice, Practice
-* [GitHub badge](../../badges/github.md)
+* [GitHub badge](../../badges/github.md) <a href="../../badges/github.md"><img src="../../content/images/github-badge.png" width="15%" alt="GitHub badge"></a>
 * Work on a side project using GitHub
 * Work on an open source project [Ambitious]
-<!-- TODO: add the rest of tomorrow's plan here -->
 
 
 
 
 # When in doubt, see the [Preamble](#preamble)
 
-## To-do
-*Speaker notes - remove before the talk.*
 
-- [ ] **Software, not data** - git is version control for software and GitHub hosts software. Neither is where the data lives. Find the right moment in the talk for this.
-- [ ] **Commit graph questions** - this is a presentation, not a workshop. Decide how to deliver the three questions. The old lesson had a fourth: what data would make the answers to question 1 more accurate?
-- [ ] **"Think of it as" column** - rewrite, it can be better.
-- [ ] **Workflow graphic** - find one made by GitHub. Candidate: the [GitHub flow picture on Microsoft Learn](https://learn.microsoft.com/en-sg/training/modules/introduction-to-github/3-components-of-github-flow). Check reuse terms before embedding.
 
 # Sources
 * github workflow figure - https://learn.microsoft.com/en-sg/training/modules/introduction-to-github/3-components-of-github-flow
