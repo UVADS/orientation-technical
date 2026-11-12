@@ -21,22 +21,28 @@
 **"Tomorrow":** Practice, Practice, Practice
 * [GitHub badge](../../badges/github.md)
 * Work on a side project using GitHub
-* Work on an open source project (Ambitious)
+* Work on an open source project [Ambitious]
 <!-- TODO: add the rest of tomorrow's plan here -->
 
 
-## History
+## Motivation and History
 
+### Why GitHub
+
+1. **Collaboration** - the industry standard for working on code together
+2. **Portfolio** - show off the work you did
+
+### Timeline
 | Year | Event | Motivation |
 |---|---|---|
 | **2005** | Linus Torvalds writes git | necessity and philosophy [ai take](wg)|
 | **2008** | GitHub launches | add social layer to git |
 | **2012** | 100M$ Series A raise (first external funds) | :eyes: |
-| **2018** | Microsoft buys GitHub for $7.5B | :eyes: :eyes: |
+| **2018** | Microsoft buys GitHub for $7.5B | :eyes:     :eyes: |
 | **2021** | GitHub Copilot | AI integration |
 | **2026** | AI agents open over 40% of pull requests | |
 
-<a href="always.jpg"><img src="always.jpg" width="35%" alt=""></a>
+<a href="always.jpg"><img src="always.jpg" width="70%" alt=""></a>
 
 
 ### Today's Landscape for Social Coding
@@ -51,15 +57,11 @@ pie showData
 
 
 
-## Motivation - Two Birds, One Stone
-
-1. **Collaboration** - the industry standard for working on code together
-2. **Portfolio** - show off the work you did
 
 
 ## Jargon
 
-| | Term | What it is |
+| Logo | Term | What it is |
 |---|---|---|
 | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="32" alt="git logo"> | **git** | Software - version control |
 | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height="32" alt="GitHub logo"> | **GitHub** | Company - owned by Microsoft |
