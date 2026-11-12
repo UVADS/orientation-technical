@@ -82,9 +82,8 @@ pie showData
 Understanding the relationship between git and GitHub
 * **git** runs on your computer.
 * **git** runs on the **GitHub** servers.
-* **git** sends messages back and forth as your command.
+* **git** sends messages back and forth at your command.
 * **git** maintains two independed repositories (local and remote)
-communicates with git on the **GitHub** servers.
 
 ```mermaid
 flowchart LR
@@ -98,18 +97,32 @@ flowchart LR
     L -->|git push| R
     R -->|git pull| W
 ```
+```mermaid
+flowchart TB
+    subgraph local [Your computer - git]
+        direction LR
+        W[Working directory] -->|git add| S[Staging area]
+        S -->|git commit| L[Local repo]
+    end
+    subgraph cloud [The cloud - GitHub]
+        R[(Remote repo)]
+    end
+    L -->|git push| R
+    R -->|git pull| W
+```
 
-### The few moves
+### Core git commands
 
-| Command | What it does | Talks to GitHub? |
+| Command | What it does | Dangerous |
 |---|---|---|
-| `git clone` | Get a copy | Yes |
-| `git status` | Where am I? | No |
-| `git add` | Stage it | No |
-| `git commit` | Save point | No |
-| `git push` | Send it up | Yes |
-| `git pull` | Bring it down | Yes |
+| `git clone` | make a local copy of a repo | no |
+| `git status` | state of the repository | No |
+| `git add` | stage changes | No |
+| `git commit` | save changes (in repo) | No |
+| `git push` | synch changes to remote | Yes |
+| `git pull` | synch changes from repote | Yes |
 
+A challenge is the so-called **triple save**
 
 ## GitHub is Social Media
 
