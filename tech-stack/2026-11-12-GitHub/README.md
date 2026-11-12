@@ -149,6 +149,8 @@ flowchart LR
 
 You are a data scientist. This is the loop you will see every day.
 
+![](workflow-simple.png)
+
 | Step | What you do | Whose word |
 |---|---|---|
 | 1. **Fork** | Not your repo? Make your own copy first | GitHub |
@@ -162,6 +164,7 @@ You are a data scientist. This is the loop you will see every day.
 
 <!-- TODO: workflow graphic goes here - see To-do -->
 
+![](workflow-complex.png)
 
 ## Live Demo - Clicking on Everything
 * README
@@ -189,5 +192,7 @@ You are a data scientist. This is the loop you will see every day.
 - [ ] **Commit graph questions** - this is a presentation, not a workshop. Decide how to deliver the three questions. The old lesson had a fourth: what data would make the answers to question 1 more accurate?
 - [ ] **"Think of it as" column** - rewrite, it can be better.
 - [ ] **Workflow graphic** - find one made by GitHub. Candidate: the [GitHub flow picture on Microsoft Learn](https://learn.microsoft.com/en-sg/training/modules/introduction-to-github/3-components-of-github-flow). Check reuse terms before embedding.
-- [ ] **Tomorrow** - add the rest of the plan to the Goal section.
-- [ ] **Logos** - confirm the three jargon logos render on github.com.
+
+# Sources
+* github workflow figure - https://learn.microsoft.com/en-sg/training/modules/introduction-to-github/3-components-of-github-flow
+* github workflow figure - https://izymes.com/wp-content/uploads/2022/06/pr-dependencies-git-flow.png    
