@@ -67,19 +67,24 @@ pie showData
 | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height="32" alt="GitHub logo"> | **GitHub** | Company - owned by Microsoft |
 | <img src="https://github.com/fluidicon.png" height="32" alt="github.com icon"> | **github.com** | Website - the front end |
 
-| Term | Belongs to | Think of it as |
+| Term | Source | Note |
 |---|---|---|
-| repository (repo) | git | Project folder + its whole history |
-| commit | git | A save point with a note |
-| branch | git | A parallel timeline |
-| fork | GitHub | Your own copy of someone else's repo |
-| pull request (PR) | GitHub | "Please take my changes" |
-| README | General computing | The welcome mat |
+| repository (repo) | git | folder full of files (source code and metadata) |
+| README | General computing | first thing someone sees in a repo |
+| GFM | GitHub | GitHub flavored markdown)
+| commit | git | a state of the repository |
+| branch | git | an independent line of commits |
+| fork | GitHub | your copy of someone else's repo |
+| pull request (PR) | GitHub | message from your repo back to the original |
 
 
 ## Under the Hood
-
-**git** runs on your computer. **GitHub** is the copy in the cloud.
+Understanding the relationship between git and GitHub
+* **git** runs on your computer.
+* **git** runs on the **GitHub** servers.
+* **git** sends messages back and forth as your command.
+* **git** maintains two independed repositories (local and remote)
+communicates with git on the **GitHub** servers.
 
 ```mermaid
 flowchart LR
