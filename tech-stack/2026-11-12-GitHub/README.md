@@ -5,50 +5,44 @@
 
 *[xkcd 1597](https://xkcd.com/1597/) by Randall Munroe, CC BY-NC 2.5*
 
-**Nobody memorizes git.** Know a few moves. When it breaks, start over.
+**Nobody memorizes git.**
 
 
 ## Goal
 **Today:** The on-ramp
-* History and motivation
+* History
+* Motivation
 * Jargon
+* Under the hood
 * GitHub is social media
 * The standard workflow
-* A peek under the hood
+* Live demo
 
 **Tomorrow:** Practice, Practice, Practice
 * [GitHub badge](../../badges/github.md)
+<!-- TODO: add the rest of tomorrow's plan here -->
 
 
 ## History
 
-```mermaid
-timeline
-    title From kernel crisis to AI agents
-    2005 : Linux loses its free BitKeeper license
-         : Linus Torvalds writes git in about 10 days
-    2008 : GitHub launches
-         : git plus a social layer
-    2011 : GitLab arrives
-    2016 : Google Code shuts down
-    2018 : Microsoft buys GitHub for $7.5B
-    2021 : GitHub Copilot
-    2026 : AI agents open over 40% of pull requests
-```
+| Year | What happened |
+|---|---|
+| **2005** | Linus Torvalds writes git |
+| **2008** | GitHub launches |
+| **2018** | Microsoft buys GitHub for $7.5B |
+| **2021** | GitHub Copilot |
+| **2026** | AI agents open over 40% of pull requests |
 
-### Why Linus made git
-* Fast
-* Distributed - everyone has the whole history
-* Trust nothing - every version is checksummed
+### Why Linus Torvalds made git
 
-### The competitors
-
-| | Since | Story |
+| Principle | What it means | Why it won |
 |---|---|---|
-| SourceForge | 1999 | The old guard |
-| Google Code | 2006 | Shut down in 2016 |
-| Bitbucket | 2008 | Atlassian - pairs with Jira |
-| GitLab | 2011 | Open core - host it yourself |
+| **Fast** | Branching and merging take seconds | Trying an idea is cheap, so people try ideas |
+| **Distributed** | Every copy holds the whole history | Work offline, no single point of failure |
+| **Trust nothing** | Every version is checksummed | History cannot be changed quietly |
+| **Free** | Open source, no license to lose | Anyone can adopt it and build on it |
+
+* Linux proved it at scale. The design is why everyone else followed.
 
 ### Who won?
 
@@ -62,10 +56,10 @@ pie showData
 
 *Self-reported and overlapping - plenty of people have more than one account.*
 
-### Why Microsoft paid $7.5B
-* Developers are the customer
-* Open source is where the work happens
-* On-ramp to Azure, VS Code, and Copilot
+* GitHub is dominant, but it is not the only player
+* **GitLab** - host it yourself
+* **Bitbucket** - pairs with Jira
+* **SourceForge** - the old guard
 
 ### And now: AI
 * March 2026 - agents open **17%** of pull requests
@@ -73,57 +67,57 @@ pie showData
 * The workflow below is the same one the agents use
 
 
-## Motivation - Why Data Science Lives Here
+## Motivation - Two Birds, One Stone
 
-* **Reproducibility** - code + history = your methods section
-* **Your tools live here**
-* **It renders** - notebooks, markdown, CSVs, diagrams (this page!)
-* **Collaboration** - classes, capstones, labs
-* **Portfolio** - employers look
-
-### Your tools live here ... mostly
-
-| Built on GitHub | Mirror only |
-|---|---|
-| pandas, NumPy, SciPy, scikit-learn | R (Subversion) |
-| matplotlib, Jupyter, tidyverse | Linux (mailing list) |
-| PyTorch, TensorFlow, Hugging Face | git itself (mailing list) |
-| Python, VS Code, uv, DuckDB, Spark | PostgreSQL (mailing list) |
-
-* GitHub &ne; git &ne; open source
-
-### Free and open culture
-
-| What | License family | Examples |
-|---|---|---|
-| Code | Software licenses | MIT, BSD, Apache, GPL |
-| Docs, data, slides, comics | Creative Commons | CC BY, CC BY-NC, CC0 |
-| No license at all | All rights reserved | public &ne; open |
-
-* Creative Commons says: do not use CC for software
-* The xkcd up top? CC BY-NC
-<!-- * Live example: look at the LICENSE file in this repo -->
-
-### One caveat
-* git is for code, not big data
+1. **Collaboration** - the industry standard for working on code together
+2. **Portfolio** - show off the work you did
 
 
 ## Jargon
 
-| Term | What it is |
-|---|---|
-| **git** | Software - version control |
-| **GitHub** | Company - owned by Microsoft |
-| **github.com** | Website - the front end |
+| | Term | What it is |
+|---|---|---|
+| <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="32" alt="git logo"> | **git** | Software - version control |
+| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height="32" alt="GitHub logo"> | **GitHub** | Company - owned by Microsoft |
+| <img src="https://github.com/fluidicon.png" height="32" alt="github.com icon"> | **github.com** | Website - the front end |
 
-| Term | Think of it as |
-|---|---|
-| repository (repo) | Project folder + its whole history |
-| commit | A save point with a note |
-| branch | A parallel timeline |
-| fork | Your own copy of someone else's repo |
-| pull request (PR) | "Please take my changes" |
-| README | The welcome mat |
+| Term | Belongs to | Think of it as |
+|---|---|---|
+| repository (repo) | git | Project folder + its whole history |
+| commit | git | A save point with a note |
+| branch | git | A parallel timeline |
+| fork | GitHub | Your own copy of someone else's repo |
+| pull request (PR) | GitHub | "Please take my changes" |
+| README | General computing | The welcome mat |
+
+
+## Under the Hood
+
+**git** runs on your computer. **GitHub** is the copy in the cloud.
+
+```mermaid
+flowchart LR
+    subgraph local [Your computer - git]
+        W[Working directory] -->|git add| S[Staging area]
+        S -->|git commit| L[Local repo]
+    end
+    subgraph cloud [The cloud - GitHub]
+        R[(Remote repo)]
+    end
+    L -->|git push| R
+    R -->|git pull| W
+```
+
+### The few moves
+
+| Command | What it does | Talks to GitHub? |
+|---|---|---|
+| `git clone` | Get a copy | Yes |
+| `git status` | Where am I? | No |
+| `git add` | Stage it | No |
+| `git commit` | Save point | No |
+| `git push` | Send it up | Yes |
+| `git pull` | Bring it down | Yes |
 
 
 ## GitHub is Social Media
@@ -153,26 +147,20 @@ pie showData
 
 ## The Standard Workflow
 
-```mermaid
-gitGraph
-    commit id: "start"
-    commit id: "more work"
-    branch feature
-    checkout feature
-    commit id: "new idea"
-    commit id: "fix typo"
-    checkout main
-    commit id: "teammate's work"
-    merge feature id: "merge the PR"
-```
+You are a data scientist. This is the loop you will see every day.
 
-1. **Branch** - step off of main
-2. **Commit** - save points
-3. **Pull request** - ask to come back
-4. **Review** - a human (or an agent) looks
-5. **Merge** - back on main
+| Step | What you do | Whose word |
+|---|---|---|
+| 1. **Fork** | Not your repo? Make your own copy first | GitHub |
+| 2. **Branch** | Step off of main | git |
+| 3. **Commit** | Save points | git |
+| 4. **Pull request** | Ask to come back | GitHub |
+| 5. **Review** | A human (or an agent) looks | GitHub |
+| 6. **Merge** | Back on main | git |
 
-* Not your repo? **Fork** first, then the same five steps
+* Your own repo? Skip step 1.
+
+<!-- TODO: workflow graphic goes here - see To-do -->
 
 
 ## Live Demo - Clicking on Everything
@@ -186,40 +174,20 @@ gitGraph
 * Insights
 
 
-## Under the Hood
-
-```mermaid
-flowchart LR
-    W[Working directory] -->|git add| S[Staging area]
-    S -->|git commit| L[Local repo]
-    L -->|git push| R[(GitHub)]
-    R -->|git pull| W
-```
-
-### The few moves
-
-| Command | What it does |
-|---|---|
-| `git clone` | Get a copy |
-| `git status` | Where am I? |
-| `git add` | Stage it |
-| `git commit` | Save point |
-| `git push` | Send it up |
-| `git pull` | Bring it down |
-
-### And when it all goes wrong
-* See the Preamble
-
-
 ## Homework
 <a href="../../badges/github.md"><img src="../../content/images/github-badge.png" alt="GitHub badge"></a>
 
 ### Earn the [GitHub badge](../../badges/github.md)
 
+## When in doubt, see the [Preamble](#preamble)
 
-## Sources
-* [GitHub Octoverse 2026](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/) - 225M+ accounts, agent pull requests
-* [Source code hosting market share 2026](https://safeguard.sh/resources/blog/source-code-hosting-market-share-2026) - GitLab accounts, survey data
-* [GitHub statistics](https://www.getpanto.ai/blog/github-statistics) - Bitbucket accounts
-* [Why R is not on GitHub](https://stat.ethz.ch/pipermail/r-devel/2014-August/069609.html)
-* [Creative Commons on software](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software)
+
+## To-do
+*Speaker notes - remove before the talk.*
+
+- [ ] **Software, not data** - git is version control for software and GitHub hosts software. Neither is where the data lives. Find the right moment in the talk for this.
+- [ ] **Commit graph questions** - this is a presentation, not a workshop. Decide how to deliver the three questions. The old lesson had a fourth: what data would make the answers to question 1 more accurate?
+- [ ] **"Think of it as" column** - rewrite, it can be better.
+- [ ] **Workflow graphic** - find one made by GitHub. Candidate: the [GitHub flow picture on Microsoft Learn](https://learn.microsoft.com/en-sg/training/modules/introduction-to-github/3-components-of-github-flow). Check reuse terms before embedding.
+- [ ] **Tomorrow** - add the rest of the plan to the Goal section.
+- [ ] **Logos** - confirm the three jargon logos render on github.com.
