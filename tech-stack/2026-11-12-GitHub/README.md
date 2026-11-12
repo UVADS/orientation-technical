@@ -18,33 +18,28 @@
 * The standard workflow
 * Live demo
 
-**Tomorrow:** Practice, Practice, Practice
+**"Tomorrow":** Practice, Practice, Practice
 * [GitHub badge](../../badges/github.md)
+* Work on a side project using GitHub
+* Work on an open source project (Ambitious)
 <!-- TODO: add the rest of tomorrow's plan here -->
 
 
 ## History
 
-| Year | What happened |
-|---|---|
-| **2005** | Linus Torvalds writes git |
-| **2008** | GitHub launches |
-| **2018** | Microsoft buys GitHub for $7.5B |
-| **2021** | GitHub Copilot |
-| **2026** | AI agents open over 40% of pull requests |
-
-### Why Linus Torvalds made git
-
-| Principle | What it means | Why it won |
+| Year | Event | Motivation |
 |---|---|---|
-| **Fast** | Branching and merging take seconds | Trying an idea is cheap, so people try ideas |
-| **Distributed** | Every copy holds the whole history | Work offline, no single point of failure |
-| **Trust nothing** | Every version is checksummed | History cannot be changed quietly |
-| **Free** | Open source, no license to lose | Anyone can adopt it and build on it |
+| **2005** | Linus Torvalds writes git | necessity and philosophy [ai take](wg)|
+| **2008** | GitHub launches | add social layer to git |
+| **2012** | 100M$ Series A raise (first external funds) | :eyes: |
+| **2018** | Microsoft buys GitHub for $7.5B | :eyes: :eyes: |
+| **2021** | GitHub Copilot | AI integration |
+| **2026** | AI agents open over 40% of pull requests | |
 
-* Linux proved it at scale. The design is why everyone else followed.
+<a href="always.jpg"><img src="always.jpg" width="35%" alt=""></a>
 
-### Who won?
+
+### Today's Landscape for Social Coding
 
 ```mermaid
 pie showData
@@ -54,17 +49,6 @@ pie showData
     "Bitbucket" : 15
 ```
 
-*Self-reported and overlapping - plenty of people have more than one account.*
-
-* GitHub is dominant, but it is not the only player
-* **GitLab** - host it yourself
-* **Bitbucket** - pairs with Jira
-* **SourceForge** - the old guard
-
-### And now: AI
-* March 2026 - agents open **17%** of pull requests
-* September 2026 - agents open **over 40%**
-* The workflow below is the same one the agents use
 
 
 ## Motivation - Two Birds, One Stone
