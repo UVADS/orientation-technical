@@ -22,7 +22,6 @@
 * [GitHub badge](../../badges/github.md)
 * Work on a side project using GitHub
 * Work on an open source project [Ambitious]
-<!-- TODO: add the rest of tomorrow's plan here -->
 
 
 ## Motivation and History
@@ -161,13 +160,10 @@ You are a data scientist. This is the loop you will see every day.
 | 5 |**Review** | dev and owner discuss |  |
 | 6 |**Merge** | owner pulls in changes | git |
 
-* Your own repo? Skip step 1.
-
-<!-- TODO: workflow graphic goes here - see To-do -->
-
+### A more complicated graphic
 ![](workflow-complex.png)
 
-## Live Demo - Clicking on Everything
+## Live Demo
 * README
 * Commits and history
 * Blame
@@ -181,10 +177,17 @@ You are a data scientist. This is the loop you will see every day.
 ## Homework
 <a href="../../badges/github.md"><img src="../../content/images/github-badge.png" alt="GitHub badge"></a>
 
-### Earn the [GitHub badge](../../badges/github.md)
 
-## When in doubt, see the [Preamble](#preamble)
+**"Tomorrow":** Practice, Practice, Practice
+* [GitHub badge](../../badges/github.md)
+* Work on a side project using GitHub
+* Work on an open source project [Ambitious]
+<!-- TODO: add the rest of tomorrow's plan here -->
 
+
+
+
+# When in doubt, see the [Preamble](#preamble)
 
 ## To-do
 *Speaker notes - remove before the talk.*
