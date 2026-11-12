@@ -152,14 +152,14 @@ You are a data scientist. This is the loop you will see every day.
 
 ![](workflow-simple.png)
 
-| Step | | jargon |
-|---|---|---|
-| 1. **Fork** | developer makes a copy | GitHub |
-| 2. **Branch** | dev makes new line | git |
-| 3. **Commit** | dev devs | git |
-| 4. **Pull request** | dev announces start of conversation | GitHub |
-| 5. **Review** | dev and owner discuss |  |
-| 6. **Merge** | owner pulls in changes | git |
+| Step | Term | Description | Jargon |
+|---|---|---|---|
+| 1 |**Fork** | developer makes a copy | GitHub |
+| 2 |**Branch** | dev makes new line | git |
+| 3 |**Commit** | dev devs | git |
+| 4 |**Pull request** | dev announces start of conversation | GitHub |
+| 5 |**Review** | dev and owner discuss |  |
+| 6 |**Merge** | owner pulls in changes | git |
 
 * Your own repo? Skip step 1.
 
